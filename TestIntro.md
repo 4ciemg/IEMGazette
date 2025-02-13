@@ -1,8 +1,8 @@
 ***
 !!! info IEMGazette
-	A proto-wiki/blog (autism archive) for /iemg/. 
-	Curated content by yours truly separated into "articles". The first few ones are permanent, followed by the table of content for the monthly issue.
-	Reset on the 7th of each month.
+A proto-wiki/blog (autism archive) for /iemg/. 
+Curated content by yours truly separated into "articles". The first few ones are permanent, followed by the table of content for the monthly issue.
+Reset on the 7th of each month.
 
 !!! danger 
 	!!! note
