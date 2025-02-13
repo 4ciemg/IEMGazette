@@ -1,8 +1,8 @@
-
+# January 2025 Issue
 
 ***
 ***
-# Nightjar Acoustics Duality Impressions
+## Nightjar Acoustics Duality Impressions
 *31/01/2025*
 
 
@@ -21,7 +21,7 @@
 
 ***
 ***
-# Snowsky Retro Mini & Moondrop Echo-A Impressions
+## Snowsky Retro Mini & Moondrop Echo-A Impressions
 *31/01/2025*
 
 >![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){40%:40%}
@@ -46,7 +46,7 @@
 
 ***
 ***
-# FAAEAL Unbounded, Mini Slender Waist, and Astrotec GX70 Plus Impressions
+## FAAEAL Unbounded, Mini Slender Waist, and Astrotec GX70 Plus Impressions
 *29/01/2025*
 
 >![FAAEAL Unbounded, Mini Slender Waist, and Astrotec GX70 Plus Impressions](https://i.postimg.cc/nrQ2gXQz/FAAEAL-Unbounded-Mini-Slender-Waist-and-Astrotec-GX70-Plus-Impressions.jpg){40%:40%}
@@ -62,7 +62,7 @@
 
 ***
 ***
-# Too Many IEM Impressions
+## Too Many IEM Impressions
 *04-28/01/2025*
 
 Make it stop...
@@ -228,7 +228,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# Actually putrid wtf is wrong with all of you
+## Actually putrid wtf is wrong with all of you
 *26/01/2025*
 
 >![Actually putrid wtf is wrong with all of you](https://i.postimg.cc/PfgnxZyS/Actually-putrid-wtf-is-wrong-with-all-of-you-1.jpg){25%:25%}
@@ -255,7 +255,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# KBear KB02 Impressions
+## KBear KB02 Impressions
 *24/01/2025*
 
 >![KBear KB02 Impressions](https://i.postimg.cc/zG5mwr9W/KBear-KB02-Impressions-1.jpg){40%:40%}
@@ -277,7 +277,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# Tanchjim Mino (Asano Tanch Edition) Measurement
+## Tanchjim Mino (Asano Tanch Edition) Measurement
 *20/01/2025*
 
 >![Tanchjim Mino (Asano Tanch Edition) Measurement](https://i.postimg.cc/4x1DB0g0/mino-sasano-measurement.jpg){60%:60%}
@@ -287,7 +287,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# FiiO HS20 Impressions
+## FiiO HS20 Impressions
 *19/01/2025*
 
 >![FiiO HS20 Impressions](https://i.postimg.cc/MGPh8jXb/Fii-O-HS20-Impressions.jpg){50%:50%}
@@ -313,7 +313,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# BGVP DMA Impressions
+## BGVP DMA Impressions
 *17/01/2025*
 
 >![BGVP DMA Impressions](https://i.postimg.cc/63Fg8Jr8/BGVP-DMA-Impressions.jpg){50%:50%}
@@ -334,7 +334,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# New Noteworthy Releases (Jan. 2025)
+## New Noteworthy Releases (Jan. 2025)
 *14/01/2025*
 
 >New noteworthy release post. Haven't done this in ages, so I'll keep this only to very fresh releases to ease in to it.
@@ -390,7 +390,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# FiiO BTR11 Issue
+## FiiO BTR11 Issue
 *13/01/2025*
 
 >I think I (or one of my neighbor) just got f\*\*d.
@@ -401,7 +401,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# Sony/Tanchjim Anon finishes his collection
+## Sony/Tanchjim Anon finishes his collection
 *12/01/2025*
 
 
@@ -433,7 +433,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 
 ***
 ***
-# /iemg/'s List of Sins
+## /iemg/'s List of Sins
 *11/01/2025*
 
 Been looking for this for a while now.
@@ -483,7 +483,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# Xenns Mangird Tea Pro Impressions
+## Xenns Mangird Tea Pro Impressions
 *09/01/2025*
 
 >![Xenns Mangird Tea Pro Impressions](https://i.postimg.cc/rybYjkts/Xenns-Mangird-Tea-Pro-Impressions-1.jpg){50%:50%}
@@ -501,7 +501,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# Tanchjim Mino Asano Tanch Edition Review
+## Tanchjim Mino Asano Tanch Edition Review
 *08/01/2025*
 
 >![Tanchjim Mino Asano Tanch Edition Review](https://i.postimg.cc/nz41cgyR/Tanchjim-Mino-Asano-Tanch-Edition-Review-1.jpg){50%:50%}
@@ -518,7 +518,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# KZ EDC Pro Stealth Revision
+## KZ EDC Pro Stealth Revision
 *06/01/2025*
 
 >Here are the promised pics for the two EDC Pro samples I have. Top row is the old version (purchased early November), the bottom the new version (mid December).
@@ -534,7 +534,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# TRN MT5 Measurements (n=3)
+## TRN MT5 Measurements (n=3)
 *06/01/2025*
 
 >![TRN MT5 Measurements (n=3)](https://i.postimg.cc/kg2Ft2rt/TRN-MT5-Measurements-n-3-1.png){50%:50%}
@@ -551,7 +551,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# HiBy Yves Impressions
+## HiBy Yves Impressions
 *06/01/2025*
 
 >![HiBy Yves Impressions](https://i.postimg.cc/3JnnGMdz/Hi-By-Yves-Impressions.png){50%:50%}
@@ -562,7 +562,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# Nici HiFI-20 cable (Red Moon Frost Plume) Impressions
+## Nici HiFI-20 cable (Red Moon Frost Plume) Impressions
 *05/01/2025*
 
 >![Nici HiFI-20 cable (Red Moon Frost Plume) Impressions](https://i.postimg.cc/Y0tz48kp/Nici-Hi-FI-20-cable-Red-Moon-Frost-Plume-Impressions.jpg){30%:30%}
@@ -578,7 +578,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# 7Hz x Crinacle Salnotes Zero:2 Review
+## 7Hz x Crinacle Salnotes Zero:2 Review
 *05/01/2025*
 
 >![7Hz x Crinacle Salnotes Zero:2 Review](https://i.postimg.cc/J73T1Hmr/7-Hz-x-Crinacle-Salnotes-Zero-2-Review.png){40%:40%}
@@ -588,7 +588,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# FATfreq x HBB Deuce Impressions
+## FATfreq x HBB Deuce Impressions
 *05/01/2025*
 
 >Speaking of pos, Fatfreq Deuce is actually decent. Probably the best NGGAR collab yet.
@@ -597,7 +597,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# iBasso DX340 File Support
+## iBasso DX340 File Support
 *03/01/2025*
 
 >![iBasso DX340 File Support](https://i.postimg.cc/c4sF614Q/i-Basso-DX340-File-Support.jpg){15%:15%}
@@ -607,7 +607,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# BGVP Pentaconn Clone Tips Impressions
+## BGVP Pentaconn Clone Tips Impressions
 *02/01/2025*
 
 >![BGVP Pentaconn Clone Tips Impressions](https://i.postimg.cc/B69g34VP/BGVP-Pentaconn-Clone-Tips-Impressions.png){50%:50%}
@@ -619,7 +619,7 @@ Been looking for this for a while now.
 ***
 ***
 
-# KZ Zenith Impressions
+## KZ Zenith Impressions
 *01/01/2025*
 
 >![KZ Zenith Impressions](https://i.postimg.cc/Cx27vjCN/KZ-Zenith-Impressions-1.jpg){40%:40%}
@@ -633,7 +633,7 @@ Been looking for this for a while now.
 
 ***
 ***
-# Kefine Klean Channel Imbalance (Clogging & Condensation)
+## Kefine Klean Channel Imbalance (Clogging & Condensation)
 *01/01/2025*
 
 >Got the Kleans and on their second week he Right Earpiece began losing volume. Put it back in the case with silica gel per recommendations but the loss starts again after several minutes of use. I'm going to return them unless any vets have insight on preventing this spontaneous supposed 'Condensation' issue
