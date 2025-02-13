@@ -24,7 +24,7 @@
 ## Snowsky Retro Mini & Moondrop Echo-A Impressions
 *31/01/2025*
 
->![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){40%:40%}
+>![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){width=400 height=200}
 >Echo Mini arrived. Pretty good for the price. Super basic UI and built quality, but it just wors and plays everything perfectly.
 >Also new moondropped dongle
 >>How's the battery? Is it removable? I hope so
