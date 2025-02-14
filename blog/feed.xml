@@ -4,14 +4,14 @@
     <title>Blog</title>
     <link>/blog/</link>
     <description>Blog</description>
-    <lastBuildDate>Fri, 14 Feb 2025 05:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:05:01 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
     <item>
       <title>January 2025 Issue</title>
       <guid isPermaLink="true">/blog/january-2025/</guid>
       <description>31/01/2025</description>
-      <pubDate>Fri, 14 Feb 2025 05:51:57 GMT</pubDate>
+      <pubDate>Fri, 14 Feb 2025 06:05:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
