@@ -12,6 +12,7 @@
 >>>\>titan was mud city
 >>>agreed
 >>>\>duality with the bassier switch was mud city
+>>>
 >>>interesting take. for me the duality sounds cleaner than the singularity
 >
 >>and yeah in general i'd say mega-bass signatures are definitely "once in a while," kind of pos. they're not really meant to daily, same as any other exaggerated tunings
@@ -28,6 +29,7 @@
 >
 >
 >Echo Mini arrived. Pretty good for the price. Super basic UI and built quality, but it just wors and plays everything perfectly.
+>
 >Also new moondropped dongle
 >>How's the battery? Is it removable? I hope so
 >>>nta but pretty sure the echo mini doesn't have an easy to replace battery, only the retro nano has that feature
@@ -39,11 +41,14 @@
 >>god it's adorable, would get if I didn't just buy the Hiby R1.
 >
 >>\>Also new moondropped dongle
+>>
 >>how is it compared to jm20?
 >>>My JM20 hasn't arrived yet, but compared to the JA21, GraveAudio DA06 and Apple Dongle the built quality is definitely better and it gets really loud. In terms of sound it's basicly like most other popular dongles in that price range, but maybe it's placebo but it's sound a bit "boomy" or bass heavy.
 >
 >>I have one too (same colour - good choice)
+>>
 >>It's great as a shuffle machine, but takes ages to actually choose tracks if you have a lot on there
+>>
 >>I've found the battery is good; played it for about 4 hours and lost 1 out of 4 bar, from the 4.4 jack on high gain (playing mp3)
 
 
@@ -55,11 +60,18 @@
 >![FAAEAL Unbounded, Mini Slender Waist, and Astrotec GX70 Plus Impressions](https://i.postimg.cc/nrQ2gXQz/FAAEAL-Unbounded-Mini-Slender-Waist-and-Astrotec-GX70-Plus-Impressions.jpg){width=350}
 >
 >\>Faaeal Unbounded IEM
+>
 >Solid build. Resin quality similar to Celest Wyvern (not super dense, but light and smooth) + aluminum faceplate, color-matched nozzle with lip. Wearing ergonomics are fine, maybe the cable earhooks pull in a non-ideal way (common QDC cable complaint), but I can find good seal as is. Stock tips are flimsy trash. Average sensitivity.
+>
 >Tuning is decent, driver techs compete well against any other sub-$50. Moderate V-shape: good sub dive, skews thicker with mid bass but avoids bloat, typical pinna gain + slight elevation 5-8kHz, treble extends well. An unassuming recipe with pleasant results. I redeemed for ~$12.
+>
 >\>Faaeal "Mini Slender Waist" Cable
->The stock cable it comes with, 3.5mm QDC. Faaeal sells it a la carte ~$10. The machined hardware bits (plug, splitter, etc.) are fancy but unreasonably fat. >Thankfully they are aluminum, so relatively light. The actual wire strikes the right balance of durability and pliability. Does not hold memory or kinks, feels good, minimal microphonics.
+>The stock cable it comes with, 3.5mm QDC. Faaeal sells it a la carte ~$10. The machined hardware bits (plug, splitter, etc.) are fancy but unreasonably fat.
+>
+>Thankfully they are aluminum, so relatively light. The actual wire strikes the right balance of durability and pliability. Does not hold memory or kinks, feels good, minimal microphonics.
+>
 >\>Astrotec GX70 Plus (not pictured)
+>
 >Utter pos. Even at $10 is inferior to KZ slop in every way.
 
 
@@ -76,30 +88,38 @@ Make it stop...
 >Mass pos impressions blogpost (STORM edition):
 >
 >\>Ziigaat X Jay's Audio Estrella
+>
 >Nice U-shape, tight detailed bass with lots of crisp treble reminiscent of summit-fi sets. It’s like a mini-Symphonium Crimson. Slightly better treble extension than the Tea Pro. Equally resolving male and female vocals. Tonality is okay but flute instruments like the Chinese Dizi sound overly energetic. Others irl found the treble too hot, but I had no issues (I used Pentaconn AL tips). Impressive set, I think the Estrella competes very well against similar U-shape pos like the Mangird Tea Pro and Hype 4. 10/10.
 >
 >\>Linsoul x HBB Jupiter
+>
 >Bass is full, warm and enveloping, very similar to the Nightjar Singularity. The low-end of the Jupiter is executed well and agreeable. But the rest of the FR are completely borked. Very dull treble which causes piano, wind and string instruments to sound off. Timbre is so wrong that snare drums sound like fucking maracas. Are the EST drivers broken or was this tuning intentional? 1/10.
 >
 >\>7hz Timeless II
+>
 >Comes with 4 tuning nozzles, it was a bitch to change em so I only auditioned the golden ones. The wide-bore nozzle is incredibly sibilant and shouty, with tons of planar zing. Not listenable.
 >
 >The small-bore nozzle makes the pos sound warmer and a thicker noteweight, basically identical to the S12 2024. This nozzle also nearly eliminated all issues of planar timbre. Given that the S12 2024 exists the Timeless II is technically overpriced, but the Timeless II is also the least metallic sounding planar yet. 7/10.
 >
 >\>Ice Labs Spectrumica
+>
 >Warm neutral with peaky treble. Sub-bass is lacking but mid-bass is highly resolving, leagues better than the Singularity. Honestly the Spectrumica has the best mid-bass I’ve ever heard, and it is quite the male vocals specialist too. But treble is slightly hot and needs refinement. The thick lower-mids also makes bass guitar sound sickening sweet. It is tasteful coloration though. 8.5/10.
 >>
 >>\>Subtonic STORM
+>>
 >>Reference neutral, with a slight brightness due to the lack of physicality in the sub-bass. The entire frequency response is equally resolving, with TOTL separation and imaging. There’s even some semblance of soundstage, with distinct areas of spaciousness (must be some driver fuckery from using 7 BAs). By all accounts this is a very technical set, but it is academically neutral, boring even, like listening to studio monitors. TOTL everything but plagued by anemic sub-bass and treble that lacks sparkle/extension. 9/10.
 >>![Too Many IEM Impressions](https://i.postimg.cc/fT2fLxPN/Too-Many-IEM-Impressions-2.png)
 >>
 >>\>Symphonium X Elise Audio Europa
+>>
 >>Basically the Crimson with a tad smoother treble. Just refer to Crimson impressions. Europa is a better generalist. 9/10.
 >>
 >>\>Symphonium Titan
+>>
 >>Bassy V, with some shoutiness. Bass has good depth and decay, but only at high volumes. A less resolving Crimson with heavier noteweight, it’s a downgrade but I guess the Titan is also cheaper. 7/10.
 >>
 >>\>Soranik MEMS-3S 2025
+>>
 >>Bright neutral. At high volume there’s a slight metallic zinginess akin to planar timbre. I don’t get the point of this meme driver which requires you to lug around a separate amplifier. The Timeless II which I heard earlier in the day is just as resolving and “technically capable” as this $2500 pos. Sound itself is 7/10 like Timeless, but this entire setup is gimmicky and HBB shilling it leaves a sour taste in my mouth so 1/10.
 >>>![Too Many IEM Impressions](https://i.postimg.cc/sgbPP3yH/Too-Many-IEM-Impressions-3.jpg)
 >>>
@@ -114,6 +134,7 @@ Make it stop...
 >A lot of good pos today.
 >
 >\>Myer Sliivo SL-41 MK2
+>
 >Warm neutral set. Full-sounding lower-mids with good noteweight. Sub-bass rumbles with decent physicality. Quite a decent basshead set, but bass is not as tight sounding as the Tea Pros.
 >
 >Decent resolution, but could do with a tad more mid-treble and air. Lower-register instruments also tend to overpower the upper-register during busy tracks.
@@ -121,6 +142,7 @@ Make it stop...
 >Good alternative for listeners who dislike shouty Harman pos like the SM4. 8/10.
 >
 >\>Topping ArpegEar Hane
+>
 >The tuning switch for the demo was lost so I only listened to the Up/Up/Down/Down config.
 >
 >Harman with midbass. But still retains a good amount of pinna and air for resolution. Less shouty than SM4 too. The Sliivo SL-41’s midbass graphs similarly to the Hane, but the Sliivo sounds a lot warmer than the Hane.
@@ -128,11 +150,13 @@ Make it stop...
 >Apparently the Hane is just 1-DD, but it is WAY more resolving than the Truthear Zero & Zero Reds. To me the Hane is blind rec hall-of-fame territory. 10/10.
 >
 >\>FATfreq x HBB Deuce
+>
 >Good subbass slam, but tranny tuck causes Deuce to sound slightly lean. Great air and sparkle, but treble is a little sharp. Cymbal and hi-hats sound too energetic.
 >
 >In a vacuum the Deuce isn’t bad, it’s “hi-res” enough but the Hane mogs this pos for cheaper and without resorting to tranny tuck. 8/10.
 >
 >\>Rossi&Wing First Light
+>
 >If you’ve used Lizer Lab Jijujet tips, this pos sounds exactly like that.
 >
 >“Immersive concert hall” tuning. SUPER NICHE sound signature. Boomy low-end and thick midrange. Lack of pinna gain kills vocal clarity.
@@ -145,9 +169,11 @@ Make it stop...
 >>Part 2 of impressions.
 >>
 >>\>Forté Ears Macbeth
+>>
 >>Straightforward pos, reminds me of the Hype 4. U-shape tuning with the added benefit of BCD for added bass texture. Hype 4 has better treble and air but Macbeth has better bass. Severely overpriced when you can just buy the Hype 4 (or Tea Pro) but good sound is good sound. 9/10.
 >>
 >>\>Unique Melody Multiverse Mentor
+>>
 >>Bassy warm with some sparkle. Poor subbass and gets too warm on certain tracks. Pillowy mid-bass causes bass guitar plucks to lack articulation with an unnaturally long decay. But male vocals sound really lush, so at least this overpriced pos is good for something. 5/10.
 
 >![Too Many IEM Impressions](https://i.postimg.cc/QtYYRL46/Too-Many-IEM-Impressions-6.jpg)
@@ -155,32 +181,42 @@ Make it stop...
 >Also, I brought my Annihilator to A/B test with the Storm. Some notes:
 >
 >\>Anni is warmer sounding, Storm is leaner which lets it “cheat out” more resolution in the bass and midrange
+>
 >\>Anni has more treble extension, which causes breathier female vocals
+>
 >\>Songs with heavy techno/industrial instrumentals sound “muddy” on the Anni, the Storm sounds cleaner (a game-changer for a few tracks)
+>
 >\>Storm is generally more resolving across the frequency response range
+>
 >\>Storm has better separation
+>
 >\>Only real advantage the Anni has is its treble. The boosted lower-mids is more subjective and has its pros and cons
 >
 >Could be a grass-is-greener scenario or brain burn-in, but I’m liking the Storm more. Although I'm still on the fence and I'm skeptical over whether this honeymoon is gonna last.
 
+
 AAAAAAAAAAAAAAAAAAAAAAAAH
 
-
 >![Too Many IEM Impressions](https://i.postimg.cc/d1hgQtyM/Too-Many-IEM-Impressions-7.png)
+>
 >Mass pos impressions (meteor edition):
 >
 >\>Moondrop Meteor
+>
 >Sound signature is bass-lite, airy, bright neutral, kinda like the Cadenza 4/Truthear Zero (blue). Unfortunately, treble is mildly harsh, female vocals end with a sharp ‘SH’ in its articulation, but easily remedied with tip-rolling. Good for EDM/electronic, though it’s bass-lite tuning does handicap note-weight and the timbre of instruments.
 >
 >Stupid marketing gimmick, but sound is okay. Side-grade to Cadenza 4. 7/10.
 
 >\>Truthear Hexa
+>
 >Even weaker low-end than the Meteor. Absolutely terrible for classical – initial attack lacks bite due to shit bass, while decay is unnatural due to poor treble extension. But resolution and male vocals are decent I guess. 5/10.
 >
 >\>64audio Solo
+>
 >Solo is just a bassy S12. With the same planar zing, and the same sibilance. At least the low-end is enjoyable. Male vocals sound overly husky for some reason. Side-grade to all planars on the market. 6.5/10.
 >
 >\>Symphonium x Nightjar Meteor
+>
 >The BETTER Meteor. Bassy V tuning, reminiscent of the Elysian Annihilator 2023. Enjoyable low-end and tons of sparkle without being harsh. Very fun to listen to. Only con is that it suffers from BA bass and could use a bit more slam.
 >
 >95% of the Annihilator for one-fifth of the price. Even better if you can find a used set. 9.5/10.
@@ -195,9 +231,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >Mass pos blogpost:
 >
 >\>Thieaudio Oracle MK3
+>
 >Has that JM-1 timbre. Sounds like a Mega5EST with more upper-mids/treble energy. Better female vocals than M5E. But also slightly peaky and harsh. >Has great mids but bass could use more slam. Less sibilant than Dusk at least. 7/10.
 >
 >\>Softears Volume S
+>
 >Low impedance – Warm neutral, like Zero Reds. Low impedance mode sounded muddy, midbass was boosted but it wasn’t clean. Also uppermids/female vocals had this veiling/masking effect, like someone placed a high density mesh filter over it.
 >
 >High impedance – Bright neutral, like Cadenza 4. Had nice treble and sparkle. The muddiness clears up in high impedance.
@@ -205,14 +243,17 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >I don’t get the hype. Both modes are decently good. But nothing ground-breaking. The Sliivo SL41 and Cadenza 4 are cheaper too, though I suppose you could make a case that the Volume S is a 2-in-1. 6.5/10.
 >
 >\>Truthear Gate
+>
 >Bright neutral. I can hear the backwave resonating in the enclosure so that’s a red flag. I’d choose the OG Salnotes Zero instead. 2/10.
 >
 >\>Spiral Ears SE5 Nebula
+>
 >Bright neutral, with that “concert-hall” soundstage tuning (like Rossi&Wing First Light). Like a mix of Hexa and P5+2.
 >
 >Super crisp treble (not in a good way). Definitely niche tuning, but sounds super immersive and highly resolving. 5/10.
 >
 >\>Astell&Kern x Empire Ears NOVUS
+>
 >U-shape with a bass-focus. Like a summit-fi Mangird Tea Pro. Mids and treble are average, and string instruments lack authority, but the bass is clean, tight and controlled. Separation on the drums is sublime. TOTL BCD bass. 9.5/10.
 >>summit fi tea pro sounds good, too bad the pos is uglier than your average new delhi h1b street shitter
 >
@@ -220,13 +261,16 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >>>what's wrong with effortposting?
 >
 >>\>Addendum on Volume S:
+>>
 >>I thought I was being a schizo when I heard the "veiled" female vocals on the Volume S because it wasn't mentioned by any of the reviewers, so I got my pals to demo it as well - they also noticed it. I don't think it's a result of tuning but rather an acoustic engineering issue - guessing some backwave in the nozzle? Alternatively it could be a QC problem isolated to my demo unit.
 >>
 >>Though saying that, my brain burnt-in to the Volume S quickly enough and I didn't noticed the veiling effect after 5~10 mins. So it's probably not that big of a deal.
 >
 >>Sir, have you tried the Prestige LTDs yet?
+>>
 >>\>10/10 right?
 >>>\>paying 1200$ for a pos
+>>>
 >>>i shigyy diggy
 >
 >>Volume S sounds like it graphs. Hyped by the people brainwashed into thinking hd600 is neutral.
@@ -275,12 +319,17 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >![KBear KB02 Impressions](https://i.postimg.cc/zG5mwr9W/KBear-KB02-Impressions-1.jpg){width=500}
 >
 >After being in PostNL limbo for a month, KB02 has arrived.
+>
 >Really good build and beautiful resin shell, especially for the $23 I paid.
+>
 >Sounds just like your typical 1DD, the bass is good, I don't really feel the bone conduction but if you hit the shell with your finger, you can hear a "boing" sound from the bone conductor vibrating.
+>
 >Perhaps it adds more weight to the 100-200hz, bass around that range sound fuller, I was expecting some kind of haptic feedback, but no, you can't even feel the shake with your fingers.
 >>as basically "Cadenza Pro," at the same price, i guess it's a welcome budget pos. i can't muster any concrete cons besides imagining it adds another point of failure, but if it's maybe-noticeable it's moot
 >>>KB01/KB02 or Cadenza would be just a matter of preference, I specifically picked 02 on sale for the BCD, even tho it's barely noticeable, the DD is solid.
+>>>
 >>>It also comes with 9 pairs of tips (SML, black/gray/white) and standard black 2 core cables.
+>>>
 >>>All in all, very satisfying purchase, one level above those cheapest plastic pos like gate and wankers.
 >
 >>One last thing about kb02, they have much lower sensitivity than average single DDs thanks to the BCD. Potential benefits would be lower hiss on noisy sources.
@@ -288,6 +337,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >![KBear KB02 Impressions](https://i.postimg.cc/ZK6tyRD4/KBear-KB02-Impressions-2.jpg){width=400}
 >
 >Some closeup.
+>
 >The nozzle has a metal grill, so I don't know what kind of tuning filter they used. At least that means earwax won't easily get in there if you remove them regularly.
 
 
@@ -299,6 +349,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >![Tanchjim Mino (Asano Tanch Edition) Measurement](https://i.postimg.cc/4x1DB0g0/mino-sasano-measurement.jpg){width=600}
 >
 >Mino measurements which will probably be included in the final review.
+>
 >Orange is with no DSP applied (ie all filters with no gain), purple is what Tanchjim calls Harman2016, and blue is that preset with a 3 dB cut at 3 khz. Solid stuff, 10 band PEQ.
 
 
@@ -337,18 +388,26 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >![BGVP DMA Impressions](https://i.postimg.cc/63Fg8Jr8/BGVP-DMA-Impressions.jpg){width=400}
 >
 >BGVPOS DMA has arrived. No unboxing because there's not much to show. My impressions so far (I suck at reviewing):
+>
 >\*Although the soundstage isn't very spacious, it has a perceivable atmosphere. There's decent imaging to the point your inner eye can almost see how an instrument is played.
+>
 >\*The instrument separation is great; you can single out one as easily as a thread in fabric and follow it as the song goes on.
+>
 >\*The detail retrieval is pretty nice; I've discovered new sounds in relatively familiar tracks (e.g., that background jingle in We Drift Like Worried Fire at around 4:50).
+>
 >\*The bass is textured and full-bodied but very lively and dynamic, also punchy when it needs to be. It extends beyond the soundstage, adding a lot to the atmosphere, and is definitely the highlight of this IEM.
+>
 >\*The vocals feel intimate and natural (note to myself: try listening to some ASMR), and the mids are pretty clean overall.
+>
 >\*The treble is crisp but can be very shouty (esp. in games) to the point I'll have to use EQ. What the fuck were they thinking?
+>
 >\*The channel imbalance is there. That pestering thought that you might be going deaf won't leave your mind once you've noticed it, even if you know about the imbalance.
 >
 >The build and comfort are where my biggest disappointment comes from. The build is standard, but no attempt was made to make it slightly more ergonomic. The nozzles are huge, almost as huge as the pain in the ass you experience looking for the right eartips. At least the nozzles have lips. The cable is thick and seems durable, but it's fairly heavy and pulls on your ears, making this IEM rather uncomfortable and even painful to wear for prolonged periods of time. Also, at one point, I started to feel tingling at what seemed to be the exact points BC holes made contact with my skin. Well, I suppose it proves that bone conduction works.
 >
 >Is it worth it? Maybe if you have money to spare and are interested in relatively obscure IEMs.
 >>\>tl;dr pos
+>>
 >>while i salute your sacrifice for the impressions, it was mostly in vain. on to the next pos eh
 
 ***
@@ -439,6 +498,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >>
 >>wtf is sneedaudio smoking lately
 >>>they really went
+>>>
 >>>\>neko wasn't retardedly overpriced enough? say less senpai
 >>>>Worse part is the release window coinciding with Moonderp Psyche, similarly priced with driver techs on top of a gold/silver waifu engraving by hand, instead of a pink abomination.
 
@@ -450,7 +510,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *13/01/2025*
 
 >I think I (or one of my neighbor) just got f\*\*d.
+>
 >Using BTR11, fine for the most part, even longer range/better connection than your average TRN crap, but moments ago it started to disconnect and connect randomly, I heard some music playing that was definitely not mine.
+>
 >Did Fiio use same fucking frequencies or device IDs or something? How the fuck I could connect to a neighbor and there's totally the possibility of my neighbor's connecting to me.
 >>we tried to warn you bro...
 
@@ -474,9 +536,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >At this point I think my collection is finished. The only thing is maybe getting a bluetooth dac with 4.4mm balanced.
 >
 >Current IEMs:
+>
 >Sony-M9, Unique Melody Mest mk2, Thieaudio monarch mk3, Tanchjim Origin.
 >
 >Current Gear:
+>
 >Hiby w3, Ibasso dx-180
 >>\>monarch mk3 has comparable bass with SIGNIFICANTLY better mid-range
 >>Well that's interesting, have you tried the monarch mk2? I find the midrange of the mk3 to sound thinner than its predecessor.
@@ -588,7 +652,9 @@ Been looking for this for a while now.
 >![Xenns Mangird Tea Pro Impressions](https://i.postimg.cc/rybYjkts/Xenns-Mangird-Tea-Pro-Impressions-1.jpg){width=500}
 >
 >Tea Pro has arrived.
+>
 >Impressions:
+>
 >Coherent with clean, rumbling bass, the extra subbbass can be felt. Treble is more sparkly than Tea 2 but not fatiguing. Perhaps due to the slightly more emphasis to subbass and upper mid/treble, the mids sound drier. Easy to drive.
 >
 >Bass: Tea Pro
@@ -696,6 +762,7 @@ Been looking for this for a while now.
 >>Aful Explorer has the same thing but in silver color and straight plug. The thickness makes them tangle free.
 >>>They're very good, the I3 MK3 also uses the same style but in white, also relatively cheap to buy it separately
 >>>>\>not purple
+>>>>
 >>>>This has to be deliberate for selling purple cables'
 >
 >>looks good. Glad people are on the 2 core I've kinda known it as my favorite for years
@@ -720,6 +787,7 @@ Been looking for this for a while now.
 *05/01/2025*
 
 >Speaking of pos, Fatfreq Deuce is actually decent. Probably the best NGGAR collab yet.
+>
 >Despite NGGAR seething at them
 >>I don't like them that much, I feel like the bass is wooly somehow. Using EQ to boost bass in other IEMs sounds cleaner to me. Somehow they're my most comfortable pos so I wish I liked them more, they fit like a glove in my ears.
 
