@@ -6,6 +6,7 @@
 *31/01/2025*
 
 >![Nightjar Acoustics Duality Impressions](https://i.postimg.cc/TYDNH4r9/Nightjar-Acoustics-Duality-Impressions.png){width=200}
+>
 >Listening to Duality for >30 mins gives me intense bass fatigue and a splitting headache, so I guess this is a PSA to the other anon who's eyeing the Duality. Hopefully you're not as bass-sensitive as I am.
 >>as among the few anons who have heard a variety of bassy singapore pos (singularity, duality, symphonium meteor, titan, etc.), i am very satisfied that i chose scarlet mini out of them all. besides scarlet, singularity and meteor appealed to me, the others not so. duality with the bassier switch was mud city, and switch off did not offer any significant improvement over singularity. titan was mud city and sounded slow as hell (too much unnatural decay), with less top-end clarity than scarlet. ofc opinions and comparisons are all over the place, but that's how i heard them.
 >>>\>titan was mud city
@@ -24,6 +25,7 @@
 *31/01/2025*
 
 >![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){width=300}
+>
 >Echo Mini arrived. Pretty good for the price. Super basic UI and built quality, but it just wors and plays everything perfectly.
 >Also new moondropped dongle
 >>How's the battery? Is it removable? I hope so
