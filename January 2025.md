@@ -30,6 +30,7 @@
 >![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){width=300}
 >
 >Echo Mini arrived. Pretty good for the price. Super basic UI and built quality, but it just wors and plays everything perfectly.
+>
 >Also new moondropped dongle
 >>How's the battery? Is it removable? I hope so
 >>>nta but pretty sure the echo mini doesn't have an easy to replace battery, only the retro nano has that feature
