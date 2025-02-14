@@ -1,6 +1,6 @@
 branding:
   title: IEMGazette
-  logo: :icon-book:
+  icon: book
 
 links:
   - text: Archive
