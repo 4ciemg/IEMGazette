@@ -9,3 +9,7 @@ links:
   - text: Size Database
     icon: log
     link: https://cryptpad.fr/sheet/#/2/sheet/view/n2mA+-1PHR6zeFf7yeCm9bRbwlL993dLZajDduujqsI/embed/
+
+
+markdown:
+  lineBreaks: soft # or, hard
