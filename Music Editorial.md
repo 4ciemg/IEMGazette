@@ -23,14 +23,14 @@ It's good, closer to Skeletrix Language in terms of production and musical form.
 ## The New Sound - Geordie Greep (04/10/2024)
 
 *08/10/2024*
->[![The New Sound - Geordie Greep](https://m.media-amazon.com/images/I/81HVv+d8aqL.jpg){width=300}](httpsyoutube.complaylistlist=OLAK5uy_ka7pk3b5LOC1BtPz6dBvRsOG806ohrAsQ&si=Kyw5WNOocnMefl9-)
+>[![The New Sound - Geordie Greep](https://m.media-amazon.com/images/I/81HVv+d8aqL.jpg){width=300}](https://youtube.com/playlist?list=OLAK5uy_ka7pk3b5LOC1BtPz6dBvRsOG806ohrAsQ&si=Kyw5WNOocnMefl9-)
 >Only some real music. Gazettezo put this in there not a perfect album but almost certainly AOTY comparing it to what else we've gotten this year.
 
 
 ## Imaginal Disk - Magdalena Bay  (23/08/2024)
 
 *23/09/2024*
->[![Imaginal Disk - Magdalena Bay](https://m.media-amazon.com/images/I/A16ANsQnMxL.jpg){width=300}](httpswww.youtube.comwatchv=OPe7tn_Hju4)
+>[![Imaginal Disk - Magdalena Bay](https://m.media-amazon.com/images/I/A16ANsQnMxL.jpg){width=300}](https://www.youtube.com/watch?v=OPe7tn_Hju4)
 >I'll keep it short. Don't normally listen to pop but this was surprisingly not terrible. The songs are different enough to keep it engaging but stay on theme. 
 >Album is Imaginal Disk by Magdalena Bay.
 >\>She Looked Like Me
