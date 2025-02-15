@@ -12,4 +12,8 @@ links:
 
 
 markdown:
-  lineBreaks: soft # or, hard
+  lineBreaks: hard
+
+
+search:
+  mode: full
