@@ -4,9 +4,9 @@ Everything music in iemg.
 
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released albumsingle is welcome to. After a loose and brief quality check, it will be added to the gazette; only 3 posts will be kept at all times. A lossless download of the albumsingle is a possible future feature. The album image links to the YouTube release if available.
 
-!~Museum Music - Edward Skeletrix  Im A Monster - 01012024~!
+## Museum Music - Edward Skeletrix / Im A Monster (01/01/2025)
 
-05102024
+*05/01/2025*
 
 Technically two posts but who cares.
 
@@ -20,16 +20,16 @@ It's good, closer to Skeletrix Language in terms of production and musical form.
 
 
 
-!~The New Sound - Geordie Greep - 04102024~!
+## The New Sound - Geordie Greep (04/10/2024)
 
-08102024
+*08/10/2024*
 [![The New Sound - Geordie Greep](httpsm.media-amazon.comimagesI81HVv+d8aqL.jpg)](httpsyoutube.complaylistlist=OLAK5uy_ka7pk3b5LOC1BtPz6dBvRsOG806ohrAsQ&si=Kyw5WNOocnMefl9-)
 Only some real music. Gazettezo put this in there not a perfect album but almost certainly AOTY comparing it to what else we've gotten this year.
 
 
-!~Imaginal Disk - Magdalena Bay - 23082024~!
+## Imaginal Disk - Magdalena Bay  (23/08/2024)
 
-23092024
+*23/09/2024*
 [![Imaginal Disk - Magdalena Bay](httpsm.media-amazon.comimagesIA16ANsQnMxL.jpg)](httpswww.youtube.comwatchv=OPe7tn_Hju4)
 I'll keep it short. Don't normally listen to pop but this was surprisingly not terrible. The songs are different enough to keep it engaging but stay on theme. 
 Album is Imaginal Disk by Magdalena Bay.
