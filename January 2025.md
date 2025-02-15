@@ -1,3 +1,6 @@
+---
+order: 100
+---
 # January 2025 Issue
 
 ***
