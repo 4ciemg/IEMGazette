@@ -270,11 +270,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *26/01/2025*
 
 >![Actually putrid wtf is wrong with all of you](https://i.postimg.cc/PfgnxZyS/Actually-putrid-wtf-is-wrong-with-all-of-you-1.jpg){width=250}
->
 >I have never looked inside my iems, today I was shocked to find out how oxidised it is from the copper ig, also earwax... This is my first and only iem, can I clean it with sanitizer on a cotton swab a tissue paper... Or should I really use isopropyl?
->
 >>![Actually putrid wtf is wrong with all of you](https://i.postimg.cc/PNsyjdmM/Actually-putrid-wtf-is-wrong-with-all-of-you-2.jpg){width=400}
->>
 >>What the actual fuck man.
 >
 >>gross...
@@ -283,12 +280,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >>>he just can't into iems
 >>
 >>>![Actually putrid wtf is wrong with all of you](https://i.postimg.cc/RC6z4G73/Actually-putrid-wtf-is-wrong-with-all-of-you-3.jpg){width=300}
->>>
 >>>Indeed.
 >>>>Come on, this is just Australia. I wonder what kind of creatures live in Australian IEMs.
 >>
 >>>![Actually putrid wtf is wrong with all of you](https://i.postimg.cc/hjvp8yDV/Actually-putrid-wtf-is-wrong-with-all-of-you-4.png){width=400}
->>>
 >
 >>moon...DROPPED!
 
@@ -301,27 +296,19 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *24/01/2025*
 
 >![KBear KB02 Impressions](https://i.postimg.cc/zG5mwr9W/KBear-KB02-Impressions-1.jpg){width=500}
->
 >After being in PostNL limbo for a month, KB02 has arrived.
->
 >Really good build and beautiful resin shell, especially for the $23 I paid.
->
 >Sounds just like your typical 1DD, the bass is good, I don't really feel the bone conduction but if you hit the shell with your finger, you can hear a "boing" sound from the bone conductor vibrating.
->
 >Perhaps it adds more weight to the 100-200hz, bass around that range sound fuller, I was expecting some kind of haptic feedback, but no, you can't even feel the shake with your fingers.
 >>as basically "Cadenza Pro," at the same price, i guess it's a welcome budget pos. i can't muster any concrete cons besides imagining it adds another point of failure, but if it's maybe-noticeable it's moot
 >>>KB01/KB02 or Cadenza would be just a matter of preference, I specifically picked 02 on sale for the BCD, even tho it's barely noticeable, the DD is solid.
->>>
 >>>It also comes with 9 pairs of tips (SML, black/gray/white) and standard black 2 core cables.
->>>
 >>>All in all, very satisfying purchase, one level above those cheapest plastic pos like gate and wankers.
 >
 >>One last thing about kb02, they have much lower sensitivity than average single DDs thanks to the BCD. Potential benefits would be lower hiss on noisy sources.
 
 >![KBear KB02 Impressions](https://i.postimg.cc/ZK6tyRD4/KBear-KB02-Impressions-2.jpg){width=400}
->
 >Some closeup.
->
 >The nozzle has a metal grill, so I don't know what kind of tuning filter they used. At least that means earwax won't easily get in there if you remove them regularly.
 
 
@@ -331,9 +318,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *20/01/2025*
 
 >![Tanchjim Mino (Asano Tanch Edition) Measurement](https://i.postimg.cc/4x1DB0g0/mino-sasano-measurement.jpg){width=600}
->
 >Mino measurements which will probably be included in the final review.
->
 >Orange is with no DSP applied (ie all filters with no gain), purple is what Tanchjim calls Harman2016, and blue is that preset with a 3 dB cut at 3 khz. Solid stuff, 10 band PEQ.
 
 
@@ -343,13 +328,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *19/01/2025*
 
 >![FiiO HS20 Impressions](https://i.postimg.cc/MGPh8jXb/Fii-O-HS20-Impressions.jpg){width=350}
->
 >Bought FiiO HS20 for the collection.
->
 >Sonically it's similar to the Nicehck07 and BGVP "A07" tips, aka nothing special. Also the liquid silcone material is ultra flimsy compared to the coriers/rdm zone clear.
->
 >And yea I know ear anatomy is subjective, but the HS20 requires a really aggressive upward tilt on the IEM nozzle for me to get a proper seal. Meaning the Supermix 4 & Duality didn't work, only the Salnotes Zero (the small shell helps too).
->
 >Wouldn't recommend.
 >>I don't like the really thin walled liquid silicones. Softears UC and Coreir are still my goats.
 >>>based same. the lack of tactile feedback in-ear cause the material is so thin makes it difficult to tell how well it fits
@@ -370,28 +351,18 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *17/01/2025*
 
 >![BGVP DMA Impressions](https://i.postimg.cc/63Fg8Jr8/BGVP-DMA-Impressions.jpg){width=400}
->
+
 >BGVPOS DMA has arrived. No unboxing because there's not much to show. My impressions so far (I suck at reviewing):
->
 >\*Although the soundstage isn't very spacious, it has a perceivable atmosphere. There's decent imaging to the point your inner eye can almost see how an instrument is played.
->
 >\*The instrument separation is great; you can single out one as easily as a thread in fabric and follow it as the song goes on.
->
 >\*The detail retrieval is pretty nice; I've discovered new sounds in relatively familiar tracks (e.g., that background jingle in We Drift Like Worried Fire at around 4:50).
->
 >\*The bass is textured and full-bodied but very lively and dynamic, also punchy when it needs to be. It extends beyond the soundstage, adding a lot to the atmosphere, and is definitely the highlight of this IEM.
->
 >\*The vocals feel intimate and natural (note to myself: try listening to some ASMR), and the mids are pretty clean overall.
->
 >\*The treble is crisp but can be very shouty (esp. in games) to the point I'll have to use EQ. What the fuck were they thinking?
->
 >\*The channel imbalance is there. That pestering thought that you might be going deaf won't leave your mind once you've noticed it, even if you know about the imbalance.
->
 >The build and comfort are where my biggest disappointment comes from. The build is standard, but no attempt was made to make it slightly more ergonomic. The nozzles are huge, almost as huge as the pain in the ass you experience looking for the right eartips. At least the nozzles have lips. The cable is thick and seems durable, but it's fairly heavy and pulls on your ears, making this IEM rather uncomfortable and even painful to wear for prolonged periods of time. Also, at one point, I started to feel tingling at what seemed to be the exact points BC holes made contact with my skin. Well, I suppose it proves that bone conduction works.
->
 >Is it worth it? Maybe if you have money to spare and are interested in relatively obscure IEMs.
 >>\>tl;dr pos
->>
 >>while i salute your sacrifice for the impressions, it was mostly in vain. on to the next pos eh
 
 ***
@@ -408,81 +379,57 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 >IEMs:
 >
 >\>Letshuoer Mystic 8 ($?) [8BA]
->
 >Interesting shell faceplate with a "phantom cat" on it
 >
 >\>Moondrop Psyche (~$1350) [2DD + 4BA + 4PL]
->
 >Driver configuration per side and chinese price. Faceplate is made out of carved gold and silver plates
 >
 >\>Tanchjim Force ($?) [?]
->
 >Same shape and faceplate design philosophy as the Kara and Prism.
 >
 >\>SeeAudio YUME IV ($200) [2BA]
->
 >Yet another addition to the YUME line. Doesn't graph well if I'm being honest.
 >
 >\>Moondrop Meteor ($500) [1DD + 2BA + 4 PL]
->
->
 >What a unit.
 >
 >\>Softears Volume S ($320) [2DD + 2BA]
->
 >New Volume model, this time adhereing more to JM-1. Positive reviews so far.
 >
 >\>SeeAudio Strawberry π ($1400) [6BA]
->
 >POS.
 >
 >\>TinHifi C3 MKII ($550) [1DD]
->
 >For those interested.
 >
 >\>Tangzu Wu Neng ($?) [1DD + 4BA + 1EST + 1PZT\*BC?]
->
 >Will be at Canjam HK. Tangzu will also have a "budget IEM prototype" and the "Monkey King"
 >
 >\>"Obscure" brands (INTUAURA, CKLVX, XINHS, QoA, Tiandirenhe, LUN SHENG, FLOAUDIO, etc)
->
 >I can't do it for all of them, sorry :(
 >
 >\>TRN, KZ, CCA, CVJ, ND, HiBy, etc
->
 >You know the drill, not posting any of these. As always, beware of KZ/CCA stealth revisions.
 >
->
 >DAC/Amps/Accessories
->
 >\>Nothing
->
 >Not much happening on this front, seems like the CS43131/43198 craze has died down.
 >
 >News and events:
 >Release of PEQdB, seems like opinions on it are mixed. Nothing else apart from that.
->
 >>good job, anon
->>
 >>\>Tanchjim Force ($?) [?]
->>
 >>this a 2DD pos and it's a collab with effect audio
->>
 >>iirc someone mentioned in the $200 ballpark
 >
 >>![New Noteworthy Releases (Jan. 2025)](https://i.postimg.cc/8CPq3bkz/New-Noteworthy-Releases-Jan-2025.jpg){width=300}
 >>
 >>\>$1400
->>
 >>\>6BA
->>
 >>\>no mention of driver brand
->>
 >>\>right after draining all the testosterone away from Yume series
->>
 >>wtf is sneedaudio smoking lately
 >>>they really went
->>>
 >>>\>neko wasn't retardedly overpriced enough? say less senpai
 >>>>Worse part is the release window coinciding with Moonderp Psyche, similarly priced with driver techs on top of a gold/silver waifu engraving by hand, instead of a pink abomination.
 
@@ -494,9 +441,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 *13/01/2025*
 
 >I think I (or one of my neighbor) just got f\*\*d.
->
 >Using BTR11, fine for the most part, even longer range/better connection than your average TRN crap, but moments ago it started to disconnect and connect randomly, I heard some music playing that was definitely not mine.
->
 >Did Fiio use same fucking frequencies or device IDs or something? How the fuck I could connect to a neighbor and there's totally the possibility of my neighbor's connecting to me.
 >>we tried to warn you bro...
 
@@ -506,31 +451,23 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 ## Sony/Tanchjim Anon finishes his collection
 *12/01/2025*
 
-
 >![Sony/Tanchjim Anon finishes his collection](https://i.postimg.cc/g2ySGLtL/Sony-Tanchjim-Anon-finishes-his-collection-1.jpg){width=350}
->
 >Sony/Tanchjim anon here, or at this point formerly known as Sony anon. I traded my ier-z1r. I got the unique melody mest mk2 during black friday and with my other IEMs the ier-z1r just wasn't going to get used. The IER-z1r is great sounding IEM but that other anon was right. The scooped mids and finnicky treble just made me not reach for it. Especially when I find the monarch mk3 has comparable bass with SIGNIFICANTLY better mid-range.
->
 >I traded it for a pair of the MDR-z1r. I was only open to this trade as I was turned off from headphones after finding the 6xx woefully boring. So, if these didn't wow me, then I'll just know headphones truly aren't for me (spoiler these were amazing, but I sold them). My biggest issues were
->
 >1. With the entire rest of my collection being IEMs I would need to go out of my way to use them.
 >2. I realized fundamentally I like the reproduction of music from IEMs SIGNIFICANTLY more than headphones. headphones feel like a half step to just >using my home theater.
 >3. IEMs I can take when im commuting, traveling, in bed etc. The MDR-z1r is very comfortable but confined to my desk.
->
 >At this point I think my collection is finished. The only thing is maybe getting a bluetooth dac with 4.4mm balanced.
 >
 >Current IEMs:
->
 >Sony-M9, Unique Melody Mest mk2, Thieaudio monarch mk3, Tanchjim Origin.
 >
 >Current Gear:
->
 >Hiby w3, Ibasso dx-180
 >>\>monarch mk3 has comparable bass with SIGNIFICANTLY better mid-range
 >>Well that's interesting, have you tried the monarch mk2? I find the midrange of the mk3 to sound thinner than its predecessor.
 >>>different anon, that should not be the case, but chalk it up to thighaudio's slipping standards. the units i heard, and according to graphs, mk3 *should* sound slightly thicker in the mid bass. to me, mk2 was significantly brighter, less refined, and colder
 >>>>![Sony/Tanchjim Anon finishes his collection](https://i.postimg.cc/hvJZnCNK/Sony-Tanchjim-Anon-finishes-his-collection-2.png){width=500}
->>>>
 >>>>Looking at crin's 5128 paints a different picture, Mk3 has that stereotypical harman leanness with a boosted V, while Mk2's timbre was more reminiscent of the mega5est.
 >>>>>again, it's just unit variance and poor consistency from thieaudio. i cba to check, but even their "tuning philosophy," statement was that it was supposed to be tilted warmer or w/e wording they used
 >
@@ -545,87 +482,46 @@ AAAAAAAAAAAAAAAAAAAAAAAAH
 Been looking for this for a while now.
 
 >/iemg/'s threadly sins. Confessional booth is always open.
->
 >\>being a retard
->
 >\>making any list other than this one
->
 >\>believing in driver type and source memes, reviews/reviewers, ranking lists, etc.
->
 >\>not understanding science
->
 >\>asking imprecise, general, idiotic questions
->
 >\>making unnecessary changes to the OP
->
 >\>frogposting and/or replying to bait/shilling/schizoposts
->
 >\>commenting on objective sound quality without owning/experiencing a calibrated 2.1 speaker setup in a properly treated room
->
 >\>not being a Harman trained listener
->
 >\>using AutoEQ and/or not using EQ by ear
->
 >\>doing flawed listening tests
->
 >\>confusing music creation with reproduction
->
 >\>arguing over two completely different audio experiences
->
 >\>thinking that anything other than fit/comfort, distortion, and FR matters in terms of sound quality
->
 >\>believing more expensive = better, or that there is a correlation between price and sound quality
->
 >\>thinking a headpos can be anywhere as good as a properly EQed pos
->
 >\>debating for the sake of debating
->
 >\>consuming without purpose
->
 >\>buying badly engineered, expensive sets for sound quality
->
 >\>talking about highly subjective topics (some aspects of comfort, sound localization, etc)
->
 >\>making bad analogies
->
 >\>using vague terms to describe quantifiable phenomena
->
 >\>idolizing schizos
->
 >\>using improper, "general" surround sound virtualization
->
 >\>not knowing how to use the Internet in 2025
->
 >\>talking about IEMs you have never used/owned (exception for broad statements about sound quality with graphs for reference)
->
 >\>listening to formats above 44.1/16 CD
->
 >\>not enjoying your music
->
 >\>misspelling words (Harmon, timber, etc)
->
 >\>watching sound demos (can't believe I actually have to include this one)
->
 >\>not reading the OP and guides
->
 >\>posting pics without cleaning the pos/tips (are you retards this fucking stupid?)
->
 >\>not owning an Etymotic model\*
->
 >\>giving thoughts/impressions on an IEM without pictures showcasing its dimensions and possible size comparisons\*
->
->>\>calling everyone a schizo
->>
+>\>calling everyone a schizo
 >>Newly Added:
->>
 >>\>talking about car audio (seriously?)
->>
 >>\>recommending massive pos to people
->>
 >>\>debating about waifus
->>
 >>\>being mean to the IEMGazette editor
->>
 >>\>being the IEMGazette editor
 
 ***
@@ -634,26 +530,20 @@ Been looking for this for a while now.
 *09/01/2025*
 
 >![Xenns Mangird Tea Pro Impressions](https://i.postimg.cc/rybYjkts/Xenns-Mangird-Tea-Pro-Impressions-1.jpg){width=500}
->
 >Tea Pro has arrived.
->
 >Impressions:
 >
 >Coherent with clean, rumbling bass, the extra subbbass can be felt. Treble is more sparkly than Tea 2 but not fatiguing. Perhaps due to the slightly more emphasis to subbass and upper mid/treble, the mids sound drier. Easy to drive.
 >
 >Bass: Tea Pro
->
 >Mids: Tea 2
->
 >Treble: depending on taste
 >
 >Verdict: great set overall, side grade/different tuning to Tea 2.
 >
 >Resin/metal build, feels solid, but the metal will mess up the resin faceplate when put together in your pocket that's for certain, plus the fact that in cold weather there might be condensation issues.
->
 >Good unboxing, plenty of accessories, cable has swappable connectors (3.5/4.4). There's a case but also a soft pouch so if you don't want bulk, you can use the pouch. Tips are not dogshit like Tea 2's stock but still just your average tips.
 >>![Xenns Mangird Tea Pro Impressions](https://i.postimg.cc/mk0XgYGC/Xenns-Mangird-Tea-Pro-Impressions-2.jpg){width=450}
->>
 >>Tea 2s are now relegated to workout/jogging set, still love them plenty.
 
 ***
@@ -662,23 +552,15 @@ Been looking for this for a while now.
 *08/01/2025*
 
 >![Tanchjim Mino Asano Tanch Edition Review](https://i.postimg.cc/nz41cgyR/Tanchjim-Mino-Asano-Tanch-Edition-Review-1.jpg){width=500}
->
 >Tanchjim Mino anime version + goodies
 >>I ordered from aliexpress/hifigo store and it came with a pin, postcard, acrylic stand and a pack of stickers inside the box.
->
 >As for the pos itself it sounds alright, about 5dB too bright in the upper mids and treble. It's also got that low fi bluetooth crunch in the upper treble, but that's with my desktop's built in bluetooth and god knows what codec. Build feels light and plasticky but comfort is good.
 >>![Tanchjim Mino Asano Tanch Edition Review](https://i.postimg.cc/d3nmGdtG/Tanchjim-Mino-Asano-Tanch-Edition-Review-2.png){width=500}
->>
 >>Graphs, Tanchjim with the godly channel matching as usual. Not sure what's happening below 30hz, gonna just chalk it up to BT weirdness. The app also comes with a 5 band PEQ. I use the following:
->>
 >>Filter 1: ON PK Fc 20 Hz Gain 5 dB Q 0.3
->>
 >>Filter 2: ON PK Fc 4000 Hz Gain -3 dB Q 0.6
->>
 >>Filter 3: ON PK Fc 5500 Hz Gain -4 dB Q 2
->>
 >>Filter 4: ON PK Fc 8500 Hz Gain 3 dB Q 1
->>
 >>Filter 5: ON PK Fc 10200 Hz Gain -4 dB Q 5
 
 
@@ -688,15 +570,11 @@ Been looking for this for a while now.
 *06/01/2025*
 
 >Here are the promised pics for the two EDC Pro samples I have. Top row is the old version (purchased early November), the bottom the new version (mid December).
->
 >I won't go into the details, but the main differences are: the filter is different as shown by the striation/grain and the driver basket/housing is different as shown by the different wiring and color/size of the magnet containment.
->
 >As for measurements, these were taken fresh out of the box, so no filter clogging or other issues should be present. Either the driver is different, which would explain the shift in resonant frequency between the two samples, or the filters are different enough to warrant this change.
->
 >Does this matter? Not really, the difference is relatively high-Q and small enough as to where I doubt most people will notice it. This silent revision is arguably quite harmless, and I still hold these very highly as per my previous review of them.
 >If there's demand, I am willing to remove the filters and measure them, but I will not open them up to check the diaphragm and voice coil unless I plan on getting more samples (which I probably will do).
 >>![KZ EDC Pro Stealth Revision](https://i.postimg.cc/FFxZttg1/KZ-EDC-Pro-Stealth-Revision.jpg)
->>
 >>Yet again, I forgot the pic.
 
 ***
@@ -705,18 +583,14 @@ Been looking for this for a while now.
 *06/01/2025*
 
 >![TRN MT5 Measurements (n=3)](https://i.postimg.cc/kg2Ft2rt/TRN-MT5-Measurements-n-3-1.png){width=500}
->
 >Got around to measuring my third sample of the TRN MT5 (top portion).
 >Biggest letdown of the three, noticeable channel imbalance in the bass. The difference above 3 khz is also noticeable but only for the wideband change; the high-Q difference at 5 khz not so much, at least not consistently so. Hard to say if it's placebo or not.
 >Quite disappointed with this, I retract any recommendations I have made previously. While the imbalance isn't horrible in the grand scheme of things, the standard for channel matching has moved on and these do not meet it.
 >
 >The bottom graph shows my attempt at fixing one of the sides (purple). The front vent is blocked with a piece of tape, after which a small incision was made to tame the sub bass without losing on the gained mid bass. For the 3-8 khz range, a 300 mesh filter brings the right side close enough to where I would deem the channel matching as acceptable.
 >>![TRN MT5 Measurements (n=3)](https://i.postimg.cc/bvbx34wy/TRN-MT5-Measurements-n-3-2.png){width=500}
->>
 >>Here's the squig version for those that are more used to that format
->>
 >>Also please ignore the 90 hz, I don't give a fuck!
->>
 >>I'll start doing the EDC Pro revision posts, having a hard time getting a clear pic of the filter grain.
 
 ***
@@ -725,11 +599,8 @@ Been looking for this for a while now.
 *06/01/2025*
 
 >![HiBy Yves Impressions](https://i.postimg.cc/3JnnGMdz/Hi-By-Yves-Impressions.png){width=500}
->
 >I bought a Hiby R1 and it came with these Yves IEMs, they sound like complete shit and very tinny.
->
 >These cheap Sony "Comfortable Fit" headphones(MDR-EX15LP) sound better than the Yves.
->
 >I'm wonder out of the two other IEMs which have better sound. I don't really understand how these charts work.
 
 
@@ -739,14 +610,11 @@ Been looking for this for a while now.
 *05/01/2025*
 
 >![Nici HiFI-20 cable (Red Moon Frost Plume) Impressions](https://i.postimg.cc/Y0tz48kp/Nici-Hi-FI-20-cable-Red-Moon-Frost-Plume-Impressions.jpg){width=400}
->
 >Nici HiFI-20 cable (Red Moon Frost Plume) is pretty good, thick but still supple and flexible. Slowly starting to realize that 2 core cables are starting to become my favorite cable configuration, tied with 8 core ones.
->
 >100% sure that Nici is just another ivipQ/Zisin/ XINHS store.
 >>Aful Explorer has the same thing but in silver color and straight plug. The thickness makes them tangle free.
 >>>They're very good, the I3 MK3 also uses the same style but in white, also relatively cheap to buy it separately
 >>>>\>not purple
->>>>
 >>>>This has to be deliberate for selling purple cables'
 >
 >>looks good. Glad people are on the 2 core I've kinda known it as my favorite for years
@@ -758,11 +626,8 @@ Been looking for this for a while now.
 *05/01/2025*
 
 >![7Hz x Crinacle Salnotes Zero:2 Review](https://i.postimg.cc/J73T1Hmr/7-Hz-x-Crinacle-Salnotes-Zero-2-Review.png){width=300}
->
 >My mini review of the zero 2. I dont know what I expected but for $30 theyre pretty much that. I dont really like the bass tuning on them. Also the left one seems to come out of my ear easily. idk if thats because my ears weirdly shaped or something but yeah. i think i would choose something else as my first iem if i were to choose again
->
 >\>idk if thats because my ears weirdly shaped or something but yeah. i think i would choose something else as my first iem if i were to choose again
->
 >The included eartips suck. Funnily enough, Zero was my very first IEM. Still remember the flashy red tips blue shell McDonald toy. What a joyful experience...
 
 ***
@@ -771,7 +636,6 @@ Been looking for this for a while now.
 *05/01/2025*
 
 >Speaking of pos, Fatfreq Deuce is actually decent. Probably the best NGGAR collab yet.
->
 >Despite NGGAR seething at them
 >>I don't like them that much, I feel like the bass is wooly somehow. Using EQ to boost bass in other IEMs sounds cleaner to me. Somehow they're my most comfortable pos so I wish I liked them more, they fit like a glove in my ears.
 
@@ -781,9 +645,7 @@ Been looking for this for a while now.
 *03/01/2025*
 
 >![iBasso DX340 File Support](https://i.postimg.cc/c4sF614Q/i-Basso-DX340-File-Support.jpg){width=150}
->
 >Addendum for my dx340 debacle:
->
 >Mango Player/MangoOS can't read .ogg or .opus files. Took me an entire afternoon to figure out why UAPP was scanning more songs than the stock player.
 
 
@@ -793,11 +655,9 @@ Been looking for this for a while now.
 *02/01/2025*
 
 >![BGVP Pentaconn Clone Tips Impressions](https://i.postimg.cc/B69g34VP/BGVP-Pentaconn-Clone-Tips-Impressions.png){width=350}
->
+
 >\>BGVP Pentaconn clone tips
->
 >What's difficult is that the case is too difficult to open.
->
 >It's like a drawer, but the lid slides! (I thought it would slide, but it didn't, so it took me a while)
 
 
@@ -808,15 +668,11 @@ Been looking for this for a while now.
 *01/01/2025*
 
 >![KZ Zenith Impressions](https://i.postimg.cc/Cx27vjCN/KZ-Zenith-Impressions-1.jpg){width=250}
->
 >Ok I actually like the new direction KZ is going, these new metal pos are really good. I don't think I can call myself a KZ hater anymore unless they start spamming the market again with trash edc pro/edx shell driver swaps. There are still stealth revision concerns but if they continue like this they will regain trust.
 >>\>generic 1dd
->>
 >>kz set the bar so low that reaching the average is now praise worthy, what a thing of beauty
 >>>![KZ Zenith Impressions](https://i.postimg.cc/6pqzLHZq/KZ-Zenith-Impressions-2.jpg){width=300}
->>>
 >>>Gotta give credit where is due, it's rare to see KZ doing something new (other than the shell), and the driver is anything but generic.
->>>
 >>>I'd retract my statement when KZ inevitably revise it with a EDC lite driver lmao.
 
 
