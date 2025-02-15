@@ -1,3 +1,7 @@
+---
+order: 100
+---
+
 # IEMGazette
 !!! What is this?
 The blog version of /iemg/ in the form of a monthly gazette.
