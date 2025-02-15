@@ -6,7 +6,6 @@
 *31/01/2025*
 
 >![Nightjar Acoustics Duality Impressions](https://i.postimg.cc/TYDNH4r9/Nightjar-Acoustics-Duality-Impressions.png){width=200}
->
 >Listening to Duality for >30 mins gives me intense bass fatigue and a splitting headache, so I guess this is a PSA to the other anon who's eyeing the Duality. Hopefully you're not as bass-sensitive as I am.
 >>as among the few anons who have heard a variety of bassy singapore pos (singularity, duality, symphonium meteor, titan, etc.), i am very satisfied that i chose scarlet mini out of them all. besides scarlet, singularity and meteor appealed to me, the others not so. duality with the bassier switch was mud city, and switch off did not offer any significant improvement over singularity. titan was mud city and sounded slow as hell (too much unnatural decay), with less top-end clarity than scarlet. ofc opinions and comparisons are all over the place, but that's how i heard them.
 >>>\>titan was mud city
@@ -25,27 +24,22 @@
 *31/01/2025*
 
 >![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/2520ZRDz/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-1.jpg){width=300}
->
 >Echo Mini arrived. Pretty good for the price. Super basic UI and built quality, but it just wors and plays everything perfectly.
 >Also new moondropped dongle
 >>How's the battery? Is it removable? I hope so
 >>>nta but pretty sure the echo mini doesn't have an easy to replace battery, only the retro nano has that feature
 >>
 >>>![Snowsky Retro Mini & Moondrop Echo-A Impressions](https://i.postimg.cc/pd20rV3G/Snowsky-Retro-Mini-Moondrop-Echo-A-Impressions-2.jpg){width=350}
->>>
 >>>I will just leave it running for today and report later, it has a fake battery lid at the back, but only the nano has an actual replacable battery.
 >
 >>god it's adorable, would get if I didn't just buy the Hiby R1.
 >
 >>\>Also new moondropped dongle
->>
 >>how is it compared to jm20?
 >>>My JM20 hasn't arrived yet, but compared to the JA21, GraveAudio DA06 and Apple Dongle the built quality is definitely better and it gets really loud. In terms of sound it's basicly like most other popular dongles in that price range, but maybe it's placebo but it's sound a bit "boomy" or bass heavy.
 >
 >>I have one too (same colour - good choice)
->>
 >>It's great as a shuffle machine, but takes ages to actually choose tracks if you have a lot on there
->>
 >>I've found the battery is good; played it for about 4 hours and lost 1 out of 4 bar, from the 4.4 jack on high gain (playing mp3)
 
 
@@ -55,20 +49,13 @@
 *29/01/2025*
 
 >![FAAEAL Unbounded, Mini Slender Waist, and Astrotec GX70 Plus Impressions](https://i.postimg.cc/nrQ2gXQz/FAAEAL-Unbounded-Mini-Slender-Waist-and-Astrotec-GX70-Plus-Impressions.jpg){width=350}
->
 >\>Faaeal Unbounded IEM
->
 >Solid build. Resin quality similar to Celest Wyvern (not super dense, but light and smooth) + aluminum faceplate, color-matched nozzle with lip. Wearing ergonomics are fine, maybe the cable earhooks pull in a non-ideal way (common QDC cable complaint), but I can find good seal as is. Stock tips are flimsy trash. Average sensitivity.
->
 >Tuning is decent, driver techs compete well against any other sub-$50. Moderate V-shape: good sub dive, skews thicker with mid bass but avoids bloat, typical pinna gain + slight elevation 5-8kHz, treble extends well. An unassuming recipe with pleasant results. I redeemed for ~$12.
->
 >\>Faaeal "Mini Slender Waist" Cable
 >The stock cable it comes with, 3.5mm QDC. Faaeal sells it a la carte ~$10. The machined hardware bits (plug, splitter, etc.) are fancy but unreasonably fat.
->
 >Thankfully they are aluminum, so relatively light. The actual wire strikes the right balance of durability and pliability. Does not hold memory or kinks, feels good, minimal microphonics.
->
 >\>Astrotec GX70 Plus (not pictured)
->
 >Utter pos. Even at $10 is inferior to KZ slop in every way.
 
 
