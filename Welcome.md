@@ -18,7 +18,7 @@ These will be enforced with regards to what qualifies as an article. Exceptions 
 ## Article format 
 *Post date (dd/mm/yyyy)*
 Editor notes/descriptions
->![](){} Picture 
+>🖼️ Picture
 >Post
 >>Replies
 
@@ -48,11 +48,3 @@ The rules so far are as follow:
 - Ensure the photo angle is as vertical as possible to eliminate possible dimension skewing
 - Leave a decent margin around the photographed items
 - Use a grid paper as the background if possible, and specify the grid size
-
-
-
-
-
-
-image: https://i.postimg.cc/fRSrZk2C/i-Basso-DX340-Criticisms.jpg
-
