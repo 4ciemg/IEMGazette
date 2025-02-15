@@ -1,40 +1,29 @@
-***
-!!! info IEMGazette
-A proto-wiki/blog (autism archive) for /iemg/. 
-Curated content by yours truly separated into "articles". The first few ones are permanent, followed by the table of content for the monthly issue.
-Reset on the 7th of each month.
-
-!!! danger 
-	!!! note
-    	!!! danger
-			CURRENTLY MIGRATING THE PROJECT. ON HIATUS UNTIL FURTHER NOTICE.
-			
+# IEMGazette
+!!! What is this?
+The blog version of /iemg/ in the form of a monthly gazette.
+Curated content by yours truly separated into "articles". 
+!!!			
 
 ***
-!!! note To-do list in order of importance
-	- N/A
+## Rules
+These will be enforced with regards to what qualifies as an article. Exceptions apply.
+1. No debates/exchanges on often repeated topics (eg FR and technicalities, targets, couplers, audibility, etc).
+2. No advice posts and replies. 
+3. No "zero-value"/unfunny shitposts
+4. Article selection entirely up to the Editor (me). 
+5. Post content removal entirely up to the Editor (me). No modifications to the wording, only removal or readjusting of sections.
+
 
 ***
-!!! warning Rules
-	These will be enforced with regards to what qualifies as an article. Exceptions apply.
-	1. No debates/exchanges on often repeated topics (eg FR and technicalities, targets, couplers, audibility, etc).
-	2. No advice posts and replies. 
-	3. No "zero-value"/unfunny shitposts
-	4. Article selection entirely up to the Editor (me). 
-	5. Post content removal entirely up to the Editor (me). No modifications to the wording, only removal or readjusting of sections.
-
-***
-***
-##Article format 
+## Article format 
 *Post date (dd/mm/yyyy)*
 Editor notes/descriptions
-![](){} Picture 
+>![](){} Picture 
 >Post
 >>Replies
 
-***
-***
-##IEMGazette Archive
+
+## IEMGazette Archive
 
 The IEMGazette archive can be found [here](https://mega.nz/folder/cchSBaBQ#WwAguZeGclZkxzvwVNSryQ). The archive contents and organization/structure are all laid out in the "\[IEMGazette Archive Organization and Rules\]" file.  
 
@@ -46,10 +35,8 @@ It currently contains the following:
 - Size comparison database pictures
 - And more...
 
-
 ***
-***
-##IEM size database project
+## IEM size database project
 
 A project for somewhat standardized pictures of IEMs is currently ongoing. Many issues still have to be ironed out; stay tuned!
 Pictures can be found in the [archive](https://mega.nz/folder/cchSBaBQ#WwAguZeGclZkxzvwVNSryQ), for which differentt IEMs are noted in this [database](https://cryptpad.fr/sheet/#/2/sheet/view/n2mA+-1PHR6zeFf7yeCm9bRbwlL993dLZajDduujqsI/embed/).
