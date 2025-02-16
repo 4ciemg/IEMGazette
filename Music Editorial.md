@@ -16,7 +16,7 @@ Technically two posts but who cares.
 
 -![Museum Music -  Edward Skeletrix](https://cdn-images.dzcdn.net/images/cover/ac7aa23cb1372213511e504801160b07/1400x0-00000-100-0-0.jpg){width=300}
 Steers away from Skeletrix Language, and feels the most strange with jarring transitions, awkward song structures, and weird production. It is rather polarizing, but I'm in love with it.
-Favorite part is the whole sequence from God Made You A Monster to Killing Over Likes which covers all of the previous points and more.
+Favorite part is the whole sequence from God Made You A Monster to Killing Over Likes which covers all of the previous points and more.  
 
 
 -![Museum Music - Im A Monster](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=300}
