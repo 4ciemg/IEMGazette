@@ -18,9 +18,7 @@ Technically two posts but who cares.
 Steers away from Skeletrix Language, and feels the most strange with jarring transitions, awkward song structures, and weird production. It is rather polarizing, but I'm in love with it.
 Favorite part is the whole sequence from God Made You A Monster to Killing Over Likes which covers all of the previous points and more.  
 
-##  
-
-![Museum Music - Im A Monster](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=300}
+![Museum Music - Im A Monster](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=300}-
 It's good, closer to Skeletrix Language in terms of production and musical form. Feels more fleshed out and out there in terms of experimentation. Favorite track is Real One, great production and vocal inflection variety here.
 
 
