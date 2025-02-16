@@ -43,12 +43,12 @@ order: -99
 
 No judging, but... it's certainly a choice.
 
->![TOTL Anon redeems the... Jomo Audio Nautilus?!](https://i.postimg.cc/Z5jC9ZtL/TOTL-Anon-redeems-the-Jomo-Audio-Nautilus-1.png){width=400}
+>![TOTL Anon redeems the... Jomo Audio Nautilus?!](https://i.postimg.cc/Z5jC9ZtL/TOTL-Anon-redeems-the-Jomo-Audio-Nautilus-1.png){width=600}
 >TOTLzo/Mass impressions anon here...
 >ended up buying another totl haha...
 >>Why did you buy that pos...
 >
->>![TOTL Anon redeems the... Jomo Audio Nautilus?!](https://i.postimg.cc/Bv6tHyJf/TOTL-Anon-redeems-the-Jomo-Audio-Nautilus-2.png){width=400}
+>>![TOTL Anon redeems the... Jomo Audio Nautilus?!](https://i.postimg.cc/Bv6tHyJf/TOTL-Anon-redeems-the-Jomo-Audio-Nautilus-2.png){width=600}
 >>Wow TOTLzo i bet it sounds amazing !
 >>>\[...] And yes it does sound amazing 
 >>>fuck you.
@@ -100,7 +100,7 @@ No judging, but... it's certainly a choice.
 ## Dove/Pigeon Earphone SHOCKS anons!
 *08-09/02/2025*
 
->![Dove/Pigeon Earphone SHOCKS anons!](https://i.postimg.cc/qqfRfvyp/Dove-Pigeon-Earphone-SHOCKS-anons.png){width=400}
+>![Dove/Pigeon Earphone SHOCKS anons!](https://i.postimg.cc/qqfRfvyp/Dove-Pigeon-Earphone-SHOCKS-anons.png){width=500}
 >behold peak iem design
 >>what in the actual fuck.
 >
