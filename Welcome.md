@@ -6,6 +6,8 @@ order: 100
 !!! What is this?
 The blog version of /iemg/ in the form of a monthly gazette.
 Curated content by yours truly separated into "articles". 
+Upcoming: EQ guide migration, squig database for the SquigScrape
+To-do: Full IEMGazette migration, Updated archive and size database
 !!!			
 
 ***
@@ -27,6 +29,7 @@ Editor notes/descriptions
 >>Replies
 
 
+***
 ## IEMGazette Archive
 
 The IEMGazette archive can be found [here](https://mega.nz/folder/cchSBaBQ#WwAguZeGclZkxzvwVNSryQ). The archive contents and organization/structure are all laid out in the "\[IEMGazette Archive Organization and Rules\]" file.  
