@@ -19,19 +19,19 @@ Steers away from Skeletrix Language, and feels the most strange with jarring tra
 Favorite part is the whole sequence from God Made You A Monster to Killing Over Likes which covers all of the previous points and more.  
 
 
--![Museum Music - Im A Monster](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=300}
+--![Museum Music - Im A Monster](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=300}
 It's good, closer to Skeletrix Language in terms of production and musical form. Feels more fleshed out and out there in terms of experimentation. Favorite track is Real One, great production and vocal inflection variety here.
 
 
 
-
+***
 ## The New Sound - Geordie Greep (04/10/2024)
 
 *08/10/2024*
 >[![The New Sound - Geordie Greep](https://m.media-amazon.com/images/I/81HVv+d8aqL.jpg){width=300}](https://youtube.com/playlist?list=OLAK5uy_ka7pk3b5LOC1BtPz6dBvRsOG806ohrAsQ&si=Kyw5WNOocnMefl9-)
 >Only some real music. Gazettezo put this in there not a perfect album but almost certainly AOTY comparing it to what else we've gotten this year.
 
-
+***
 ## Imaginal Disk - Magdalena Bay  (23/08/2024)
 
 *23/09/2024*
