@@ -678,6 +678,7 @@ Been looking for this for a while now.
 >>>Gotta give credit where is due, it's rare to see KZ doing something new (other than the shell), and the driver is anything but generic.
 >>>I'd retract my statement when KZ inevitably revise it with a EDC lite driver lmao.
 
+Nearfield Crosstalk Increases Listener Preferences for Headphone-Reproduced Stereophonic Imagery
 
 ***
 ***
