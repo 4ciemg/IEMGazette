@@ -15,7 +15,7 @@ Not sure if it's the same anon that did the noteworthy releases posts, but I'll 
 >Seemingly an EPZ P50 rebrand but with a metal faceplate with the crin logo
 >\>Project Meta/Reference [?] ($<300)
 >Meta is a limited run of 500 units. Reference is still a WIP. Both full metal shells
->\>DUNU Vulkan 2 [2DD+6BA]($?)
+>\>DUNU Vulkan 2 [2DD+6BA] ($?)
 >Recently teased. No ETA
 >\>Moondrop Harmon [3DD] ($?)
 >ETA early March
@@ -24,9 +24,9 @@ Not sure if it's the same anon that did the noteworthy releases posts, but I'll 
 >\>ZiiGaat Lush [1DD+4BA] ($?)
 >\>ZiiGaat Arcanis [2DD+5BA] ($?)
 >Likely pos
->\>Symphonium Giant and Meteor replacement [?]($?)
+>\>Symphonium Giant and Meteor replacement [?] ($?)
 >Showcased at canjam, typical overpriced SG pos with no front venting
->\>Tanchjim x Effect Audio Force [2DD]($<300)
+>\>Tanchjim x Effect Audio Force  [2DD] ($<300)
 >Only news is the canjam rep said it's lower than $300
 >\>Generic brands
 >skip
@@ -55,10 +55,10 @@ Not sure if it's the same anon that did the noteworthy releases posts, but I'll 
 >
 >>most non-white iems make you look like you're wearing a weird earring which is already gay imagine now wearing a gay troon weeb proto-earring thing
 >
->>![](https://i.postimg.cc/zGjHN7nx/Does-iemg-have-any-shame-left-2.jpg)
+>>![](https://i.postimg.cc/zGjHN7nx/Does-iemg-have-any-shame-left-2.jpg){width=500}
 >>I prefer fox.
 >
->>![](https://i.postimg.cc/05MSSpsN/Does-iemg-have-any-shame-left-3.png)
+>>![](https://i.postimg.cc/05MSSpsN/Does-iemg-have-any-shame-left-3.png){width=300}
 >>i'm not an incel so i just wear these when i go out
 >>>Gay sex doesn't count.
 >>
@@ -107,7 +107,7 @@ Not sure if it's the same anon that did the noteworthy releases posts, but I'll 
 ## NiceHCK GreyDragon Impressions
 *23/02/2025*
 
->![](https://i.postimg.cc/fyGT7tYt/Nice-HCK-Grey-Dragon-Impressions.jpg)
+>![](https://i.postimg.cc/fyGT7tYt/Nice-HCK-Grey-Dragon-Impressions.jpg){width=300}
 >\>NiceHCK GreyDragon cable
 >As expected of this style thicker 4-core cable. Has some rigidity and weight but lies still without any memory kinking. Nice hardware bits, and the chin slider is more functional than many others. audiofool approved/10
 
@@ -145,13 +145,13 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 >\>Thieaudio Valhalla
 >Classic Thieaudio V-shape (or U-shape according to consoomer guide). Similar timbre to Hype 4 and Prestige LTD. Slightly more res than LTD. But instruments sound lifeless. Violins lack shimmer and piano hits sound really dull. Also, Valhalla needs a tad more sub & midbass – it has a really stereotypical “pure BA” sound. >Barely better than Hype 4 desu. 6.5/10.
 >
-\>Ziigaat Odyssey
+>\>Ziigaat Odyssey
 >A cheaper Hype 4. Treble is mildly peaky but tolerable. Nice male vocals due to fuller lower-mids. But no, it doesn’t have that JM-1 timbre (M5E, Dusk). Reviewers need to stop calling everything new meta. 7/10.
 >
-\>StarryAudio Syzygy
+>\>StarryAudio Syzygy
 >Vocal-centric set. An Elysian Diva with good EST implementation. Female vocals have a nice breathy articulation. Tighter bass response than the Diva as well. Weeb endgame. 9.5/10.
 >
-\> Elysian Acoustic Labs “X”
+>\> Elysian Acoustic Labs “X”
 >Neutral version of Annihilator 2023. It doesn’t have Anni’s boosted sub/midbass, nor the airy treble extension. I prefer the V-shape coloration of the Anni more but “X” isn’t too bad, it’s rare to find neutral summit-fi nowadays. 8/10.
 >
 >\>Nostalgia Audio Tesseract
@@ -163,7 +163,7 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 ## 7Hz Barrel Impressions
 *22/02/2025*
 
->![](https://i.postimg.cc/g0jjWWc0/7-Hz-Barrel-Impressions.jpg)
+>![](https://i.postimg.cc/g0jjWWc0/7-Hz-Barrel-Impressions.jpg){width=250}
 >7hz barrel just arrived. Material wise the s&s is smoother than the barrel, but the stem on the barrel is much firmer, which helps some stability on the nozzle.
 >The barrel has more emphasis on the upper mid
 
@@ -172,7 +172,7 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 ## EPZ Q1 Pro & Q5 Pro Review
 *21/02/2025*
 
->![](https://i.postimg.cc/nrDnLFNH/EPZ-Q1-Pro-Q5-Pro-Review-1.jpg)
+>![](https://i.postimg.cc/nrDnLFNH/EPZ-Q1-Pro-Q5-Pro-Review-1.jpg){width=350}
 >EPZ review with measurements and shit.
 >
 >Had both for around 2 weeks, I'll try to keep this short.
@@ -188,7 +188,7 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 >>Sound quality on both is decent stock. Bright leaning, but there's at least an acceptable amount of bass, though not nearly enough for my taste. No immediate treble issues, but as always it could use some polishing. My EQ increases bass, reduces the 5khz range, and fixes the treble.
 >>
 >>All in all, these are two excellent sets. While their sound quality is nothing special, and their accessories are decent, maybe even subpar, the comfort and build quality on these are so great that everything I just mentioned doesn't matter. I wholeheartedly recommend these for anyone and anything, they are just that nice fitting.
->>>![](https://i.postimg.cc/MG96Pry8/EPZ-Q1-Pro-Q5-Pro-Review-3.jpg)
+>>>![](https://i.postimg.cc/MG96Pry8/EPZ-Q1-Pro-Q5-Pro-Review-3.jpg){width=350}
 >>>Here's a size comparison with other small fitting shells. The semi-custom one is the Tiandirenhe TD10MK2. They're all pretty good if comfort and fit is the priority. Both the EPZs are much better sounding stock, and are also my favorites in terms of comfort. The Tiandirenhe is also really good, but is slightly thicker (isolates better than the EPZs). The TinHifi T1S / T1 Plus are also very good, but aren't very stable for me. The last two also need a lot of EQ to sound good.
 >>
 >>>bro you didn't label the graphs tho. i assume left with the slightly more pronounced 5khz bump is q5 pro
@@ -208,14 +208,14 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 ## Truthear Zero Red Impressions
 *20/02/2025*
 
->![](https://i.postimg.cc/CxYn9XfZ/Truthear-Zero-Red-Impressions-1.jpg)
+>![](https://i.postimg.cc/CxYn9XfZ/Truthear-Zero-Red-Impressions-1.jpg){width=500}
 >Been listening to the Zero:REDs for like 2 weeks since my Holas started experiencing channel imbalance. They JUST BARELY fit my ears which are around average, but they seal is good, I thought I would need a bass boost since the Holas are much warmer in the graphs, but the default bass on these (no impedance boost) sounds punchy enough, somehow punchier than in the Holas, which I credit to the quicker roll-off before the low-mids. I'd classify the Holas as "warm-neutral" while these are "neutral with a bass-boost". Much crispier and detailed.
 >>\>channel imbalance
 >>Clean or change the filters.
 >>Single DDs are some of the most resilient drivers and to break the drivers, you probably need to destroy the whole thing completely
 >>>I cleaned the filters and made sure the vents weren't cloggled, nothing. Also tried a different cable. I want to sell them or at least have them working so I might play with my luck and tear the faulty unit apart. However, it was one of those cases where you adjust the channel balance in Windows, and then the faulty driver becomes even quieter with time to compensate. Might be related to some circuit.
 >
->>![](https://i.postimg.cc/3RWKPCB0/Truthear-Zero-Red-Impressions-2.jpg)
+>>![](https://i.postimg.cc/3RWKPCB0/Truthear-Zero-Red-Impressions-2.jpg){width=200}
 >>\>channel imbalance
 >>Had the same problem, watch them die in a couple of weeks. A lesson to never get TURDear'd. Something about the sound felt whack compared to 1DD's anyway.
 >>>the timbre is fine imho it’s basically 1DD with a dedicated dd as woofer.
@@ -237,7 +237,7 @@ Your greed knows no bounds, and you will face deserved wrath when your time come
 ## Softears Volume S Detached Faceplate
 *15/02/2025*
 
->![](https://i.postimg.cc/NLvB2hwR/Softears-Volume-S-Detached-Faceplate.jpg)
+>![](https://i.postimg.cc/NLvB2hwR/Softears-Volume-S-Detached-Faceplate.jpg){width=400}
 >another L
 >do i put it back together with superglue or epoxy?
 >>ive heard superglue fumes are bad for drivers and epoxy is safe
