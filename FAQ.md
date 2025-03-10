@@ -12,6 +12,9 @@ Contact me with Session or SimpleX.
 ![](https://i.postimg.cc/RFVdTTzb/Session-Editor.jpg){width=500}
 +++ SimpleX
 ![](https://i.postimg.cc/Jn6qYBr7/Simple-X-Editor.png){width=500}
++++ ?
+Alpha-testing a new project. Contact for password.
+https://cryptpad.fr/form/#/2/form/view/+WBBYQGnQjYaRga9myRWm9THCImCCCCcfqkLq+bjons/p/embed/
 +++
 
 
