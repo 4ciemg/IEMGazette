@@ -9,7 +9,7 @@ order: -100
 ## Anon's SoCal Canjam experience (2024)
 *28-29/09/2024*
 
->![Anon's SoCal Canjam experience](https://i.postimg.cc/BbqVjBtY/Anon-s-So-Cal-Canjam-experience-2024-1.jpg){width=300} 
+>![Anon's SoCal Canjam experience](https://i.postimg.cc/BbqVjBtY/Anon-s-So-Cal-Canjam-experience-2024-1.jpg){width=500} 
 >Anon's CanJam 2024
 >\>I like
 >Kinera Verdandi, Letshuoer EJ07-successor Prototype, Letshuoer S08, DUNU DK 3001, UM MEST MKIII, Symphonium Meteor, Nightjar Duality, Hisenior Mega5EST, 64 Audio Volur
@@ -18,7 +18,7 @@ order: -100
 >\>POS
 >Kinera Thorking, Letshuoer Flagship, FiiO FT1, Symphonium Titan, Campfire Trifecta, 64 Audio Solo, Empire Ears Odin
 >Still have a few headpos, brands like Linsoul and Fatfreq that I will check out day 2. Most likely will place an order for Symphonium Meteor unless Tea Pro or ZiiGaats can impress.
->>![Anon's SoCal Canjam experience](https://i.postimg.cc/8kHYq9nq/Anon-s-So-Cal-Canjam-experience-2024-2.jpg){width=300} 
+>>![Anon's SoCal Canjam experience](https://i.postimg.cc/8kHYq9nq/Anon-s-So-Cal-Canjam-experience-2024-2.jpg){width=500} 
 >>Updated list with pos I tried on day 2.
 >>\>I like it
 >>Kinera Verdandi, Letshuoer EJ07-successor Prototype, Letshuoer S08, DUNU DK 3001, UM MEST MKIII, Symphonium Meteor, Nightjar Duality, Hisenior Mega5EST, 64 Audio Volur, Thieaudio Origin
@@ -32,11 +32,11 @@ order: -100
 >>>>Final stuff maintains a general "house sound," as the majority are 1DD. There is a smoothed over creamy cohesiveness about them, but A6000 does have a surprising perception of openness. They are not sensitive, warm balanced, slightly more techs than any of the E or S bullet series, better sub bass and more typical upper mids tuning. For what the TBD expected price will probably be, I would not pay for such a smoothed over 1DD sound, but it is quite pleasant if disregarding price.
 >>
 >>>what separates good from bad???
->>>>![Anon's SoCal Canjam experience](https://i.postimg.cc/FsH6mpM1/Anon-s-So-Cal-Canjam-experience-2024-3.jpg){width=300} 
+>>>>![Anon's SoCal Canjam experience](https://i.postimg.cc/FsH6mpM1/Anon-s-So-Cal-Canjam-experience-2024-3.jpg){width=500} 
 >>>>My subjective perception of the overall tonal balance, and good / redeeming qualities versus bad / poor qualities when listening to my set of test tracks.
 >>
 >>>Is there an IEM you would consider as an upgrade over the Mega5est? Price notwithstanding
->>>>![Anon's SoCal Canjam experience](https://i.postimg.cc/5ynkLQCx/Anon-s-So-Cal-Canjam-experience-2024-4.jpg){width=300} 
+>>>>![Anon's SoCal Canjam experience](https://i.postimg.cc/5ynkLQCx/Anon-s-So-Cal-Canjam-experience-2024-4.jpg){width=500} 
 >>>>You ask a simple question but there isn't a simple answer imo. Most things are going to diverge as far as frequency response in some region or another. JM-1 meta meme and all that, it's fairly uncommon. The EJ07 successor prototype was solid, afaik it will be 1DD+4BA(?)+4EST, with tuning relatively similar to OG EJ07 which is fairly balanced. ETA release early next year. Nightjar Singularity and Duality are both good as far as retaining a natural timbre and presentation, but are definitely more bass-enhanced sets. As far as Thieaudio's stuff, Monarch MKIII and Origin are my "safe picks," from their ~kilobuck lineup, but they are probably more boosted in the upper mids and treble on average.
 
 
@@ -46,16 +46,16 @@ order: -100
 ## Tanchjim 4U Review
 *27/09/2024*
 
->![Tanchjim 4U Review](https://i.postimg.cc/J7TjGFqC/Tanchjim-4-U-Review-1.jpg){width=200} 
+>![Tanchjim 4U Review](https://i.postimg.cc/J7TjGFqC/Tanchjim-4-U-Review-1.jpg){width=400} 
 >Sistas...
 >4U review coming soon.
->>![Tanchjim 4U Review](https://i.postimg.cc/1526KN2W/Tanchjim-4-U-Review-2.jpg){width=300} 
+>>![Tanchjim 4U Review](https://i.postimg.cc/1526KN2W/Tanchjim-4-U-Review-2.jpg){width=500} 
 >>Tanchjim 4U Impressions/Review
 >>
 >>Build quality is excellent as per usual. Nice shell with no sharp edges, very good (albeit thin) cable that behaves very well, good tips that actually fit the large nozzle, and nice little gifts too. Remains to be seen if the reflective faceplate will ever scratch, but after a week and a half, nothing has appeared.
 >>
 >>Fit is one of two reasons why I bought this, and it doesn't disappoint. Very nice fitting, and the general size of it allows for very good tip compatibility in terms of comfort and stability. It is a decent bit bigger than the Chu 2, but still much smaller than the average IEM; depending on the tips used, it sits flush inside the ear.
->>>![Tanchjim 4U Review](https://i.postimg.cc/mg99pgGT/Tanchjim-4-U-Review-4.png){width=300} (check archive for full resolution)
+>>>![Tanchjim 4U Review](https://i.postimg.cc/mg99pgGT/Tanchjim-4-U-Review-4.png){width=500} (check archive for full resolution)
 >>>Sound quality
 >>>
 >>>It sounds fine. Not much else to say really, it sounds like any well tuned, competent IEM. The overall tonal balance is very good. Treble is a bit on the spicy side, but nothing major either. Again, not much else to say. Do note that I'm using the stock small wide bore tips, so it is inserted quite deeply.
@@ -73,7 +73,7 @@ order: -100
 ## FiiO K11 R2R Impressions
 *26/09/2024
 
->![FiiO K11 R2R Impressions](https://i.postimg.cc/mk69JcDg/Fii-O-K11-R2-R-Impressions.jpg){50%:50%} 
+>![FiiO K11 R2R Impressions](https://i.postimg.cc/mk69JcDg/Fii-O-K11-R2-R-Impressions.jpg){width=600} 
 >I’ve spent 2 days with the K11 R2R, short post on its usability:
 >\>Temps
 >No overheating concerns, the unit barely gets above room temperature as it is.
@@ -92,7 +92,7 @@ order: -100
 ## Anon makes a cute case
 *24/09/2024*
 
->![Anon makes a cute case](https://i.postimg.cc/NGrNP53z/Anon-makes-a-cute-case.jpg){50%:50%} 
+>![Anon makes a cute case](https://i.postimg.cc/NGrNP53z/Anon-makes-a-cute-case.jpg){width=500} 
 >Recently got space travels so i made a little case for it since i didnt wanna buy one
 >>Can u make me one
 >>>You can literally make one yourself, get yarn and either a 3mm or 4mm hook, put some yt tutorials and you're set
@@ -103,10 +103,10 @@ order: -100
 ## What does /iemg/ value the most in an IEM?
 *20/09/2024*
 
->![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/W17Q4FMd/What-does-iemg-value-the-most-in-an-IEM-1.jpg){30%:30%} 
+>![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/W17Q4FMd/What-does-iemg-value-the-most-in-an-IEM-1.jpg){width=400} 
 >What do you value most in an iem?
 >For me, timbre is paramount. If an IEM sounds unnatural it likely won’t be kept for long.
->>![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/d0tgZsB4/What-does-iemg-value-the-most-in-an-IEM-2.jpg){30%:30%} 
+>>![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/d0tgZsB4/What-does-iemg-value-the-most-in-an-IEM-2.jpg){width=300} 
 >>Fox.
 >
 >>\>values the timbre
@@ -131,7 +131,7 @@ order: -100
 >>>\>euphonic distortion (techs)
 >>>Low distortion planars from audeze have huge techs.
 >
->>![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/Njt3Y7rh/What-does-iemg-value-the-most-in-an-IEM-3.jpg){30%:30%} 
+>>![What does /iemg/ value the most in an IEM?](https://i.postimg.cc/Njt3Y7rh/What-does-iemg-value-the-most-in-an-IEM-3.jpg){width=400} 
 >>\>Good design
 >>\>Comfortable to wear
 >>\>Stock sound doesn't require a gorillion filters to fix to my preference. (Good driver)
