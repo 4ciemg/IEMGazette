@@ -5,7 +5,7 @@ order: -98
 
 ***
 ***
-###Tanchjim Blocks and NiceHCK BlueLuna Cable Impressions
+## Tanchjim Blocks and NiceHCK BlueLuna Cable Impressions
 *29/11/2024*
 
 >![Tanchjim Blocks and NiceHCK BlueLuna Cable Impressions](https://i.postimg.cc/CLJLSPWB/Tanchjim-Blocks-and-Nice-HCK-Blue-Luna-Cable-Impressions.jpg){width=500}
@@ -16,7 +16,7 @@ order: -98
 
 ***
 ***
-###EPZ Q1 Pro, FiiO HS20, and Moondrop Spring Tips Impressions
+## EPZ Q1 Pro, FiiO HS20, and Moondrop Spring Tips Impressions
 *20-29/11/2024*
 
 >Finally got my EPZ Q1 Pro's with the mic cable. P neat, much lighter than the Chu 2's, fit well with the stock small tips and don't slip out. HS20's just suck, they constantly roll up and don't seal properly, so now I know it was the weight that was my issue.
@@ -50,7 +50,7 @@ There was an image for the follow-up below, but I can't be bothered to include i
 
 ***
 ***
-###Kiwi Ears Allegro Impressions
+## Kiwi Ears Allegro Impressions
 *27-28/11/2024*
 
 >![Kiwi Ears Allegro Impressions](https://i.postimg.cc/BQJnW9wf/Kiwi-Ears-Allegro-Impressions.jpg){width=500}
@@ -64,7 +64,7 @@ There was an image for the follow-up below, but I can't be bothered to include i
 
 ***
 ***
-###/iemg/ takes a look at Reddit's favorite pos
+## /iemg/ takes a look at Reddit's favorite pos
 *27/11/2024*
 
 >![/iemg/ takes a look at Reddit's favorite pos](https://i.postimg.cc/Ss8x4yhk/iemg-takes-a-look-at-Reddit-s-favorite-pos-1.jpg){width=500}
@@ -114,7 +114,7 @@ There was an image for the follow-up below, but I can't be bothered to include i
 
 ***
 ***
-###ddHIFI Cables and Xelastec/Sancai Impressions
+## ddHIFI Cables and Xelastec/Sancai Impressions
 *27/11/2024*
 
 Cutting off some of the fat here, I'm tired.
@@ -131,14 +131,14 @@ Cutting off some of the fat here, I'm tired.
 
 ***
 ***
-###So true bestie <3
+## So true bestie <3
 *27/11/2024*
 
 >Wow the gazette do be bussin fr
 
 ***
 ***
-###Tanchjim Kara Impressions
+## Tanchjim Kara Impressions
 *27/11/2024*
 
 Both are rather short so I'm combining them. Different anons.
@@ -153,7 +153,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###FiiO JA11 Review
+## FiiO JA11 Review
 *26/11/2024*
 
 >Damn, I just wrote an entire ted talk on the JA11 as a review to post here, hit post and didn't seem to upload. Here's a quick rewrite.
@@ -172,7 +172,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Anon visits the (Z)Hangout
+## Anon visits the (Z)Hangout
 *14-26/11/2024*
 
 >![Anon visits the (Z)Hangout](https://i.postimg.cc/br7vBTjd/Anon-visits-the-Z-Hangout-1.png){width=500}
@@ -304,7 +304,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Aful Explorer Impressions (2)
+## Aful Explorer Impressions (2)
 *25/11/2024*
 
 >![Aful Explorer Impressions (2)](https://i.postimg.cc/vH3ps9zB/Aful-Explorer-Impressions-2.jpg){width=500}
@@ -314,7 +314,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###IEM Review
+## IEM Review
 *24/11/2024*
 
 >New IEM arrived, i like it. Thanks for reading my review.
@@ -324,7 +324,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###TRN MT5 Measurement (n=2)
+## TRN MT5 Measurement (n=2)
 *21/11/2024*
 
 >![TRN MT5 Measurement (n=2)](https://i.postimg.cc/yYVwtn0t/TRN-MT5-Measurement-n-2.jpg){width=500}
@@ -333,7 +333,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Aful Explorer Impressions
+## Aful Explorer Impressions
 *20/11/2024*
 
 
@@ -345,14 +345,14 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###EPZ Q1 Pro Impressions
+## EPZ Q1 Pro Impressions
 *20/11/2024*
 
 >Mine Q1 pro also arrived. They are smaller than SM4 and fit very nice. I like how they fit even more than Aria. Sound tho.. while they sound pretty nice (and better than pos KZ EDC pro which I bought for lols) SM4 is just better. Better bass, better separation, better details. I frankly doubt in ability to close the gap with EQ. Very good IEM for this price tho
 
 ***
 ***
-###Etymotic ER2XR Impressions
+## Etymotic ER2XR Impressions
 *19/11/2024*
 
 >Etymodicks ER2XR have arrived, they're much more comfortable than I thought they'd be, the meme deep fit is not that scary and actually comparable to shoving likes of Truthear Hexa deep inside my ear canals with small tips, if anything additional flanges make the fit much more stable
@@ -365,7 +365,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###KZ Dawn Impressions
+## KZ Dawn Impressions
 *18/11/2024*
 
 >Dawn arrived. Not as good as EDCP when A/B.
@@ -375,7 +375,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###7HZ Salnotes Zero:2 Impressions
+## 7HZ Salnotes Zero:2 Impressions
 *18/11/2024*
 
 >My 7hz Zero2 came in and I gotta say, I think I've been redpilled on iems.
@@ -384,7 +384,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Anon experiences premium Aliexpress service
+## Anon experiences premium Aliexpress service
 *17/11/2024*
 >![Anon experiences premium Aliexpress service](https://i.postimg.cc/pLDm3grv/Anon-experiences-premium-Aliexpress-service.jpg){width=500}
 >\>want the new BTR17
@@ -403,7 +403,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Xenns Mangird Tea Pro Impressions
+## Xenns Mangird Tea Pro Impressions
 *14/11/2024*
 
 >![Xenns Mangird Tea Pro Impressions](https://i.postimg.cc/6q23cPgD/Xenns-Mangird-Tea-Pro-Impressions.jpg){width=500}
@@ -417,7 +417,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Anon reminisces about his Samsung K3
+## Anon reminisces about his Samsung K3
 *13/11/2024*
 
 >![Anon reminisces about his Samsung K3](https://i.postimg.cc/RF0q6hRC/Anon-reminisces-about-his-Samsung-K3.jpg){width=500}
@@ -431,7 +431,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###KZ EDC Pro & CB1200AU DAC Review
+## KZ EDC Pro & CB1200AU DAC Review
 *13/11/2024*
 
 >![KZ EDC Pro & CB1200AU DAC Review](https://i.postimg.cc/PqTCH2vw/KZ-EDC-Pro-CB1200-AU-DAC-Review-1.png){width=500}
@@ -464,7 +464,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###TRI I3 MK3, Kinera Celest Relentless, Hisenior Mega5EST Impressions
+## TRI I3 MK3, Kinera Celest Relentless, Hisenior Mega5EST Impressions
 *09/11/2024*
 
 >![TRI I3 MK3, Kinera Celest Relentless, Hisenior Mega5EST Impressions](https://i.postimg.cc/YSVShssJ/TRI-I3-MK3-Kinera-Celest-Relentless-Hisenior-Mega5-EST-Impressions.jpg){width=500}
@@ -475,7 +475,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Japanese Tips and Case Impressions
+## Japanese Tips and Case Impressions
 *09/11/2024*
 
 >![Tips and Case Impressions](https://i.postimg.cc/vT782HZs/Japanese-Tips-and-Case-Impressions-1.jpg){width=500}
@@ -493,7 +493,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Yes, we get the ick
+## Yes, we get the ick
 *03/11/2024*
 
  >![Yes, we do get the ick](https://i.postimg.cc/fL9RXv4k/Yes-we-get-the-ick-1.jpg){width=500}
@@ -515,7 +515,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###Simgot EA500LM Oxidation
+## Simgot EA500LM Oxidation
 *03/11/2024*
 
 >![Simgot EA500LM Oxidation](https://i.postimg.cc/9MFvKwTc/Simgot-EA500-LM-Oxidation.jpg){width=500}
@@ -524,7 +524,7 @@ Both are rather short so I'm combining them. Different anons.
 
 ***
 ***
-###The beryllium dust is getting to anons...
+## The beryllium dust is getting to anons...
 *01/11/2024*
 
 >![Video, check ]() [archive](https://mega.nz/folder/cchSBaBQ#WwAguZeGclZkxzvwVNSryQ)
