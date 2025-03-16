@@ -144,21 +144,21 @@ order: -100
 *18/09/2024*
 
 [EQ guide here](https://rentry.org/IEM-EQ-Guide).
->![No Child Left Behind](https://i.postimg.cc/B6zHsN74/No-Child-Left-Behind-1.png){50%:50%} 
+>![No Child Left Behind](https://i.postimg.cc/B6zHsN74/No-Child-Left-Behind-1.png)
 >Supermix 4 came in.
 >They are pretty good. I eq'd them too, picrel.
 >t. deafzo
 >>\>didn't fix any of the lumps
 >>\>just made the pos ultra muddy
 >>deafzo...
->>>![No Child Left Behind](https://i.postimg.cc/76h0pjVK/No-Child-Left-Behind-2.png){50%:50%} 
+>>>![No Child Left Behind](https://i.postimg.cc/76h0pjVK/No-Child-Left-Behind-2.png)
 >>>New eq.
 >>>>Why are you setting the ear gain peak at 5K? That looks horrible to me but hey it's your ears as long as you're happy.
 >>>>>Works for me, I literally eqd to monarch mk3 and added some extra bass.
 >>>>>>which fucking monarch mk3 graphs like that lmao
->>>>>>>![No Child Left Behind](https://i.postimg.cc/s1dWGxRL/No-Child-Left-Behind-3.png){50%:50%} 
+>>>>>>>![No Child Left Behind](https://i.postimg.cc/s1dWGxRL/No-Child-Left-Behind-3.png)
 >>>>>>>Idk desu, the default one on squiglink.
->>>>>>>>![No Child Left Behind](https://i.postimg.cc/8crWCWxW/No-Child-Left-Behind-4.png){50%:50%} 
+>>>>>>>>![No Child Left Behind](https://i.postimg.cc/8crWCWxW/No-Child-Left-Behind-4.png)
 >>>>>>>>you're eqing to broken pos bro...
 
 
@@ -170,7 +170,7 @@ order: -100
 ## Letshuoer S12 2024 Impressions
 *18/09/2024*
 
->![Letshuoer S12 2024 Impressions](https://i.postimg.cc/zD9KctRk/Letshuoer-S12-2024.jpg){50%:50%} 
+>![Letshuoer S12 2024 Impressions](https://i.postimg.cc/zD9KctRk/Letshuoer-S12-2024.jpg){width=600} 
 >Impressions for S12 2024:
 >TL:DR
 >It's an Artti T10 sidegrade, S12 planar timbre wasn’t fixed on the 2024 ed
@@ -228,7 +228,7 @@ Here are a few exchanges between the editor (me) and others concerning rules.
 *14/09/2024*
 
 Two anons share their thoughts on the current FOTM budget IEMs. Which one comes out on top?
->![Gate and EDC Pro comparisons](https://i.postimg.cc/T3df6B4X/Gate-and-EDC-Pro-comparisons-1.jpg){50%:50%} 
+>![Gate and EDC Pro comparisons](https://i.postimg.cc/T3df6B4X/Gate-and-EDC-Pro-comparisons-1.jpg){width=500} 
 >Cheap plastic pos showdown:
 >\> Both are passable sound wise
 >\> Both are very cheap feeling, EDC pro feels cheaper but also more durable
@@ -240,13 +240,13 @@ Two anons share their thoughts on the current FOTM budget IEMs. Which one comes 
 >
 >Gate is the overall winner, but both aren't that good to be honest. EDC pro is pretty tip sensitive at least in graphs, the starline tips reduces the upper treble spike by a lot on the graph but to my ears it doesn't translate and it's still quite harsh. Spinfit omni fucks up the FR for whatever reason.
 >
->>![Gate and EDC Pro comparisons](https://i.postimg.cc/GmXrhzWT/Gate-and-EDC-Pro-comparisons-2.png){50%:50%} 
+>>![Gate and EDC Pro comparisons](https://i.postimg.cc/GmXrhzWT/Gate-and-EDC-Pro-comparisons-2.png)
 >>Graphs, channel matching was excellent on both.
 >
->>![Gate and EDC Pro comparisons](https://i.postimg.cc/nLMxsBxR/Gate-and-EDC-Pro-comparisons-3.png){50%:50%} 
+>>![Gate and EDC Pro comparisons](https://i.postimg.cc/nLMxsBxR/Gate-and-EDC-Pro-comparisons-3.png)
 >>Graphs for tip rolling
 >
->>![Gate and EDC Pro comparisons](https://i.postimg.cc/bvMh1rNz/Gate-and-EDC-Pro-comparisons-4.png){50%:50%} 
+>>![Gate and EDC Pro comparisons](https://i.postimg.cc/bvMh1rNz/Gate-and-EDC-Pro-comparisons-4.png) 
 >>You reminded me I wanted to post my impressions too.
 >>https://pastebin.com/3VUAxbsK (available in archive as "Gate and EDC Pro comparisons Pastebin")
 
@@ -384,7 +384,7 @@ Future plans after the update.
 ## Gate and Tempotec Sonata III Impressions
 *07/09/2024*
 
->![](https://i.postimg.cc/nc7C5JCx/image.png){30%:30%}
+>![](https://i.postimg.cc/nc7C5JCx/image.png){width=500}
 >My first chinkshit arrived a few days ago.
 >After testing them, here are my thoughts for anyone considering any of these two. I'm gonna use them mostly on a S22.
 >The Tempotec Sonata HD III is quite decent for its price, in some devices, like my laptop, my Switch or low end phones with headphone jacks, it improves the sound and max volume by a LOT, on my desktop PC it's about the same level. Absolutely not a single sound or hissing when nothing is playing or connected. It's built like a tank, very heavy metal frame.
@@ -399,7 +399,7 @@ Future plans after the update.
 ## Truthear Nova impressions
 *07/09/2027*
 
->![](https://i.postimg.cc/WpG8PQDG/image.png){50%:50%}
+>![](https://i.postimg.cc/WpG8PQDG/image.png){width=500}
 >Good evening /iemg/, got my Nova, its a good day.
 >Been wanting a pair for a while now. It looks absolutely gorgeous with its deep blue shell. Cable is nice as well, but it is quite microphonic. These fit me perfectly after bending the ear hook a bit because it was wound too tight.
 >Turning is very comfortable, zero fatigue, separation is great, fantastic for almost all genres. Playing Pick Up the Pieces by Average White Band, all instruments are given respect, nothing sounds either too thin or bloated, its a joy to listen to.
@@ -447,7 +447,7 @@ Finally, this rentry is created, with no plans or anything really. Let's see how
 >>2. Wan'er - Replaced my hd6xx for recording music, can't hear shit with the senns when my AC is on
 >>3. Space Travels - Use it 6 days a week for physical activity. Yes this is better sounding and more comfortable than the galaxy buds pro 2
 >
->>![/iemg/'s top 3 in August](https://i.postimg.cc/ydvj5cJt/Top3.jpg){50%:50%} 
+>>![/iemg/'s top 3 in August](https://i.postimg.cc/ydvj5cJt/Top3.jpg){width=00} 
 >>Top three hasn't changed, check archives for impressions:
 >>1. Hisenior Mega5-Est
 >>2. Ziigaat Cincotres
@@ -455,7 +455,7 @@ Finally, this rentry is created, with no plans or anything really. Let's see how
 >>
 >>Though I am getting the S12 2024 next week and hoping it's good enough to replace the SM4
 >
->>![/iemg/'s top 3 in August](https://i.postimg.cc/QtXS00Mc/Top3-2.jpg){50%:50%} 
+>>![/iemg/'s top 3 in August](https://i.postimg.cc/QtXS00Mc/Top3-2.jpg){width=400} 
 >>1. EPZ G10
 >>2. JBL Endurance Run 2
 >>3. N/A
@@ -470,11 +470,11 @@ Finally, this rentry is created, with no plans or anything really. Let's see how
 *02/09/2024*
 
 Anon asks for advice on TWS.
->![Samsung Galaxy Buds 2 Pro and TWS opinions](https://i.postimg.cc/m2QjfvF7/Samsung-Galaxy-Buds-2-Pro-and-TWS-opinions.jpg){30%:30%} 
+>![Samsung Galaxy Buds 2 Pro and TWS opinions](https://i.postimg.cc/m2QjfvF7/Samsung-Galaxy-Buds-2-Pro-and-TWS-opinions.jpg){width=300} 
 >I have them and they're fucking shit. Poor fit, constantly slipping out if I yawn or smile and thin sound like those shitty wired earbuds we used to get with phones like 15 years ago.
 >They came with my phone, and I also had the jabra elite 85ts until one of them fell out at work and I never found it. The jabras were better in every conceivable way, and the only reason one of them fell out was because I was pulling myself up into a roof and my left shoulder brushed up against my ear. They fit well, stayed in at the gym/work, they were comfy, and they sounded good, better than the sony xb700s I had before them. The buds 2 pros are worse than the xb700s were.
 >I'm actually going out to buy a pair of xm5s in like an hour because I don't want to keep using the buds 2 pros, I'll let you know if they also suck
->>![Samsung Galaxy Buds 2 Pro and TWS opinions](https://i.postimg.cc/MpqDW9yN/Samsung-Galaxy-Buds-2-Pro-and-TWS-opinions-2.jpg){30%:30%} 
+>>![Samsung Galaxy Buds 2 Pro and TWS opinions](https://i.postimg.cc/MpqDW9yN/Samsung-Galaxy-Buds-2-Pro-and-TWS-opinions-2.jpg){width=300} 
 >>Updoot: The snoys are alright, the fit isn't quite as good as the 85ts but I haven't tried the other eartips yet. Sound quality is better, but it didn't blow my mind. I kinda wish I got the jabra 10 gen 2s but idk, I kept seeing reviews saying they're worse than previous jabras, and it's not like the xm5s are bad.
 
 
