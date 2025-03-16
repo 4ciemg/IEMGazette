@@ -363,7 +363,7 @@ Future plans after the update.
 ## Kinera Celest Wyvern Abyss Impressions
 *08/09/2024*
 
->![Kinera Celest Wyvern Abyss Impressions](https://i.postimg.cc/RVRtT4Hp/Kinera-Celest-Wyvern-Abyss-Impressions.jpg){30%:50%} 
+>![Kinera Celest Wyvern Abyss Impressions](https://i.postimg.cc/RVRtT4Hp/Kinera-Celest-Wyvern-Abyss-Impressions.jpg){width=300} 
 >new pos just rolled in
 >pros:
 >\>comfy
