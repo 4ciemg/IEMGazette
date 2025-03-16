@@ -119,7 +119,7 @@ Not sure if it's the same anon that did the noteworthy releases posts, but I'll 
 
 >![](https://i.postimg.cc/hGD40qQr/More-IEM-Impressions-by-Hangout-Store-Squatter-1.png)
 >Another blogpost, been busy so I haven’t got the chance to audition much pos:
-
+>
 >\>Dita Mecha
 >Warm-fi with a weird treble dip at 7khz. Okay midbass but low-end feels bloated. Uppermids and treble leaves more to be desired as the Mecha suffers greatly from a lack of resolution. Poorly executed kilobuck 1DD which only makes the Softears Twilight and Nightjar Singularity seemed more impressive by comparison. 5/10.
 >
