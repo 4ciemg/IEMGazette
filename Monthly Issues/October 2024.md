@@ -5,26 +5,26 @@ order: -99
 
 ***
 ***
-###Liquid Silicone Tips Measurement with Truthear Gate
+## Liquid Silicone Tips Measurement with Truthear Gate
 *30/10/2024*
 
->![Liquid Silicone Tips Measurement with Truthear Gate](https://i.postimg.cc/bNGmZ987/Liquid-Silicone-Tips-Measurement-with-Truthear-Gate.png){60%:60%}
+>![Liquid Silicone Tips Measurement with Truthear Gate](https://i.postimg.cc/bNGmZ987/Liquid-Silicone-Tips-Measurement-with-Truthear-Gate.png){width=500}
 >More tip graphs, this time with liquid silicones. Seems like the only ones that don't change the sound are the Feaulle H570 and Azla xelastec 2. Chuzo vindicated?!?!?!
 
 ***
 ***
-###Self-crowned /iemg/ Captain
+## Self-crowned /iemg/ Captain
 *29-30/10/2024*
 
 Greed's strongest soldier. 
 Also, imagine if all the other non-visible layers were empty...
 
->![Self-crowned /iemg/ captain](https://i.postimg.cc/bNK3kSws/Self-crowned-iemg-captain-1.jpg){50%:50%}
+>![Self-crowned /iemg/ captain](https://i.postimg.cc/bNK3kSws/Self-crowned-iemg-captain-1.jpg){width=500}
 >I am the /iemg/ captain now
 >>please don't tell me you store all of your pos like this
 >>show your daily carries
 >
->>![Self-crowned /iemg/ captain](https://i.postimg.cc/05Xt5BgG/Self-crowned-iemg-captain-2.jpg){15%:15%}
+>>![Self-crowned /iemg/ captain](https://i.postimg.cc/05Xt5BgG/Self-crowned-iemg-captain-2.jpg){width=500}
 >
 >>post timestamp
 >
@@ -39,16 +39,16 @@ Also, imagine if all the other non-visible layers were empty...
 
 ***
 ***
-###KZ Saga Measurements (n=6)
+## KZ Saga Measurements (n=6)
 *29/10/2024*
 
->![KZ Saga Measurements (n=6)](https://i.postimg.cc/rpTjY6WT/KZ-Saga-Measurements-n-6-1.jpg){40%:40%}
+>![KZ Saga Measurements (n=6)](https://i.postimg.cc/rpTjY6WT/KZ-Saga-Measurements-n-6-1.jpg){width=500}
 >Guess how many units were good.
 >>0
 >
 >>8
 >
->>![KZ Saga Measurements (n=6)](https://i.postimg.cc/RZKGRCWG/KZ-Saga-Measurements-n-6-2.png){60%:60%}
+>>![KZ Saga Measurements (n=6)](https://i.postimg.cc/RZKGRCWG/KZ-Saga-Measurements-n-6-2.png){width=500}
 >>Graphs for these shits here. All measurements were done using JVC Spiral Dots++ tips and an aftermarket 4.4mm cable. Source is the Tanchjim Luna weeb edition, all units were measured at the same volume and then offset in REW to make the graph more readable. Samples 2-6 were ordered roughly 2-3 weeks ago, sample 1 was ordered roughly a month ago. Samples 2-6 were purchased across various Aliexpress stores, with sample 1 coming direct from KZ.
 >>Samples 3 and 6 have acceptable channel balance but sample 5 is the only one I'd call good. Sample 1 is bad, sample 2 is almost okay, and sample 4 is awful. Depending on your standards, 50% to 66% of units are decent. I understand why crapzo bought a bunch of CRAs, it's the only way to guarantee you get a good pair. Mixing and matching gave me one "golden" pair, the left channel from sample 3 and the right channel from sample 6.
 >>Other stuff about the IEM, the build is incredibly solid, not just for the price. It's all metal and the comfort is better than every other KZ I've tried. The shell is just as nice as the EA500LM shell, slightly more comfortable and I think it looks better too. The build was the reason I decided to do this experiment, I figured I'd spend about as much as the EA500LM to see if I could get a good pair after the first pair I ordered ended up having not so great channel matching. Sound wise the Saga is decently bassy, with an irritating spike at 11.3K to my ears and slightly muddy lower mids but otherwise not really deficient in any other area. The ear gain and treble are still a few dB too much for my taste but that's a matter of preference. I can't recommend KZ unless you have your own coupler and are willing to buy roll the dice on multiple units to do the QC yourself. The stock cable is also an abomination as expected. This was fun though, and I'm happy with the results.
@@ -58,12 +58,12 @@ Also, imagine if all the other non-visible layers were empty...
 
 ***
 ***
-###FatFreq x HBB Deuce 
+## FatFreq x HBB Deuce 
 *26/10/2024*
 
 Deuce...pffft.
 
->![FatFreq x HBB Deuce](https://i.postimg.cc/bYFKhYMJ/Fat-Freq-x-HBB-Deuce.jpg){30%:30%}
+>![FatFreq x HBB Deuce](https://i.postimg.cc/bYFKhYMJ/Fat-Freq-x-HBB-Deuce.jpg){width=500}
 >Finally my DEUCE pos had arrived
 >
 >The most comfy shell I've ever had but the nozzle is weirdly wide for 2dd.
@@ -71,10 +71,10 @@ Deuce...pffft.
 
 ***
 ***
-###TRN MT5 Review
+## TRN MT5 Review
 *23-25/10/2024*
 
->![TRN MT5 Review](https://i.postimg.cc/WbkfcGgW/TRN-MT5-Review-1.png){40%:40%}
+>![TRN MT5 Review](https://i.postimg.cc/WbkfcGgW/TRN-MT5-Review-1.png){width=500}
 >Ok here's a flash review of the TRN MT5 after using it for 3 days (too lazy to set up a photo shoot, maybe later).
 >
 >Fit/Comfort: Good, lightweight shell that is thinner than average but not by much, with a short nozzle that has a weird stub on it (instead of a "hard" lip). Haven't had any major clogging issues but I'm not confident . Looks nice and plain.
@@ -85,7 +85,7 @@ Deuce...pffft.
 >>Nice man. looks like it graphs very similar to the orca. I was always on the edge of copping that set…i might do so now it looks better than orca aesthetically
 >>>Basically the same looking at other measurements. I was actually tempted by the Orcas a while back but was put off by the looks just like you.
 >
->>![TRN MT5 Review](https://i.postimg.cc/FFqn6Wdk/TRN-MT5-Review-2.jpg){20%:20%}
+>>![TRN MT5 Review](https://i.postimg.cc/FFqn6Wdk/TRN-MT5-Review-2.jpg){width=500}
 >>Where's the advertised LCP DD lol
 >>>Didn't realize they advertised it as LCP, that's weird.
 >
@@ -95,29 +95,29 @@ Deuce...pffft.
 >>As for EQ, I didn't do much, just a very small bump around 10khz just to increase resolution. Everything seems to match my hearing perfectly, I'm rather surprised.
 >>
 >>Compared to other 1DD in terms of sound quality, it is excellent to my ears, and I wouldn't be mad if this was the only IEM I could use from now on.
->>>![TRN MT5 Review](https://i.postimg.cc/6qDjGqJf/TRN-MT5-Review-3.png){50%:50%}
+>>>![TRN MT5 Review](https://i.postimg.cc/6qDjGqJf/TRN-MT5-Review-3.png){width=500}
 >>>And here are the results from a bit of quick modding.
 >>>Seems like foams are ideal for that 5khz peak in case it is too prominent on some units. Didn't notice a huge difference there. However, it seems like the front vent is dropping a good amount of bass. Haven't listened to this last one as the vent blocking was due to the coupler pressing against the tip dome/umbrella and covering the vent. Becomes a bit uncontrolled and has some driver flex and pressure issue. Maybe a light filter will work.
 
 ***
 ***
-###Lepic Nuon Clears and Coreir Al Tips Impressions and Measurements
+## Lepic Nuon Clears and Coreir Al Tips Impressions and Measurements
 *22-23/10/2024*
 
 
->![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/pdxSZm90/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-1.jpg){20%:20%}
+>![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/pdxSZm90/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-1.jpg){width=500}
 >New Japanese tips, got the Lepic (le epic xDD) Nuon Clears and the new Coreir AL. The Nuons are comfortable, but very small bore. The surface isn't grippy and the stem is relatively stiff but the shape lets it go deep without discomfort.
 >The Coreir ALs are just more of the same as the brass version, I gave my Simgots to my parents so I'm not sure what to put them on. I'm also looking for more esoteric Japanese tips, I'm getting a zenmarket haul soon so might as well grab some small items since the shipping is gonna be the same either way.
 >>Small bore is good though nah?
 >>>I'll graph it later on the gate, initial impressions it sounds maybe a bit muted in the upper treble on U18s compared to W1.
->![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/J4fvs6RC/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-2.png){30%:30%}
+>![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/J4fvs6RC/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-2.png){width=500}
 >>jp anon, have you tried any of the jijujet tips? im hoping someone can say whether they're a meme or not
->>>![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/8zL3MRCJ/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-3.png){50%:50%}
+>>>![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/8zL3MRCJ/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-3.png){width=500}
 >>>Yeah I was the anon who bought them a while back. They are pretty much a meme, but they change the sound a lot. I'm sure there's something out there that would sound good with them, but they'll ruin any competently tuned pos for sure.
 >>>>You still like them Origins?
 >>>>>Yeah origins are great. Still my go to cheap DD.
 
->![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/G2mSW6xG/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-4.png){50%:50%}
+>![Lepic Nuon Clears and Coreir Al tips impressions and measurements](https://i.postimg.cc/G2mSW6xG/Lepic-Nuon-Clears-and-Coreir-Al-tips-impressions-and-measurements-4.png){width=500}
 >Measured the Nuon Clear and Coreir tips on Gate. They're both in the "tips that change the sound" category. I noticed the Coreirs measure very similarly to the Softears Ultraclears which are slightly narrower bore and obviously don't have the metal insert. The Nuons don't measure like any of the other tips which were omitted.
 >
 >I averaged all the standard wide bore tips that measure nearly identically in this graph to declutter things, that includes the Sancai Wide Bore, Spiral Dots++, Divinus Velvet, Feaulle H570, and the stock tips that came with the Gate.
@@ -125,37 +125,37 @@ Deuce...pffft.
 
 ***
 ***
-###Anon struggles with Legos
+## Anon struggles with Legos
 *22/10/2024*
 
->![Anon struggles with Legos](https://i.postimg.cc/8cs96xFN/Anon-struggles-with-Legos-1.jpg){30%:30%}
+>![Anon struggles with Legos](https://i.postimg.cc/8cs96xFN/Anon-struggles-with-Legos-1.jpg){width=500}
 >Cute Shiori on the box, almost makes me feel bad opening it
->>![Anon struggles with Legos](https://i.postimg.cc/gJtBm4g5/Anon-struggles-with-Legos-2.jpg){30%:30%}
+>>![Anon struggles with Legos](https://i.postimg.cc/gJtBm4g5/Anon-struggles-with-Legos-2.jpg){width=500}
 >>Wtf bros I have to assemble this myself...
 >>>what did you expect lol
 >>
->>>![Anon struggles with Legos](https://i.postimg.cc/d0BxSJrJ/Anon-struggles-with-Legos-3.jpg){30%:30%}
+>>>![Anon struggles with Legos](https://i.postimg.cc/d0BxSJrJ/Anon-struggles-with-Legos-3.jpg){width=500}
 >>>why did truthear make shiori so complicated to assemble, also there's 2 extra pieces left
 >>>>you fucked up. there's no extra pieces.
 >>>
 >>>>You know its Shiroi not Shiori
->>>>>![Anon struggles with Legos](https://i.postimg.cc/x877ygHH/Anon-struggles-with-Legos-4.jpg){15%:15%}
+>>>>>![Anon struggles with Legos](https://i.postimg.cc/x877ygHH/Anon-struggles-with-Legos-4.jpg){width=500}
 >>>>>did the timeline shift? i swore it was shiori
->>>>>>![Anon struggles with Legos](https://i.postimg.cc/VLr2LQQF/Anon-struggles-with-Legos-5.png){20%:20%}
+>>>>>>![Anon struggles with Legos](https://i.postimg.cc/VLr2LQQF/Anon-struggles-with-Legos-5.png){width=500}
 >>>>>>Shiori is from hololive.
 
 
 
 ***
 ***
-###Fosi DS2 Issue
+## Fosi DS2 Issue
 *21/10/2024*
 
 >I recently bought a fosi audio ds2 and it was working great as recently as last night. Today I wake up and plug it in and it no longer works. The LED lights up blue (I think it used to light up red), so it is receiving power, but no matter what headphone or input it doesn't transmit audio. I've tried the volume buttons, switching between high and low mode (nothing happens), and plugging it into a pc (no device is recognized). I assume it's broken, I bought it on Amazon so I can get a replacement, but is there anything else I should try before I do that? Is this a known issue with the device?
 
 ***
 ***
-###Truthear Gate Impressions
+## Truthear Gate Impressions
 *19/10/2024*
 >Just got some gatos today and listened to my usual shit for a few hours. I doubt burn-in really applies here but they were pretty shit as expected.
 >\>positives
@@ -167,7 +167,7 @@ Deuce...pffft.
 
 ***
 ***
-###FiiO HS20 Impressions
+## FiiO HS20 Impressions
 *19/10/2024* 
 >Got my FiiO HS20's for my Chu 2's, and they definitely sit better in my ears than the stock tips, they actually stick and don't slip out. Plus now I will know when they'll start to oxidize again. They're also much less springy and it seems that I have to use the M size and insert them deep for them to properly seal. At this point I believe my issue is that I don't know how to insert them properly, I'll keep fiddling with them until I get the right amount of bass and by doing so I scratch my ear with the nozzle and then it hurts. I'd get the Spring Tips to try out next if Moondrop offered a variety pack of them like FiiO did, shit's too finicky to just blind buy one size.
 >
@@ -176,13 +176,13 @@ Deuce...pffft.
 
 ***
 ***
-###Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions
+## Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions
 *19/10/2024*
 
 Attention-deprived Anon, is this enough attention?
->![Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions](https://i.postimg.cc/FHcjfSJn/Sliivo-Sl41-MK2-Divinus-Velvet-Wide-Bore-Dunu-S-S-Fii-O-KA15-Impressions-1.jpg){30%:30%}
+>![Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions](https://i.postimg.cc/FHcjfSJn/Sliivo-Sl41-MK2-Divinus-Velvet-Wide-Bore-Dunu-S-S-Fii-O-KA15-Impressions-1.jpg){width=500}
 >Am I about to cook or am I about to get cooked?
->>![Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions](https://i.postimg.cc/qq58KXLW/Sliivo-Sl41-MK2-Divinus-Velvet-Wide-Bore-Dunu-S-S-Fii-O-KA15-Impressions-2.jpg){30%:30%}
+>>![Sliivo Sl41 MK2, Divinus Velvet Wide Bore, Dunu S&S, FiiO KA15 Impressions](https://i.postimg.cc/qq58KXLW/Sliivo-Sl41-MK2-Divinus-Velvet-Wide-Bore-Dunu-S-S-Fii-O-KA15-Impressions-2.jpg){width=500}
 >>Eyo let me cook.
 >>>Kinda sad I got no replies on this.
 >>>>Why did you buy that pos...
@@ -208,7 +208,7 @@ Attention-deprived Anon, is this enough attention?
 
 ***
 ***
-###Noteworthy Releases
+## Noteworthy Releases
 *17/10/2024*
 
 >Part 1/2
@@ -277,7 +277,7 @@ Attention-deprived Anon, is this enough attention?
 
 ***
 ***
-###Westone Mach 70 Impressions
+## Westone Mach 70 Impressions
 *17/10/2024*
 
 >I got my Westone Mach 70s yesterday in the mail. The sound's well-rounded, kind of like the signature Peenon offers: Rich mid bass, veiled treble. It sounds lovely, but It's a subtle upgrade to my EPZ G10s. Thankfully channel balance is near perfect, but my unit measures with less treble than VSG's, with mine dropping around 14khz.
@@ -286,11 +286,11 @@ Attention-deprived Anon, is this enough attention?
 
 ***
 ***
-###Anon's Biohazardous IEMs
+## Anon's Biohazardous IEMs
 *16/10/2024*
 
 Ew.
->![Anon's Biohazardous IEMs](https://i.postimg.cc/8CSLLCRk/Anon-s-biohazardous-IEMs.jpg){30%:30%}
+>![Anon's Biohazardous IEMs](https://i.postimg.cc/8CSLLCRk/Anon-s-biohazardous-IEMs.jpg){width=500}
 >My KZ moggs my arya stealth unironically
 >>Why did you cum in them?
 >>>it helps with techs
@@ -299,7 +299,7 @@ Ew.
 
 ***
 ***
-###Time to ask /iemg/ for shopping advice!
+## Time to ask /iemg/ for shopping advice!
 *09/10/2024*
 
 >/iemg/'s IEM buying guide:
@@ -329,10 +329,10 @@ Ew.
 
 ***
 ***
-###Anon really likes his dynamic drivers
+## Anon really likes his dynamic drivers
 *08/10/2024*
 
->![Anon really likes his dynamic drivers](https://i.postimg.cc/85V374ZJ/Anon-really-likes-his-dynamic-drivers.jpg){30%:30%}
+>![Anon really likes his dynamic drivers](https://i.postimg.cc/85V374ZJ/Anon-really-likes-his-dynamic-drivers.jpg){width=500}
 >The Sony Anon formerly known as tanchjim anon here. I think every IEM collection if you dont wanna EQ needs a single DD iem. There is something about the timbre and coherence of a single DD. The Origin has been able to carve out a niche for itself to stay in collection. If anything i have been considering selling my sony ex800st as while it rounds out my sony IEMs, as a single DD the origin is just in a different league.
 >
 >Player:
@@ -343,30 +343,30 @@ Ew.
 
 ***
 ***
-###Tanchjim Filter, or just a 500 mesh filter?
+## Tanchjim Filter, or just a 500 mesh filter?
 *07/10/2024*
 
 
->![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/TPWMLpGS/Tanchjim-Filter-or-just-a-500-mesh-filter-1.png){30%:30%}
+>![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/TPWMLpGS/Tanchjim-Filter-or-just-a-500-mesh-filter-1.png){width=500}
 >Don't know if this is common knowledge, but just wanted to let you guys know that whatever filter Tanchjim is using on the 4U (and I'm assuming on most of their other IEMs) is simply a 500 mesh filter.
 >I remeasured since I felt like they had gotten a bit darker with a subtle ear gain shift; lo and behold, it seems like the effects of the filter enhanced themselves (due to uncleanable clogging/condensation?), reducing the ear gain even more.
 >Swapping for a 500 mesh filter, which looks identical apart for the surrounding glue, brought it back to its original tuning. I will however say that I'm keeping the old filters, since the more relaxed tuning fits how I use it (long periods because it's so damn comfortable). One EQ filter is enough to "fix it" if needed.
->>![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/mDQvjJPy/Tanchjim-Filter-or-just-a-500-mesh-filter-2.jpg){30%:30%}
+>>![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/mDQvjJPy/Tanchjim-Filter-or-just-a-500-mesh-filter-2.jpg){width=500}
 >>This is not a knock on anything, I was using these for +8 hours with little to no breaks or cleaning what has been almost 3 weeks. Both sides "suffered" the same change more or less, so I'm rather impressed by how they haven't died out or become imbalanced.
 >>Picrel is a photo of the two filter types. Can you guess which one is which?
 >>><- tanch
 >>>-> 500 mesh
 >>>the left mesh is blocking more light so more dampening like ur squig showed
->>>>![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/NMqh1Bj0/Tanchjim-Filter-or-just-a-500-mesh-filter-3.jpg){30%:30%}
+>>>>![Tanchjim Filter, or just a 500 mesh filter?](https://i.postimg.cc/NMqh1Bj0/Tanchjim-Filter-or-just-a-500-mesh-filter-3.jpg){width=500}
 >>>>Yep! Just like you said, the left one is more clogged so it is ever so slightly darker.
 >>>>Picrel is another one but at an angle until one of the filter becomes fully opaque; this time, it's pretty much impossible to tell them apart (although the used one is crooked because I'm not the most dexterous).
 
 ***
 ***
-###Tanchjim Cable X Review
+## Tanchjim Cable X Review
 *07/10/2024*
 
->![Tanchjim Cable X Review](https://i.postimg.cc/VkvcwKhz/Tanchjim-Cable-X-Review-1.jpg){30%:30%}
+>![Tanchjim Cable X Review](https://i.postimg.cc/VkvcwKhz/Tanchjim-Cable-X-Review-1.jpg){width=500}
 >Transjim cable R is decent, a bit too thick but not bad. However the finish of the 2 pin connector does not match the origin, major fuck up. The USB C termination is pretty good, no hiss and comes with 5 PEQ bands. Good option for poor souls who got scammed into buying a modern phone.
 >>\>does not match the origin
 >>replace it with the matte origin, sista :3
@@ -385,10 +385,10 @@ Ew.
 ***
 ***
 
-###Truthear Gate Tip Rolling Measurements
+## Truthear Gate Tip Rolling Measurements
 *06/10/2024*
 
->![Truthear Gate Tip Rolling Measurements](https://i.postimg.cc/7YJKHPfb/Truthear-Gate-Tip-Rolling-Measurements.png){50%:50%}
+>![Truthear Gate Tip Rolling Measurements](https://i.postimg.cc/7YJKHPfb/Truthear-Gate-Tip-Rolling-Measurements.png){width=500}
 >I measured some tips on the Truthear Gate.
 >Tips seem to generally fall into two groups, tips that barely change the sound at all and tips that do change the sound. Sancai Wide Bore, Spiral Dots, Velvet, and H570 all measured almost identically, with only minor differences above 6K.
 >The second group of tips are the W1, Flex, and Ultraclears, and they all graph differently to each other and the first group of tips. I'm surprised to see upper mids being affected, I had always assumed tips really only differed above 10K but these graphs suggest tip choices don't matter at all until they do. The changes below 10K are 1-2dB at most but this might be audible. I'm guessing bore diameter is a significant factor, all 3 'abnormal' tips are narrower bore than all the 'normal' tips and the Flex and W1 have bendy heads.
@@ -397,28 +397,28 @@ Ew.
 ***
 ***
 
-###/iemg/'s Chifi preferences
+## /iemg/'s Chifi preferences
 *04-05/10/2024*
 
->![/iemg/'s Chifi preferences](https://i.postimg.cc/RCHGryc1/iemg-s-Chifi-preferences-1.png){40%:40%} 
+>![/iemg/'s Chifi preferences](https://i.postimg.cc/RCHGryc1/iemg-s-Chifi-preferences-1.png){width=500} 
 >bros share ur chink-fi taste :3
 >https://tiermaker.com/create/iem-brands-ranking-15556912
->>![/iemg/'s Chifi preferences](https://i.postimg.cc/85F4znxS/iemg-s-Chifi-preferences-2.png){40%:40%} 
+>>![/iemg/'s Chifi preferences](https://i.postimg.cc/85F4znxS/iemg-s-Chifi-preferences-2.png){width=500} 
 >
->>![/iemg/'s Chifi preferences](https://i.postimg.cc/4dr57QTh/iemg-s-Chifi-preferences-3.png){40%:40%} 
+>>![/iemg/'s Chifi preferences](https://i.postimg.cc/4dr57QTh/iemg-s-Chifi-preferences-3.png){width=500} 
 >
->>![/iemg/'s Chifi preferences](https://i.postimg.cc/mrgV0rwh/iemg-s-Chifi-preferences-4.png){40%:40%} 
+>>![/iemg/'s Chifi preferences](https://i.postimg.cc/mrgV0rwh/iemg-s-Chifi-preferences-4.png){width=500} 
 >
->>![/iemg/'s Chifi preferences](https://i.postimg.cc/0jDCpK8X/iemg-s-Chifi-preferences-5.png){40%:40%} 
+>>![/iemg/'s Chifi preferences](https://i.postimg.cc/0jDCpK8X/iemg-s-Chifi-preferences-5.png){width=500} 
 >>I'm right, you're wrong.
 
 ***
 ***
 
-###ISN Audio H60 Review
+## ISN Audio H60 Review
 *04/10/2024*
 
->![ISN Audio H60 Review](https://i.postimg.cc/02S4frWs/ISN-Audio-H60-Review-1.jpg){40%:40%} 
+>![ISN Audio H60 Review](https://i.postimg.cc/02S4frWs/ISN-Audio-H60-Review-1.jpg){width=500} 
 >-Been collecting IEMs for three years
 >-Have only been collecting cheap pos and some that are slightly above them
 >-Most expensive models I have are Truthear Zero: Red, Tinhifi T3 Plus and TRN BA5
@@ -435,7 +435,7 @@ Ew.
 >-$350
 >-Purchased directly from Penon store, because I can also get a free gift of my choice, which is a free IEM
 >-Just a cheap pair of Sennheiser Momentum knockoffs, actually sounds good for what they are, but let's not talk about them.
->>![ISN Audio H60 Review](https://i.postimg.cc/9QtN6KHg/ISN-Audio-H60-Review-2.jpg){40%:40%} 
+>>![ISN Audio H60 Review](https://i.postimg.cc/9QtN6KHg/ISN-Audio-H60-Review-2.jpg){width=500} 
 >>-2DD 4BA
 >>-All resin build with nozzles that put the Zero: Reds to shame
 >>-Sounds incredible, with present but not too overbearing bass that thumps when you push it
@@ -446,7 +446,7 @@ Ew.
 >>-Depending on the recording, can feel the space and reasonable amount of detail, above my older cheaper sets
 >>-Haven't played with EQ because I'm lazy, but this set probably responds to EQ quite well because of how it responds to BASS ON on my old Fiio E10K
 >>-Overall sounds beautiful, I can't find myself returning to the T3 Plus even though they're my favourite sets after the EPZ Q1 Pro
->>>![ISN Audio H60 Review](https://i.postimg.cc/nhtPwZgQ/ISN-Audio-H60-Review-3.jpg){40%:40%} 
+>>>![ISN Audio H60 Review](https://i.postimg.cc/nhtPwZgQ/ISN-Audio-H60-Review-3.jpg){width=500} 
 >>>-ISN Audio uses the exact same box for every IEM they sell, the only difference is the sticker they stuck on the box to tell them what IEM is inside
 >>>-No waifus to be found
 >>>-The H60 comes with three sets of tips that I proceed to put aside for custom tips, a not-so-appealing orange cable with no ear hooks, a nice little hard leather pouch and a small brush with a metal tip to fix the IEM filter
@@ -460,17 +460,17 @@ Ew.
 
 ***
 ***
-###Shure SE425 Impressions
+## Shure SE425 Impressions
 *03/10/2024*
 
->![Shure SE425 Impressions](https://i.postimg.cc/fycx34K6/Shure-SE425-Impressions.png){40%:40%} 
+>![Shure SE425 Impressions](https://i.postimg.cc/fycx34K6/Shure-SE425-Impressions.png){width=500} 
 >I thought Shure only made shit but I bought a (legit) pair of Se425s and I really don't hate it. Definitely needed a lift in the entire treble region (Used a HS @5000hz, Q1, 5db) and now it's very enjoyable. I'll post a graph of the stock response after work.
 >>Here it is with how I EQ it too. Kind of weird how "flat" Se425 measures at the beginning and yes, the stock treble response is atrocious and anyone who doesn't suffer hearing loss will notice it going 'missing.'
 >>Just a note: the target only displays my Ear gain preference, but even with that considered, the warmth of these really carries the lack of sub bass, though, I do not listen to much EDM at the moment, or any music that demands much rumble, so I myself don't notice the absence when listening.
 
 ***
 ***
-###Anons are on to us...
+## Anons are on to us...
 *02/10/2024*
 
 >\>shopping guide
@@ -488,7 +488,7 @@ I don't really use IEMs...
 
 ***
 ***
-###Discussion with other anons
+## Discussion with other anons
 *02/10/2024*
 
 Editor (me) and anon discuss on solutions and alternatives to current project implementations.
@@ -514,7 +514,7 @@ Editor (me) and anon discuss on solutions and alternatives to current project im
 ***
 ***
 
-###Simgot Supermix4 and Moondrop Space Travel Review
+## Simgot Supermix4 and Moondrop Space Travel Review
 *01/10/2024*
 
 >2 weeks review of
