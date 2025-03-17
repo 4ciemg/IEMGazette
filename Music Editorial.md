@@ -9,6 +9,8 @@ Everything music in iemg.
 
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released albumsingle is welcome to. After a loose and brief quality check, it will be added to the gazette; only 3 posts will be kept at all times. A lossless download of the albumsingle is a possible future feature. The album image links to the YouTube release if available.
 
+
+***
 ## Museum Music - Edward Skeletrix / Im A Monster (01/01/2025)
 
 *05/01/2025*
@@ -19,7 +21,7 @@ Technically two posts but who cares.
 Steers away from Skeletrix Language, and feels the most strange with jarring transitions, awkward song structures, and weird production. It is rather polarizing, but I'm in love with it.
 Favorite part is the whole sequence from God Made You A Monster to Killing Over Likes which covers all of the previous points and more.  
 
-![](https://cdn-images.dzcdn.net/images/cover/434a02e30af7bd9036c1ed59b2c06464/1400x0-00000-100-0-0.jpg){width=200}
+![](https://a1.mzstatic.com/r40/Music211/v4/1f/60/ae/1f60ae96-192d-a8b7-cebf-c998e14a9c86/artwork.jpg){width=200}
 It's good, closer to Skeletrix Language in terms of production and musical form. Feels more fleshed out and out there in terms of experimentation. Favorite track is Real One, great production and vocal inflection variety here.
 
 
