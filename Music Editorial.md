@@ -9,6 +9,31 @@ Everything music in iemg.
 
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released album/single is welcome to. After a loose and brief quality check, it will be added to the gazette. A lossless download of the album/single is a possible future feature. The album image links to the YouTube release if available.
 
+***
+## Lust for Life, Or: 'How To Thread The Needle And Come Out The Other Side To Tell The Story' - Courting (14/03/2025)
+
+*19/03/2025*
+
+![](https://m.media-amazon.com/images/I/81+TsFMZSIL.jpg){width=400}
+Really fun, enjoyable, and energetic for such a short project. Not all that familiar with this genre or artist but I'm looking forward to what they have next.
+
+
+***
+## MUSIC - Playboi Carti (14/03/2025)
+
+*18/03/2025*
+![](https://a1.mzstatic.com/r40/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg){width=400}
+Weird but familiar, incorporating not only his past works, but also southern mixtape traits. It does feel a bit long, and many tracks feel incomplete or not all that standout within the whole project. It is bloated, and I feel like that is a part of its charm as a throwback to old mixtapes. Just have to take the songs I liked out and make my own cassette :p
+
+
+***
+## Saisons - Alice Hebborn (06/12/2025)
+
+*07/03/2025*
+![](https://m.media-amazon.com/images/I/91bXZ9QouiL.jpg){width=400}
+Loved the instrumentation on this, cool and relaxing textures that are still engaging. Also gorgeous album cover, I'm in love with it.
+
+
 
 ***
 ## Museum Music - Edward Skeletrix / Im A Monster (01/01/2025)
