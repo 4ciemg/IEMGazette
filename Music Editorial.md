@@ -7,7 +7,7 @@ icon: pulse
 
 Everything music in iemg. 
 
-Anyone that wants to review, give impressions, or simply recommend (or not) a newly released albumsingle is welcome to. After a loose and brief quality check, it will be added to the gazette; only 3 posts will be kept at all times. A lossless download of the albumsingle is a possible future feature. The album image links to the YouTube release if available.
+Anyone that wants to review, give impressions, or simply recommend (or not) a newly released album/single is welcome to. After a loose and brief quality check, it will be added to the gazette. A lossless download of the album/single is a possible future feature. The album image links to the YouTube release if available.
 
 
 ***
