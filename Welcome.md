@@ -7,8 +7,8 @@ icon: home
 !!! What is this?
 The blog version of /iemg/ in the form of a monthly gazette.
 Curated content by yours truly separated into "articles". 
-Upcoming: EQ guide migration, squig database for the SquigScrape
-To-do: Full IEMGazette migration, Updated archive and size database
+Upcoming: squig database for the SquigScrape
+To-do: Updated archive and size database
 !!!			
 
 ***
