@@ -23,7 +23,7 @@ Really fun, enjoyable, and energetic for such a short project. Not all that fami
 
 *18/03/2025*
 ![](https://a1.mzstatic.com/r40/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg){width=400}
-Weird but familiar, incorporating not only his past works, but also southern mixtape traits. It does feel a bit long, and many tracks feel incomplete or not all that standout within the whole project. It is bloated, and I feel like that is a part of its charm as a throwback to old mixtapes. Just have to take the songs I liked out and make my own cassette :p
+Weird but familiar, incorporating not only his past works, but also southern mixtape traits. It does feel a bit long, and many tracks feel incomplete or not all that standout within the whole project. It is bloated, and I feel like that is a part of its charm as a throwback to old mixtapes. Just have to take the songs I liked and make my own cassette :p
 
 
 ***
