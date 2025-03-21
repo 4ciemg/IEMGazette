@@ -1,5 +1,6 @@
 ---
 order: 97
+icon: image
 ---
 
 # IEMGallery
