@@ -13,7 +13,7 @@ Contact me with Session or SimpleX.
 +++ SimpleX
 ![](https://i.postimg.cc/Jn6qYBr7/Simple-X-Editor.png){width=500}
 +++ ?
-Alpha-testing a new project. Contact for password if you want participate.
+Alpha-testing a new project. Contact with either otpions if you want to participate.
 https://cryptpad.fr/form/#/2/form/view/+WBBYQGnQjYaRga9myRWm9THCImCCCCcfqkLq+bjons/p/embed/
 +++
 
