@@ -9,6 +9,15 @@ Everything music in iemg.
 
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released album/single is welcome to. After a loose and brief quality check, it will be added to the gazette. A lossless download of the album/single is a possible future feature. The album image links to the YouTube release if available.
 
+
+***
+## Patterns in Repeat - Laura Marling (25/10/2025)
+
+*26/03/2025*
+
+![](https://m.media-amazon.com/images/I/91b3m2TRsoL.jpg){width=400}
+Sounds and feels so warm, there's something here that makes it so good and addicting, but I can't exactly pinpoint what it is. Perfect album for relaxing, and the cover is very neat.
+
 ***
 ## Lust for Life, Or: 'How To Thread The Needle And Come Out The Other Side To Tell The Story' - Courting (14/03/2025)
 
