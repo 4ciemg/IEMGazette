@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://4ciemg.github.io/IEMGazette/sitemap.xml.gz
