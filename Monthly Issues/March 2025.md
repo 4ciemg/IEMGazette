@@ -287,8 +287,7 @@ Thank you anon.
 >
 >>ER2SE
 >
->>[!embed](https://webm.red/nwnf)
->>>>>>>[!embed](https://webm.red/view/nwnf.webm)
+>>![](https://i.postimg.cc/NjCXT0jV/iemg-picks-their-top-5-pos-2.gif)
 >>POS as in sub 100? Ok
 >>\>Dunu titan S
 >>\>Aria
@@ -661,7 +660,7 @@ Shivers down my spine...
 >>Dude, is your earwax made of fucking acid?
 >>>nah... his pet rat probably ate it
 >>>same thing happened with my springtips
->>>>[!embed](https://jmp.sh/iSBbEDtW)
+>>>>![](https://i.postimg.cc/XvggTWjk/Tip-Degradation-2.gif)
 >>>>Maybe not his rat...
 >
 >>looks like cockroaches or ants eating your earwax.
