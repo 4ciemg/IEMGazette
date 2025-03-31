@@ -287,7 +287,10 @@ Thank you anon.
 >
 >>ER2SE
 >
->>[!embed](https://webm.red/view/nwnf.webm)
+>>[!embed](https://webm.red/nwnf)
+>>>>>>>[!embed](https://webm.red/view/nwnf.webm)
+>>>>>>>![](https://webm.red/nwnf)
+>>>>>>>![](https://webm.red/view/nwnf.webm)
 >>POS as in sub 100? Ok
 >>\>Dunu titan S
 >>\>Aria
