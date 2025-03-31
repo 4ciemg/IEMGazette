@@ -208,7 +208,7 @@ Thank you anon.
 >>>As anon said, this is most likely unit variation.
 >>>I was thinking of getting a few more samples to check for this variation as they are very cheap for me (~$2).
 >>
->>>[!embed](https://i.postimg.cc/q72s2T6d/KZ-EDC-Pro-Measurements-n-3-2.gif)
+>>>![](https://i.postimg.cc/q72s2T6d/KZ-EDC-Pro-Measurements-n-3-2.gif)
 >>>Nah it means edc pro is one of very few cheese sloppa that is legit
 
 
@@ -289,8 +289,6 @@ Thank you anon.
 >
 >>[!embed](https://webm.red/nwnf)
 >>>>>>>[!embed](https://webm.red/view/nwnf.webm)
->>>>>>>![](https://webm.red/nwnf)
->>>>>>>![](https://webm.red/view/nwnf.webm)
 >>POS as in sub 100? Ok
 >>\>Dunu titan S
 >>\>Aria
