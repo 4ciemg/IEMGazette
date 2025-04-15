@@ -6,7 +6,7 @@ icon: home
 # IEMGazette
 
 !!!danger What now?
-Talk about timing. Not even a full year. 
+Talk about timing. Not even a full year. Will probably be back soon enough; below is the plan if it's over.
 The plan will now be to do a full archive of /iemg/, dating back as far as possible from available archives.
 If you are reading this, thank you. Keep an eye out for other projects and updates, as well as possible migration to other boards or platforms.
 See you soon (hopefully)!
