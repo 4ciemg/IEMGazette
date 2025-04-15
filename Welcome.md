@@ -12,6 +12,8 @@ If you are reading this, thank you. Keep an eye out for other projects and updat
 See you soon (hopefully)!
 !!!
 
+[!embed](https://cryptpad.fr/form/#/2/form/view/Eh2vBQ5uzfhizpnnYWU7FBqJt3sK2eiI5auiqD4-lRY/embed/)
+
 !!! What is this?
 The blog version of /iemg/ in the form of a monthly gazette.
 Curated content by yours truly separated into "articles". 
