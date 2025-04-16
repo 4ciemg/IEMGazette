@@ -11,11 +11,8 @@ icon: home
 Talk about timing. Not even a full year. Will probably be back soon enough, but what if it doesn't?
 The plan for now will be to do a full archive of /iemg/, dating back as far as possible from available archives.
 
-As for alternatives that can act as a temporary refuge (lol), the platform should ideally be an imageboard. There are currently a few options:
-- 8chan.moe
-- 8kun.top
-- Lainchan
-- Anything else
+**As for alternatives that can act as a temporary refuge (lol), a few imageboards have been considered, settling on Lainchan.**
+**Here is the [thread.](https://lainchan.org/%CE%A9/res/85168.html)**
 
 For now, a [SimpleX chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FJI2RGyykbaYWF8UVH2vCp5AN6TpoE6gE%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAWUPhhQmk1HQNd3kgpoMc7sBfeHdYUUxFMzGl7ls3wUw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22groupLinkId%22%3A%22LfNt1CKFAj11qOR7Di6p0A%3D%3D%22%7D) will be used if anyone wants to discuss what is going to happen and our options.
 ![](https://i.postimg.cc/y86dq7qX/SimpleX.png){width=300} 
