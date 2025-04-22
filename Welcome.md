@@ -13,7 +13,7 @@ The plan for now will be to do a full archive of /iemg/, dating back as far as p
 
 Here's a list of concurrent /iemg/ threads. Enter which board you prefer in the survey above if you have a preference. Ideally, /iemg/ shouldn't be fractured but who knows, if you prefer having split regions for different anons then I don't mind. My initial impressions of both are middling, although I lean towards 8chan.moe for the UIDs and seemingly higher post quality.
 
-[8chan.moe thread](https://8chan.se/t/res/17869.html) - More on the measurement and impressions/reviews side of /iemg/
+[8chan.moe thread](https://8chan.moe/t/res/17869.html) - More on the measurement and impressions/reviews side of /iemg/
 [Sharty / soyjak.party thread](https://www.soyjak.st/tech/thread/5486.html) - Mix of /iemg/ and /hpg/, more on the shitpost/advice side of /iemg/
 
 
