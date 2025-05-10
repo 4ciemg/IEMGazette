@@ -11,7 +11,15 @@ Anyone that wants to review, give impressions, or simply recommend (or not) a ne
 
 
 ***
-## Patterns in Repeat - Laura Marling (25/10/2025)
+## Fancy That - PinkPantheress (09/05/2025)
+
+*10/05/2025*
+
+![](https://m.media-amazon.com/images/I/91p+xQzRpPL.jpg){width=400}
+Consistent and dense project, feels more focused and less varied than her last album, but the sheer catchiness, energy, and creativity of each track made this a very engaging and pleasant listen. 
+
+***
+## Patterns in Repeat - Laura Marling (25/10/2024)
 
 *26/03/2025*
 
