@@ -53,8 +53,6 @@ Also, imagine if all the other non-visible layers were empty...
 >>Samples 3 and 6 have acceptable channel balance but sample 5 is the only one I'd call good. Sample 1 is bad, sample 2 is almost okay, and sample 4 is awful. Depending on your standards, 50% to 66% of units are decent. I understand why crapzo bought a bunch of CRAs, it's the only way to guarantee you get a good pair. Mixing and matching gave me one "golden" pair, the left channel from sample 3 and the right channel from sample 6.
 >>Other stuff about the IEM, the build is incredibly solid, not just for the price. It's all metal and the comfort is better than every other KZ I've tried. The shell is just as nice as the EA500LM shell, slightly more comfortable and I think it looks better too. The build was the reason I decided to do this experiment, I figured I'd spend about as much as the EA500LM to see if I could get a good pair after the first pair I ordered ended up having not so great channel matching. Sound wise the Saga is decently bassy, with an irritating spike at 11.3K to my ears and slightly muddy lower mids but otherwise not really deficient in any other area. The ear gain and treble are still a few dB too much for my taste but that's a matter of preference. I can't recommend KZ unless you have your own coupler and are willing to buy roll the dice on multiple units to do the QC yourself. The stock cable is also an abomination as expected. This was fun though, and I'm happy with the results.
 
-***
-***
 
 ***
 ***
