@@ -165,7 +165,7 @@ Thank you anon.
 ## Vido Impressions
 *28/03/2025*
 
->![](https://i.postimg.cc/52YqNvxy/Vido-Impressions.jpg)
+>![](https://i.postimg.cc/52YqNvxy/Vido-Impressions.jpg){width=300}
 >vidos rock
 >I tried my autism stack with them and they fucking slap.
 >I set the line out volume to 50% and the amp to high gain. That way I get more power into them without high volume (still plenty to avoid distortion)
@@ -181,7 +181,7 @@ Thank you anon.
 ## Letshuoer DZ4 Impressions
 *26/03/2025*
 
->![](https://i.postimg.cc/mDRQw571/Letshuoer-DZ4-Impressions.jpg)
+>![](https://i.postimg.cc/mDRQw571/Letshuoer-DZ4-Impressions.jpg){width=500}
 >\>Letshuoer DZ4
 >Surprising. I've had Artti R1 for a while, and DZ4 is the predecessor using similar driver config.
 >Not as bass-lite as I expected, adequate low end when called upon. Mids and treble are light and ethereal, with an "echo," trailing decay effect. Female vocals have a lot of breath. This effect is quite a bit more noticeable on DZ4 compared to R1, maybe because R1 has heftier mid bass warmth versus DZ4's more transparent mid-range. Even with the unique echo-effect, I find it coherent and well tuned. Good layering and good speed.
@@ -218,7 +218,7 @@ Thank you anon.
 ## Kiwi Ears x HBB Punch Impressions
 *23/03/2025*
 
-![](https://i.postimg.cc/m2qCqDQs/Kiwi-Ears-x-HBB-Punch-Impressions-1.jpg)
+![](https://i.postimg.cc/m2qCqDQs/Kiwi-Ears-x-HBB-Punch-Impressions-1.jpg){width=500}
 >\>Kiwi Ears x HBB Punch
 >Don't care to give it shine, but reporting for anyone interested. My units are channel matched well. Takes more power than average to drive. Fairly chonky. Don't have them on hand but it skews more towards Thieaudio Origin shell size and shape rather than Hype 4. Fits bulkier and less flush than Mega5EST, ultimately not bothersome or an issue for me.
 >Sounds best with wide bore tip and deep insertion, which the shell and stock tips are not conducive to. Bass is solid, mids have slight metallic timbre, highs are good (for me) because they are not overly emphasized in an attempt to overcome the bass. Understand what Punch delivers, dominant bass. Need to push higher volume if you want mids and treble to pop into place, which entails strong bass.
@@ -287,7 +287,7 @@ Thank you anon.
 >
 >>ER2SE
 >
->>![](https://i.postimg.cc/NjCXT0jV/iemg-picks-their-top-5-pos-2.gif)
+>>![](https://i.postimg.cc/NjCXT0jV/iemg-picks-their-top-5-pos-2.gif){width=500}
 >>POS as in sub 100? Ok
 >>\>Dunu titan S
 >>\>Aria
@@ -321,7 +321,7 @@ Thank you anon.
 ## Average EQ guide reading experience
 *22/03/2025*
 
->![](https://i.postimg.cc/pdM8W6Gc/Average-EQ-guide-reading-experience.jpg)
+>![](https://i.postimg.cc/pdM8W6Gc/Average-EQ-guide-reading-experience.jpg){width=200}
 >EQ guide was something else
 >>only for the most autistic retards
 
@@ -331,7 +331,7 @@ Thank you anon.
 ## Hangout Squatter Impressions
 *07-22/03/2025*
 
->![](https://i.postimg.cc/bwJV0sqf/Hangout-Squatter-Impressions-1.png)
+>![](https://i.postimg.cc/bwJV0sqf/Hangout-Squatter-Impressions-1.png){width=500}
 >Quick impressions blogpost today:
 >
 >\>Letshuoer Mystic 8
@@ -416,7 +416,7 @@ Improvement over the OG Blue in terms of resolution. Still very bright, with pea
 >The airiness of the treble causes the Traillii to not sound as warm as the squigs. There’s some mid-bass and lower-mids presence but it doesn’t sound warm nor bassy.
 >
 >Proper execution of a highly detailed set. Like a Cadenza 4 that doesn’t sound as thin. 10/10.
->>![](https://i.postimg.cc/rpG4KN7V/Hangout-Squatter-Impressions-6.png)
+>>![](https://i.postimg.cc/rpG4KN7V/Hangout-Squatter-Impressions-6.png){width=500}
 >>\>Traillii is 10/10
 >>CRA won.
 >>>they're nothing alike
@@ -430,8 +430,8 @@ Improvement over the OG Blue in terms of resolution. Still very bright, with pea
 
 >Anon who posted about zero red got me curious about an actual comparison between them and deep insertion gateymotics. I have both right next to me so screw it.
 >…Used this song because there’s tons of crap going on and lots of layers between frequencies(I-i s-swear Im not a weeb senpai)
->https://youtu.be/Atvsg_zogxo?si=YG96OfSVHFidDw-R
-\>zero red
+>(https://youtu.be/Atvsg_zogxo?si=YG96OfSVHFidDw-R)
+>\>zero red
 >typical very well balanced IEM sound off the bat. The vocals and instruments sound a bit more distant. In isolation I can’t really tell but vs gateymotics or most headPOS I can detect there is definitely a lower mids tuck because the heft and weight is not as much. Doesn’t sound bad at all. The treble sounds well tuned but there’s some small peaks and dips in there, >probably around the resonance peak around 7khz.
 >\>gateymotics
 >That. Stupid. Bass.
@@ -449,7 +449,7 @@ Improvement over the OG Blue in terms of resolution. Still very bright, with pea
 >I think on the surface that stinky motherflipping BASS of gateymotics may mask some minor details but then I still feel like I hear everything gently and effortlessly dancing in the background. Zero reds tuning gives it an advantage here but I feel like it has less zing and pop which gives it less imaging and separation. I’m calling this one a tie.
 >
 >This was a somewhat close batter but deep insertion gate wins
->>![](https://i.postimg.cc/zD2gbB2g/Truthear-Gate-Red-Comparison-1.jpg)
+>>![](https://i.postimg.cc/zD2gbB2g/Truthear-Gate-Red-Comparison-1.jpg){width=350}
 >>\>Mids are definitely more forward and in your face but I wouldn’t say “shouty” just closer.
 >>Hey flangebro, after that one anon recently tried gate + triple flange tips and found its upper mids too forward, I played around with eq and tone generator with my gateymotics, and set 4.4 kHz, 2.2 Q, -2 to -4 dB. That kind of fixes the issue with the upper mids. You might want to try that, would be interesting to hear your impressions.
 >>
@@ -480,7 +480,7 @@ Improvement over the OG Blue in terms of resolution. Still very bright, with pea
 ## Mass Tips Impressions
 *20/03/2025*
 
->![](https://i.postimg.cc/tgbZQVJL/Mass-Tips-Impressions-1.png)
+>![](https://i.postimg.cc/tgbZQVJL/Mass-Tips-Impressions-1.png){width=500}
 >No iem impressions today, just tip impressions:
 >
 >\>Azla Crystal 2
@@ -563,14 +563,14 @@ Would recommend.
 >
 >>is this their sweatshop, rnd or marketing building?
 >
->>![](https://i.postimg.cc/Jn6Gk6xL/Tanchjim-Representative-pays-a-visit-to-iemg-2.jpg)
+>>![](https://i.postimg.cc/Jn6Gk6xL/Tanchjim-Representative-pays-a-visit-to-iemg-2.jpg){width=500}
 >>i'm happy my asano building block and pos purchases went to fund this beautiful new office. long live asano tanch faithfully recreating the sound
 >
 >>That looks nice. I expected much much worse for a chink company. Makes me curious about how the other chink brands' offices look.
 >
 >>Transjim sales rep in our bread... partially explains all the shilling here... if only you'd put a part of all that money into improving your pos
 >
->>![](https://i.postimg.cc/GmG85jLF/Tanchjim-Representative-pays-a-visit-to-iemg-3.jpg)
+>>![](https://i.postimg.cc/GmG85jLF/Tanchjim-Representative-pays-a-visit-to-iemg-3.jpg){width=500}
 >>nice but ours is bigger
 >>>looks fake
 >
@@ -583,7 +583,7 @@ Would recommend.
 ## Shanling MG20 & MG100 Impressions
 *14/03/2025*
 
->![](https://i.postimg.cc/T2sK2shj/Shanling-MG20-MG100-Impressions-1.jpg)
+>![](https://i.postimg.cc/T2sK2shj/Shanling-MG20-MG100-Impressions-1.jpg){width=500}
 >free chinkshit anon back again
 >
 >today, it's SHANLING time
@@ -591,7 +591,7 @@ Would recommend.
 >50 dollar mg20s, and 160 dollar mg100s. they both appear to be single dd iems, with some different materials, accessories and in the case of the more expensive pair, swappable filters that change the tuning? what are the chances the fucking 50 dollar pair sounds better?
 >>pre 2018 female poison pos, lowkey based
 >
->>![](https://i.postimg.cc/c48rvc8p/Shanling-MG20-MG100-Impressions-2.jpg)
+>>![](https://i.postimg.cc/c48rvc8p/Shanling-MG20-MG100-Impressions-2.jpg){width=500}
 >>mg20 is pretty bare for presentation, but accessories include a pouch and an ass load of tips, very nice. all metal construction as far as i can tell as well. cable is fairly cheap but does the job better than kz pos. sound is very neutral as far as i can tell, bit of a bass boost but not too crazy, highs are not sharp whatsoever compared to some other cheap offerings. mid sounds a bit hollow however. not sure why. overall, first impression 6/10
 >
 >>MG20s IIRC looked decent on the manufacturer graph and then actually measured and sounded like dogshit when people got them.
@@ -609,8 +609,8 @@ Would recommend.
 >>>both sets are fuckin tiny too compared to a lot of other standard resin shell iems. very lightweight.
 >>>
 >>>songs played for each listen:
->>>https://youtu.be/yogEDUqThvc?si=ntebjc559Su29YBq
->>>https://youtu.be/q0IIT2iNeKw?si=6UAaaVcff_K9JS0W
+>>>[https://youtu.be/yogEDUqThvc?si=ntebjc559Su29YBq]
+>>>[https://youtu.be/q0IIT2iNeKw?si=6UAaaVcff_K9JS0W]
 >>>https://youtu.be/iJ6nV_mLDDI?si=DjqUbkw89Z5rJKge
 >>>https://youtu.be/Dy84IoYITxk?si=0TBqT9LKLStnfCMy
 >>>https://youtu.be/5nC_10HjX0U?si=Vmoyz-hROob9Jmfm
@@ -655,7 +655,7 @@ Thank you for reposting this.
 
 Shivers down my spine...
 
->![](https://i.postimg.cc/tJjmFk4B/Tip-Degradation-1.jpg)
+>![](https://i.postimg.cc/tJjmFk4B/Tip-Degradation-1.jpg){width=500}
 >One of the ear tips that came with the Zero Red started to disintegrate after less than two months of light use. Wtf?
 >>Dude, is your earwax made of fucking acid?
 >>>nah... his pet rat probably ate it
@@ -673,7 +673,7 @@ Shivers down my spine...
 ## Subtonic Storm Unit Variation
 *09/03/2025*
 
->![](https://i.postimg.cc/jdRF5M95/Subtonic-Storm-Unit-Variation.png)
+>![](https://i.postimg.cc/jdRF5M95/Subtonic-Storm-Unit-Variation.png){width=500}
 >totlzo here.
 >went to A/B Storm RE & LE and it seems RE doesn't sound like an exact 1:1 of LE. there's a slight treble peak on the LE that i dont get on the RE.
 >
@@ -700,7 +700,7 @@ Shivers down my spine...
 Thanks for linking everything together, appreciate it! 
 And no, I'm not dead.
 
->![](https://i.postimg.cc/gcV7mCgQ/EPZ-P50-Review-1.jpg)
+>![](https://i.postimg.cc/gcV7mCgQ/EPZ-P50-Review-1.jpg){width=500}
 >EPZ P50
 >\>Shell Design
 >Medium size pseudocustom shape with good ergonomics. Easy fit to get stable seal. Medium insertion depth.
@@ -778,11 +778,11 @@ And no, I'm not dead.
 ## Subtonic Storm Unboxing
 *05/03/2025*
 
->![](https://i.postimg.cc/J47pmGDH/Subtonic-Storm-Unboxing-1.png)
+>![](https://i.postimg.cc/J47pmGDH/Subtonic-Storm-Unboxing-1.png){width=500}
 >TOTLzo here, from now on you may refer to me as...STORMzo
 >>WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW
 >
->>![](https://i.postimg.cc/zv7pK1Mf/Subtonic-Storm-Unboxing-2.png)
+>>![](https://i.postimg.cc/zv7pK1Mf/Subtonic-Storm-Unboxing-2.png){width=500}
 >>unboxing dump
 >>>![](https://i.postimg.cc/gjmNx0g5/Subtonic-Storm-Unboxing-3.png)
 >>>>![](https://i.postimg.cc/Tw8kX0gT/Subtonic-Storm-Unboxing-4.png)
@@ -792,7 +792,7 @@ And no, I'm not dead.
 >>>>>![](https://i.postimg.cc/5tQPGTHP/Subtonic-Storm-Unboxing-5.png)
 >>>>>iem itself
 >>
->>>![](https://i.postimg.cc/W1HW5T4F/Subtonic-Storm-Unboxing-6.jpg)
+>>>![](https://i.postimg.cc/W1HW5T4F/Subtonic-Storm-Unboxing-6.jpg){width=300}
 >>>Ok . . .but...
 >>>That doesn't phase me all one bit
 >
