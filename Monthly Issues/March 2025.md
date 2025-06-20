@@ -41,7 +41,7 @@ Thank you anon.
 ## Guide to extracting measurements from Hangout.Audio
 *30/03/2025*
 
->![](https://i.postimg.cc/zG67n7dT/Guide-to-extracting-measurements-from-Hangout-Audio-1.jpg){width=350}
+>![](https://i.postimg.cc/zG67n7dT/Guide-to-extracting-measurements-from-Hangout-Audio-1.jpg)
 >How do I save actual .txt measurements off hangouts.audio? Has anyone figured out a way?
 >>anyone???
 >>>look through archives, one anon had a method although it's a bit convoluted
@@ -90,7 +90,7 @@ Thank you anon.
 
 >\>installing rockbox on my xduoo x3ii
 >bros i'm so ready. i'm expecting max comfy
->>![](https://i.postimg.cc/TYHJ6QvB/x-Duoo-X3-II-Rockbox-1.jpg)
+>>![](https://i.postimg.cc/TYHJ6QvB/x-Duoo-X3-II-Rockbox-1.jpg){width=500}
 >>\>x3ii
 >>Based. Its a fucking metal brick I love mine.
 >>Much more substantial than the F20 or any other rockbox pmp I have.
@@ -110,16 +110,16 @@ Thank you anon.
 >>>How dare you badmouth rockbox
 >>>Been using it since the clip and haven't had an issue
 >>>What device?
->>>>![](https://i.postimg.cc/X7vkmmmw/x-Duoo-X3-II-Rockbox-2.jpg)
+>>>>![](https://i.postimg.cc/X7vkmmmw/x-Duoo-X3-II-Rockbox-2.jpg){width=300}
 >>>>\>What device?
 >>>>I'm the x3ii anon lol
 >>>>I also like that it's a metal brick, I've dropped it a couple times and the thing is just solid. if it had usable eq it would be perfect. You don't get slowness/lag on yours with rockbox? Every screen takes like a second to load properly for me which gets annoying coming from that other firmware I linked which is pretty much instant for everything. I just used the auto installer to get it installed.
->>>>>![](https://i.postimg.cc/90mYWnMH/x-Duoo-X3-II-Rockbox-3.jpg)
+>>>>>![](https://i.postimg.cc/90mYWnMH/x-Duoo-X3-II-Rockbox-3.jpg){width=250}
 >>>>>Not at all. Are you using the latest nightly or some ancient 3.5 build?
 
 
 
->![](https://i.postimg.cc/5ysqjSYY/x-Duoo-X3-II-Rockbox-4.jpg)
+>![](https://i.postimg.cc/5ysqjSYY/x-Duoo-X3-II-Rockbox-4.jpg){width=250}
 >alright so im the xduoo x3ii anon from yesterday. I'm giving rockbox another try because the whole dap experience is basically crippled without real eq.
 >\>fix display and button mapping weirdness in settings
 >\>go through every album and make sure there's only one image in each and it's named cover.jpg
@@ -138,11 +138,11 @@ Thank you anon.
 ## Letshuoer S12 Pro Impressions
 *28/03/2025*
 
->![](https://i.postimg.cc/FRZ0nVxW/Letshuoer-S12-Pro-Impressions-1.jpg)
+>![](https://i.postimg.cc/FRZ0nVxW/Letshuoer-S12-Pro-Impressions-1.jpg){width=300}
 >Let's shower anywhere kek.
 >Another classic this week.
 >>extremely overwhelming techs, too much for some - details that in other pos are subtle or inaudible are very clear here which can lead to sensory overload if you're not experienced with technical listening, but if you're used to techs, there's no going back
->>>![](https://i.postimg.cc/prLKN5G2/Letshuoer-S12-Pro-Impressions-2.jpg)
+>>>![](https://i.postimg.cc/prLKN5G2/Letshuoer-S12-Pro-Impressions-2.jpg){width=300}
 >>>I'm putting my hipster phase on hold with spring sales. For the first time I got two "mainstream" pos and I admit they live up to the hype. Origin is still more interesting one because of coherency and imaging but S12 is best tuned planar (to my taste) from the ones I've tried and owned.
 >>>I almost got Aether instead of these two but I'm happy with the end result
 >>
@@ -151,7 +151,7 @@ Thank you anon.
 >>>>\>18.105 is audiable
 >>>
 >>>>yeah, they're very airy, love them for trance and ambient for that ethereal feel
->>>>>![](https://i.postimg.cc/FFpxPNWr/Letshuoer-S12-Pro-Impressions-3.jpg)
+>>>>>![](https://i.postimg.cc/FFpxPNWr/Letshuoer-S12-Pro-Impressions-3.jpg){width=200}
 >>>>>I'm listening to picrel and it's audiokino.
 >
 >>This is 5th planar I'm trying and from the get go I can understand why they are so well received. Nothing outright wrong with sound, could work as only pos in collection.
