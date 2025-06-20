@@ -41,12 +41,12 @@ Thank you anon.
 ## Guide to extracting measurements from Hangout.Audio
 *30/03/2025*
 
->![](https://i.postimg.cc/zG67n7dT/Guide-to-extracting-measurements-from-Hangout-Audio-1.jpg)
+>![](https://i.postimg.cc/zG67n7dT/Guide-to-extracting-measurements-from-Hangout-Audio-1.jpg){width=350}
 >How do I save actual .txt measurements off hangouts.audio? Has anyone figured out a way?
 >>anyone???
 >>>look through archives, one anon had a method although it's a bit convoluted
 >>>most efficient way is to trace it with vituix or usytrace
->>>![](https://i.postimg.cc/XYpxGmgV/Guide-to-extracting-measurements-from-Hangout-Audio-2.png)
+>>>![](https://i.postimg.cc/XYpxGmgV/Guide-to-extracting-measurements-from-Hangout-Audio-2.png){width=200}
 >>>\>most efficient way is to trace it with vituix or usytrace
 >>>fugg bro, I'm not that sophisticated. I was hoping someone had a zip archive of files...
 >>>>nothing of the sort, the measurements from crinacle have been locked down for a while after his patreon fiasco
