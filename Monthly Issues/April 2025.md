@@ -10,7 +10,7 @@ order: -93
 *22-30/04/2025*
 
 This block is from [8chan.moe](https://8chan.moe/t/res/17869.html).
->![](https://i.postimg.cc/SxmtVMm5/More-Mass-Impressions-1.jpg)
+>![](https://i.postimg.cc/SxmtVMm5/More-Mass-Impressions-1.jpg){width=300}
 >totl anon here. I was gonna wait for 4c to come back before posting my impressions, but since i gotta post my ta-32 impressions anyway i might as well post the whole lot.
 >>![](https://i.postimg.cc/xdCpVVJ3/More-Mass-Impressions-2.png)
 >>Still on the hunt for a good stack.
@@ -221,7 +221,7 @@ From [8chan.moe](https://8chan.moe/t/res/17869.html).
 *18/04/2025*
 
 From [8chan.moe](https://8chan.moe/t/res/17869.html).
->![](https://i.postimg.cc/bJZ5kfqw/GY-Hi-Fi-67-Cable-Impressions-1.jpg){width=300} >![](https://i.postimg.cc/QtvyqYMk/GY-Hi-Fi-67-Cable-Impressions-2.jpg){width=300}
+>![](https://i.postimg.cc/bJZ5kfqw/GY-Hi-Fi-67-Cable-Impressions-1.jpg){width=500} ![](https://i.postimg.cc/QtvyqYMk/GY-Hi-Fi-67-Cable-Impressions-2.jpg){width=300}
 >GY HiFi-67 received.
 >Great cable, top class handling and memory, and braiding quality is good (not excellent, a bit loose but no excess/misalignment)
 >Ear hooks are also decently stiff, and it's above average thickness for an 8-core cable.
@@ -249,7 +249,7 @@ See [Board Migration](https://4ciemg.github.io/IEMGazette/board-migration/) for 
 >Bass/low end is actually not awful, at least compared to the muddy bloated garbage that other kz sets have
 >As I thought, they're sibilant as fuck but without any of the treble extension of something like the CCA CRA. I.e if you try to eq out the sibilance you end up with bloated mids and it sounds like you're listening to audio underwater.
 >A track like this is physically painful to listen to, even at minimum volume. You absolutely have hearing loss if the synth doesn't make your ears ring with these shitters.
->https://www.youtube.com/watch?v=mVKIva2KddY
+>[https://www.youtube.com/watch?v=mVKIva2KddY](https://www.youtube.com/watch?v=mVKIva2KddY)
 >Overall they're usable with eq, landfill garbage without. Maybe they're better with some 500 mesh filters or thick foam shoved in.
 >Absolutely hard mogged by OG CCA CRA, OG VK4, 7hz zero gato sexo, etc.
 >\>b-but those are 3x the price at $15 and I'm a poor pajeet Saar
@@ -353,7 +353,7 @@ See [Board Migration](https://4ciemg.github.io/IEMGazette/board-migration/) for 
 ## Tanchjim Zero Ultima Review
 *07/04/2025*
 
->![](https://i.postimg.cc/hvq0jkjw/Tanchjim-Zero-Ultima-Review.jpg)
+>![](https://i.postimg.cc/hvq0jkjw/Tanchjim-Zero-Ultima-Review.jpg){width=500}
 >\>Tanchjim Zero Ultima
 >Another solid Tanchjim product.
 >Most of their recent budget stuff (ONE, Bunny, Zero Ultima) is redundant sound and driver-wise, but they all fulfill a role.
@@ -374,7 +374,7 @@ See [Board Migration](https://4ciemg.github.io/IEMGazette/board-migration/) for 
 I will not bother including all of the replies. 
 Please check post [#104955393](https://desuarchive.org/g/thread/104945771/#q104955393) if you want to go through them.
 
->![](https://i.postimg.cc/cJ2hqgNd/Canjam-Mass-Impressions-1.png)
+>![](https://i.postimg.cc/cJ2hqgNd/Canjam-Mass-Impressions-1.png){width=300}
 >totlzo here, im back from canjam day 1, dumping soon
 >>![](https://i.postimg.cc/NFyd9679/Canjam-Mass-Impressions-2.png)
 >>Heady buy booth
@@ -623,7 +623,7 @@ Post [#104972866](https://desuarchive.org/g/thread/104970548/#q104972866).
 ## Mass Impressions Before Canjam 
 *02/04/2025*
 
->![](https://i.postimg.cc/Nfqn9nSQ/Mass-Impressions-Again-1.png)
+>![](https://i.postimg.cc/Nfqn9nSQ/Mass-Impressions-Again-1.png){width=600}
 >Random pos impressions before canjam:
 >
 >\>Empire Ears Raven
@@ -635,7 +635,7 @@ Post [#104972866](https://desuarchive.org/g/thread/104970548/#q104972866).
 >Harman with bass tilt. Like a more resolving 10ohm Zero:Red. Stock standard tuning but with an interesting gimmick – an exposed 10mm DD driver (see pic rel) to add bass texture. It kinda works and adds physicality similar to that of a BCD.
 >
 >Unfortunately the “kinetic bass” gimmick requires full contact with your concha to work properly, so its fit dependent. 8/10.
->>![](https://i.postimg.cc/PrWRm4nY/Mass-Impressions-Again-1.jpg)
+>>![](https://i.postimg.cc/PrWRm4nY/Mass-Impressions-Again-1.jpg){width=500}
 >>\>FiR Radon 6
 >>In honor of that gimmicky kilopos i will bring out a budget pos that has similar design: Raptgo Bridge.
 >>Stock tuning of Bridge has always been pretty off-kilter for me, but at least it's interesting to listen to for a short session lol
