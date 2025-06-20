@@ -430,7 +430,7 @@ Improvement over the OG Blue in terms of resolution. Still very bright, with pea
 
 >Anon who posted about zero red got me curious about an actual comparison between them and deep insertion gateymotics. I have both right next to me so screw it.
 >…Used this song because there’s tons of crap going on and lots of layers between frequencies(I-i s-swear Im not a weeb senpai)
->(https://youtu.be/Atvsg_zogxo?si=YG96OfSVHFidDw-R)
+>[https://youtu.be/Atvsg_zogxo?si=YG96OfSVHFidDw-R](https://youtu.be/Atvsg_zogxo?si=YG96OfSVHFidDw-R)
 >\>zero red
 >typical very well balanced IEM sound off the bat. The vocals and instruments sound a bit more distant. In isolation I can’t really tell but vs gateymotics or most headPOS I can detect there is definitely a lower mids tuck because the heft and weight is not as much. Doesn’t sound bad at all. The treble sounds well tuned but there’s some small peaks and dips in there, >probably around the resonance peak around 7khz.
 >\>gateymotics
@@ -609,11 +609,11 @@ Would recommend.
 >>>both sets are fuckin tiny too compared to a lot of other standard resin shell iems. very lightweight.
 >>>
 >>>songs played for each listen:
->>>[https://youtu.be/yogEDUqThvc?si=ntebjc559Su29YBq]
->>>[https://youtu.be/q0IIT2iNeKw?si=6UAaaVcff_K9JS0W]
->>>https://youtu.be/iJ6nV_mLDDI?si=DjqUbkw89Z5rJKge
->>>https://youtu.be/Dy84IoYITxk?si=0TBqT9LKLStnfCMy
->>>https://youtu.be/5nC_10HjX0U?si=Vmoyz-hROob9Jmfm
+>>>[https://youtu.be/yogEDUqThvc?si=ntebjc559Su29YBq](https://youtu.be/yogEDUqThvc?si=ntebjc559Su29YBq)
+>>>[https://youtu.be/q0IIT2iNeKw?si=6UAaaVcff_K9JS0W](https://youtu.be/q0IIT2iNeKw?si=6UAaaVcff_K9JS0W)
+>>>[https://youtu.be/iJ6nV_mLDDI?si=DjqUbkw89Z5rJKge](https://youtu.be/iJ6nV_mLDDI?si=DjqUbkw89Z5rJKge)
+>>>[https://youtu.be/Dy84IoYITxk?si=0TBqT9LKLStnfCMy](https://youtu.be/Dy84IoYITxk?si=0TBqT9LKLStnfCMy)
+>>>[https://youtu.be/5nC_10HjX0U?si=Vmoyz-hROob9Jmfm](https://youtu.be/5nC_10HjX0U?si=Vmoyz-hROob9Jmfm)
 
 ***
 ***
