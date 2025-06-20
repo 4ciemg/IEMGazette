@@ -221,7 +221,7 @@ From [8chan.moe](https://8chan.moe/t/res/17869.html).
 *18/04/2025*
 
 From [8chan.moe](https://8chan.moe/t/res/17869.html).
->![](https://i.postimg.cc/bJZ5kfqw/GY-Hi-Fi-67-Cable-Impressions-1.jpg){width=500} ![](https://i.postimg.cc/QtvyqYMk/GY-Hi-Fi-67-Cable-Impressions-2.jpg){width=300}
+>![](https://i.postimg.cc/bJZ5kfqw/GY-Hi-Fi-67-Cable-Impressions-1.jpg){width=400} ![](https://i.postimg.cc/QtvyqYMk/GY-Hi-Fi-67-Cable-Impressions-2.jpg){width=300}
 >GY HiFi-67 received.
 >Great cable, top class handling and memory, and braiding quality is good (not excellent, a bit loose but no excess/misalignment)
 >Ear hooks are also decently stiff, and it's above average thickness for an 8-core cable.
