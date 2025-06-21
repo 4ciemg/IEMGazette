@@ -1,0 +1,377 @@
+
+
+---
+order: -92
+---
+# May 2025
+
+
+***
+***
+## Tanchjim One & KZ ED9 Pro Impressions
+*31/05/2025*
+
+>![](https://i.postimg.cc/W3Dds9S9/Tanchjim-One-KZ-ED9-Pro-Impressions.jpg)
+>Tanchjim One and ED9 Pro with the balanced filter actually sound very similar, I was surprised. Neutral with good bass, and good detail but treble that might bother some.  
+> 
+>The One is sturdy smooth plastic, the ED9 Pro is entirely metal and has sharp edges.  
+>The One has a DSP that lets you change the tuning, the ED9 Pro has threaded nozzles that let you change the tuning.  
+>  
+>They are both a difficult fit; the tips have to be smaller than usual to seal properly.  
+>I would expect the One to last longer because of the removable cable.  
+>Overall I think it's the best budget IEM. I'm glad I didn't get the DSP version because I like the stock tuning.
+>>I might buy the ED9 Pro to measure it, but the detachable cable is turning me off.
+>>>It's almost $10 cheaper than the One, so probably not a bad idea. It would be a better buy if Amazon had it.  
+>>>I have a lot of faith in the One's cable not breaking, but the area around the plug does not look well protected.  
+>>>  
+>>>For "bullet" IEMs the cable joint thing can be a killer. They may have fixed that, since the old ED9s were already broken by this point. It's really like a 10 year old design IEM, but the tonality is improved. They are both pretty balanced sound wise, but after using the correct tips the ED9 probably still has a bit more bass than the One. I like the One's tonality better but at higher frequencies they are pretty much the same.
+
+***
+***
+## Driver Compression (Expansion) Measurements
+*28-29/05/2025*
+
+**Highlight of the month.**
+>![](https://i.postimg.cc/MG6ZpsZ7/Driver-Compression-Expansion-Measurements-1.png)
+>Truth dirty bomb: the much maligned Moondrop Variations, supposedly uniquely flawed due to its changes in FR at different volume levels, actually isn't that unique at all.  
+>Every BA hybrid has this problem, and the Variations aren't even especially bad. The Nova, Hexa, and Tea Pro exhibit comparable levels of the exact same issue, with the Tea Pro being the least severe by a small margin.  
+>All measurements are volume matched at 1KHz, absolute SPL is probably off by 5-10dB but relative SPL is accurate between all measurements.
+>>![](https://i.postimg.cc/qgH4VwZC/Driver-Compression-Expansion-Measurements-2.png)
+>>Dynamics do not have this issue. Origin, Gate and Bunny don't show any signs of compression.
+>>>![](https://i.postimg.cc/bvmyDQdK/Driver-Compression-Expansion-Measurements-3.png)
+>>>Planars are also fine. Timeless and ET142 don't show any compression. The BC in the ET142 also doesn't have this problem, but more likely it's just not doing much in the first place.
+>>>>![](https://i.postimg.cc/D0XnMH5T/Driver-Compression-Expansion-Measurements-4.png)
+>>>>And the most brutal of all, all BA sets. Sad day to be a BAchud...
+>>>>>fucking GRIM jesus  
+>>>>>but in all seriousness, most of these will most likely not be problematic  
+>>>>>still atrocious, and it's not even compression, that shit is driver expansion lmao
+>>>>>>Yeah impact on actual listening is questionable, probably not a big deal. But the myth that the Variations are special in regards to FR changes at different volumes is put to rest.
+
+The exchange continues as replies to the the all BA post, but is put separately to keep image size readable.
+
+>![](https://i.postimg.cc/W3t2Mhkt/Driver-Compression-Expansion-Measurements-5.jpg)
+>What a coincidence, I was just measuring my Orchestra Lite for my review.  
+>Tested it out and yeah it's the same for me here as well. Not ideal but it's a relatively small change relative to the SPL difference. Still cool to look at, I wonder what could be the cause.  
+>62-107, 5dB increments. Top SPL aligned at 1k, bottom at 3k.
+>>Is your coupler SPL calibrated? I'm always afraid to push the volume too high, I usually set my measurement volume by ear.  
+>>Oh also I forgot to mention for each graph I measured with volume reduction digitally in REW, then added back the amount of gain reduced using the SPL offset function to get all the graphs to line up. Aligning SPL using REW would overlook uniform compression across the entire spectrum, but that doesn't seem to be a thing for IEMs either way.
+>>>1k SPL calibrated, last time I calibrated was around a month ago but from my experience there isn't much drifting.  
+>>>All SPL change was done digitally through volume control and Peace. I aligned with REW since I thought it would be limited to a small range, that is until I noticed that there might be variation elsewhere hence why I showed two alignment graphs.
+>
+>>![](https://i.postimg.cc/QN97DMyX/Driver-Compression-Expansion-Measurements-6.jpg)
+>>oratory1990 and his colleagues hypothesized that it was maybe due to BAs being close proximity affecting magnetic field, which the displacement of the drivers would result in higher sensitivity/output there.  
+>>I measured the KZ ZSN which only has 1BA in the nozzle and there doesn't seem to be any compression (65-105)
+>>>![](https://i.postimg.cc/05TwyqT7/Driver-Compression-Expansion-Measurements-7.jpg)
+>>>And same story here with the ZEX.  
+>>>Might continue doing a few more tomorrow.
+>>>>It's because KZ BAs are decorative. They contribute maybe 0.1dB to the FR.
+>>>
+>>>>I wish I still had my magicone so I could test with that. I don't trust KZ BAs.
+>>>>>![](https://i.postimg.cc/0yxK702Q/Driver-Compression-Expansion-Measurements-8.jpg)
+>>>>>Here you go, a bit less of an effect to the Orch Lite.
+
+
+***
+***
+## So many ARTTI R6s
+*29/05/2025*
+
+I won't even bother with this, just check [here](https://desuarchive.org/g/thread/105413894/#105420114)
+
+
+***
+***
+## Bullet IEM Ranking
+*28/05/2025*
+
+
+>I'm switching back to bullet shape IEMs. After my good experience with the ED9 Pro (knowing that the cable will break), I bought a Tanchjim One Non-DSP just because it has the detachable cable. I'm just hoping to alleviate the poor cable quality that plagues these.  
+> 
+>I do think the smaller drivers have a different feel, usually they have a more extended upper treble.  
+>  
+>1. KZ ED9 Pro (balanced nozzle)  
+>2. Moondrop Spaceship (most comfortable for side sleep)  
+>3. KZ ED9 (cable doesn't last and nozzle turns green)  
+>4. Moondrop Quarks (cable gets brittle but still works)  
+>5. KZ Ling Long  
+>6. Tanchjim Zero (No bass and cable breaks quickly)  
+>7. Tin T2 (extremely dark sounding, maybe bad QC?)
+
+
+***
+***
+## Insertion Depth Change Explanation
+*27/06/2025*
+
+>![](https://i.postimg.cc/YqQm4s7Z/Insertion-Depth-Change-Explanation-1.png)
+>Is the deep-insertion measurement anon here? I'd really like to know whether the boost of fundamental frequencies on deep insertion stops at some point, or if the deeper the insertion, the more those frequencies will be boosted. If it stops at some point, this would confirm my hypothesis that only deep-insertion provides perfect seal, and what others usually call 'good seal' with single flange tips is actually just mediocre seal, which means they have to apply some sort of bass-boost on top of the diffuse-field target (i.e., a lowshelf or tilt) to compensate for the not-perfect seal. Maybe I'm completely wrong, but to me, triple flange + diffuse field just sounds so good; but maybe this is really just a conicidence.
+>>\>I'd really like to know whether the boost of fundamental frequencies on deep insertion stops at some point, or if the deeper the insertion, the more those frequencies will be boosted.  
+>>If you're talking about the small boost across the whole frequency range, then theoretically yes it should increase as long as you increase the insertion depth.  
+>>For front vented IEMs, the increase only happens above the vent's res. freq., so usually around 50 to 150 Hz.  
+>>\>If it stops at some point, this would confirm my hypothesis that only deep-insertion provides perfect seal, and what others usually call 'good seal' with single flange tips is actually just mediocre seal, which means they have to apply some sort of bass-boost on top of the diffuse-field target (i.e., a lowshelf or tilt) to compensate for the not-perfect seal.  
+>>This effect is unrelated to seal/leakage, it is a matter of changing the front volume between the IEM and eardrum, and consequences related to the front vent.  
+>>\>which means they have to apply some sort of bass-boost on top of the diffuse-field target (i.e., a lowshelf or tilt) to compensate for the not-perfect seal.  
+>>The increase in SPL across the whole frequency range is very minimal even when changing the insertion depth by +3 kHz (we're talking about 2.5 dB at best), and if you consider the minimal effect on bass for front vented IEMs, the explanation is in my opinion not substantiated enough to explain the much higher bass boosts that we see in many targets.  
+>>Higher insertion depth does in many cases lower SPL at higher frequencies, resulting in an overall FR tilt, which probably matches your preference.
+
+The exchange goes on, read starting [here](https://desuarchive.org/g/thread/105402525/#105405780).
+
+
+***
+***
+## Another mass impressions list that I have to slave away to format properly thanks a lot anon
+*24-12/05/2025*
+
+>![](https://i.postimg.cc/mg8kCx5X/Another-mass-impressions-list-that-I-have-to-slave-away-to-format-properly-thanks-a-lot-anon-1.png)
+>Small blogpost today  
+>  
+>\>Topping A90D + D90 III Sabre  
+>A90D was decent for driving the Duality, subbass hits hard but decay could’ve been better controlled. In terms of driving power it’s better than the Aune and TA-32 at least.  
+>But overall tonality was quite lean, the leading-edge borders on being sibilant – really affected female vocals. On faster tracks the timbre issue is less noticeable.  
+>  
+>Just from personal experience Topping builds amps that measure good but don’t sound good. But for $600 I ain’t gonna complain. Pairing the A90D with a warmer R2R like the LAiV Harmony could be worth exploring.  
+>  
+>\>Moondrop Kadenz  
+>Warm neutral. Midbass is more prominent than subbass. Female vocals remain pronounced. Initially treble sounded splashy and lacked separation, but swapping tips to the Dunu SS and getting a deeper insertion remedied the issue. Now the treble is properly resolving, but the Kadenz could still use more air.  
+>  
+>Overall no glaring flaws (except for the shell, see next post), the Kadenz is a step-up from the Zero:Red (+10 ohm). 8/10.  
+>  
+>\>Moondrop Pavane  
+>EXTREMELY mid-centric, treble and bass are non-existent. Tried my best to get a proper fit but the Pavane just doesn’t sit right in my ears. Pressing them against my ears creates a more mid-bassy signature, but the treble situation doesn’t improve.  
+>  
+>IMO the metal shell of the Pavane is simply too heavy; the weight causes my antitragus/earlobe to sag, so the Pavane could never align to my auditory canal. I’d choose the Aful Polarnight over this. 1/10.
+>>![](https://i.postimg.cc/x10qXjtN/Another-mass-impressions-list-that-I-have-to-slave-away-to-format-properly-thanks-a-lot-anon-2.png)
+>>The shell for the Kadenz is stupidly uncomfortable because the geniuses at Moondrop decided that a metal shell needed to be sharp and angular like a morningstar. That protruding edge kept fucking up the ridge of my ears.
+>
+>>\>dac amp cultist  
+>>Retard
+>
+>>Thanks for reviews, Mr. Head-Fi.
+
+Here's his search for sources.
+
+>![](https://i.postimg.cc/zfQf2C5T/Another-mass-impressions-list-that-I-have-to-slave-away-to-format-properly-thanks-a-lot-anon-3.png)
+>Still searching for a desktop stack, part 1:  
+>  
+>\>Benchmark AHB2 + Sonnet Pasithea  
+>No noise floor for IEMs.  
+>Timbre is a little dry but it’s not as harsh sounding as the Topping A90D and Ferrum Oor. Able to drive the Duality comfortably – but bass decay doesn’t sound as tight as on the Bliss. The Pasithea is okay – but coupled with the dryness of the Benchmark the entire stack leans a little bright. With HQPlayer I’d imagine the tonality is only going to get leaner.  
+>  
+>\>Zahl HM1 + Matrix X2 Pure  
+>Reference neutral, Zahl’s tonality is right between the Mass-kobo (warm) and Benchmark (dry). Driving power is excellent, the bass on the Duality is fast-hitting without becoming too ‘slammy’ like on the Bliss. The spatial (or soundstage) knob works, but it also robs the body and warmth in vocals.  
+>  
+>However, there are some annoying aspects to the sound – the Zahl has this really dark sonic background, which is achieved by preemptively cutting off the airiness and decay in music. It really helps in separation and imaging, but it also makes tracks sound less lively. It reminded me of the Enleum HPA-23RM, another zero-feedback amp just like the Zahl.
+>>![](https://i.postimg.cc/zfvBktmJ/Another-mass-impressions-list-that-I-have-to-slave-away-to-format-properly-thanks-a-lot-anon-4.png)
+>>Part 2:  
+>>  
+>>\>Hidition Viento R (in ‘Viento B’ config)  
+>>Bootleg Elysian Diva with no bass switch. Also, there’s an annoying resonance peak which I cannot remedy using Coriers, Dunu S&S, etc.  
+>>The Viento does female vocals well but I’ve heard better, in terms of vocals ranking it’s gotta be: Starry Syzygy > 7A Asteria > Starry Yozora > Verdandi > Diva >= Viento > Mystic 8 > DX1.  
+>>  
+>>The Viento B is cheaper than the Diva so it’s worth considering, I guess. But I wouldn’t risk doing a CIEM because of the resonance peak. 5/10.  
+>> 
+>>\>Rossi&Wing Synchronicity  
+>>Mild bright V. Like a less vocal-forward, but airier Orchestra Lite. Tight mid-bass and coherent lower-mids that doesn’t suffer from bass bloom or tranny tuck. However treble is wispy and very pronounced, which ruins the overall tonality of the set.  
+>> 
+>>I’m a huge fan of this brand because Rossi&Wing pos are tuned so bad that it wraps around to being good. But this time it seems like they decided to go for a more orthodox chifi tuning and created a soulless sounding set. 3/10.  
+>>
+>>\>Rossi&Wing Serendipity  
+A mini First Light (their $7700 flagship). Grand concert-hall sounding kino. Do not use this pos for weebshit because you ain’t hearing w\*men on this set. The Serendipity has the same mid-bassy, warm-dark signature like the First Light and is specially tuned for classical and orchestral. Extremely thick and warm mids – vibrato on low register instruments like the cello sounds incredible.  
+>>  
+>>Wind and string instruments can sometimes get shouty on chifi pos with more orthodox tunings (see: [https://www.youtube.com/watch?v=3EDQBeRx0Iw](https://www.youtube.com/watch?v=3EDQBeRx0Iw)). The Rossi&Wing Serendipity remedies that altogether.  
+>> 
+>>Classical/orchestral/instrumentals: 10/10.  
+>>Everything else: 1/10.
+
+Even more.
+
+>![](https://i.postimg.cc/j2HdjBfh/Another-mass-impressions-list-that-I-have-to-slave-away-to-format-properly-thanks-a-lot-anon-5.png)
+>Spent the last 2 weeks auditioning headphones, so not much iem impressions:  
+> 
+>\>EBT EarrBond Metal tips (Stainless Steel and Copper)  
+>Both EarrBond variants sound like medium bores (Acoustune AET07), but better-fitting. Comparing the two EarrBonds, the Copper variant is slightly warmer with minimal treble “zinginess” from its metal coating. Meanwhile Stainless Steel variant is straight up brighter with a similar coloration to the Pentaconn Coriers AL.  
+>
+>Objectively speaking the EBTs are overpriced, however they are the only foam-hybrid-metal tips on the market – a gimmick that isn’t to the detriment of sound quality unlike the Shanling SE100 which I received yesterday.  
+>  
+>\>Lime Ears Incognita  
+>Harman-adjacent tuning. Compared to the Lime Ears Terra, the Incognita is more mid-bassy/warm, with a smoother treble response. Mids on the Incognita sounds more filled-in than other stock Harman sets. Also, the treble resonance issues on the Terra are completely absent on the Incognita.  
+>  
+>However, the Incognita is quite tip-dependent, Spinfit CP100+ or W is a must. Using stock medium-bores causes a surprisingly amount of bass bleed into the mids.  
+>  
+>People say that the Chopin has “better mids” than stock Harman sets like the Supermix 4 / Nova. Well, the Incognita is another step-up over that. Only flaw is its poor subbass extension. 9/10.
+
+
+***
+***
+## Shanling SE100 & Symbio W New Impressions
+*18-19/05/2025*
+
+>![](https://i.postimg.cc/X76r0k58/Shanling-SE100-Symbio-W-New-Impressions.png)
+>Adding new tips to my collection:  
+>\>Shanling SE100  
+>Good fit, silicone material is grippy, looks and feels exactly like the Softears UC.  
+>
+>Sound: Very bright-sounding tip, it's a wide bore so you naturally lose some bass presence. But female vocals and treble also get a slight metallic or glassy sheen to it.  
+>  
+>Imo not worth getting. These tips are prob meant for shifting the resonance in extremely sibilant iems but naturally you wouldn't buy those sets in the first place. These Shanling tips do behave like the more expensive Pentaconn Coriers, but the treble coloration on the coriers isn't this egregious.  
+> 
+>\>Symbio W (new design from last year)  
+>Great fit (more so than the SE100), as expected from foam tips.  
+>Sound: Surprising amount of bass despite looking like a wide bore, it sounds exactly like an acoustune aet07.  
+> 
+>Imo no complaints on fit and sound, but from picrel the symbios already look mildly deformed from 15 minutes of rough-handling, and they don't seem to be reverting back to normal. I'd seriously worry for the longevity of these tips considering they are so costly. Buy only if you're rich I guess. 
+>>waiting for Sancai Nobles
+>>>that, and the Eletech Baroque Stage tips which is bundled with the Forte Ears Mefisto.
+
+
+***
+***
+## Mass Earbuds Impressions
+*18-19/05/2025*
+
+>![](https://i.postimg.cc/PJYNwPgY/Mass-Earbuds-Impressions.jpg)
+>Got some "high end" buds.  
+>NiceHCK EBX25Ti ($329)  
+>\>Solid metal build, heavy. Cables are detachable, only comes with a 3.5mm. Comes with zipper puck case, regular foams, and donut foams.  
+>\>Fit is decent, but doesn't really lock into the ear for me.  
+>\>Balanced sound, moderately bright leaning and bass light. Similar to the EB2S pro but with more tonally correct mids. Some boxiness still is present. Smooth and detailed treble.  
+>Aful PolarNight ($180)  
+>\>Nicest looking earbuds I've seen, resin outer stem and metal driver housing. Cables are detachable, comes in 3.5mm and 4.4mm. Comes with case and only donut foams.  
+>\>Fits better than the EBX25Ti but still worse than MX500 style shells.  
+>\>Mildly V shaped sound signature with forward upper mids. Decent bass for an earbud, doesn't bleed into the mids that much and only a few minor annoyances in the high treble.  
+>Dunu Alpha 3 ($80)  
+>\>Metal build, fixed cable with modular termination. Comes with case, foams, and mesh nutsack.  
+>\>Average fit, similar to the Aful.  
+>\>Slightly muddier than the above two, upper bass focused with little sub-bass. The treble sounds a bit hashy and slightly recessed but no harshness, mids are less boxy than the EBX25Ti. "Lower >res" sounding than the above two.  
+>Fiio FF5 ($140)  
+>\>Metal build, detachable and modular cable. Comes with case, regular and donut foams, and silicone rings.  
+>\>Mediocre fit, slightly worse than above three.  
+>\>Bassiest of the group, but also the muddiest. Darkish midbass centric sound. Treble quality isn't bad, just recessed.  
+>Fiio FF3S ($120)  
+>\>Similar build and same accessories as the FF5 except with a shitty lego case.  
+>\>Similar fit to FF5.  
+>\>Darkest of the group, lower mids centric. Like the FF5 but without the bass.  
+>Overall I like the PolarNights the best, it's as good an all-rounder as earbuds can be. I'm satisfied at this point, so I probably won't be buying any more earbuds but I will conduct some stress tests later on Vidos to see how much sub-bass they can produce before exploding.
+>>\>Aful PolarNight  
+>>Alright close enough to my Canjam impressions. Now I feel vindicated. God bless buds anon
+>
+>>all mogged by blue vido
+
+
+***
+***
+## Anon's Will
+*10-11/05/2025*
+
+>It is over. I have tinnitus. Leaving this dogshit ""hobby""
+>>deafzo nooo
+>
+>>\>buys simgot  
+>>\>gets tinnitus  
+>>we tried to tell you...
+>>>It was ducking COOMDROP
+>>>>gold kino, deserves to show up in the gazette
+
+Agreed, very well crafted.
+
+
+
+
+***
+***
+## I wholeheartedly agree!
+*09/05/2025*
+
+>Hard to swallow facts for the average /iemg/tard:  
+>\>BA is better than DD  
+>\>Planar is better than DD  
+>\>Hybrids are better than single DD  
+>\>Cables affect sound  
+>\>Balanced connection is inherently better  
+>\>Money is directly proportional with sound quality  
+>\>KZ is the face of the IEM world because they're incredibly good  
+>\>Foam tips are the best  
+>\>Techs exist and make or break an IEM  
+>\>Harman target will forever be the best target  
+>\>Crinacale is always right  
+>\>Sharur was always right  
+>\>EQ is pure cope  
+>\>You owe your entire livelihood to the Chinese
+>>posted it again award
+>
+>>Mega bait
+>
+>>true x14
+>
+>>It's like scoring 0/100 on a test. You have to know the answers to fail that badly.
+
+
+
+
+***
+***
+## Average /iemg/ poster
+*06-07/05/2025*
+
+Good one anon, but I'm a buff chad / petite e-girl.
+>![](https://i.postimg.cc/Px85gCr9/Average-iemg-poster-1.jpg)
+>average /iemg/ poster
+>>\>"hey I'm wearing one of those right now!"  
+>>-dilator users in here noticing others on their dilators
+>
+>>What's ?e holding? Looks like legos.
+>>>looks like warhammer shit, we lost bros
+>
+>>This but more brown
+>>>![](https://i.postimg.cc/mkfgBTPD/Average-iemg-poster-2.jpg)
+>>>the needful has been done sir
+>
+>>foxzo...
+>>>![](https://i.postimg.cc/9XZf1wkq/Average-iemg-poster-3.jpg)
+>>>Fox ears > cat ears
+>>>>Are you a troon? /iemg/ is a trans inclusive space, so feel free to come out. We already have troonzo after all.
+>>>>>bro go /b/ all ur posts are about troons
+>>>>>>Can you repeat that in English?
+>>>>>>>bro go to /b/ all ur posts are about troons
+>>>>>>>>No thanks, I'm here to defend trans rights from bigot chuds on behalf of our two heckin valid troons, troonzo and trannyfox.
+>
+>>looks like the guy who tried to kill trumpzo
+>
+>>Zesty af made for rimjobs
+>
+>>ywnbaw
+
+***
+***
+## I don't know I'm just putting random shit at this point it's been two threads without anything and this is better than anything I've seen and I have no hope for any other article I'm at my wits end I want to be free 
+*03/05/2025*
+
+>REMINDER TO REDEEM YOUR EDC PRO BEFORE THE TARIFFS COME INTO PLAY  
+>\>FASTEST DRIVER  
+>\>STATE OF THE ART DISTORTION-FREE DRIVER  
+>\>EXCELLENT ACCESSORIES  
+>\>SCIENTIFICALLY DEVELOPED SHELL  
+>\>EXTREMELY CHEAP PRICE  
+>\>DESIGNED TO BE VERY EASY TO EQ  
+>\>OPTIMAL DECAY AND RESONANCE RESPONSE  
+>\>IMPECCABLE CHANNEL MATCHING  
+>\>POWERFUL TIGHT BASS  
+>\>CREATED WITH NATURAL TIMBRE IN MIND  
+>\>GORGEOUS FACEPLATE  
+>\>INTERNAL VOLUMES AND VENTS DESIGN THROUGH MDO  
+>\>PATENTED STABLE CONNECTORS  
+>\>COMPATIBLE WITH MANY CABLES AND TIPS
+>>Editor here  
+>>I approve of this message!
+>
+>>EQ Guide Anon here  
+>>I suck dicks down to balls
+>
+>>Shopping Guide Anon here  
+>>What are tariffs?  
+>>\>t. from Brazil
+>
+>>thank you ranjeet  
+>>please proceed to redeem the 5 yuan transferred to your bharatbank account
+>
+>>based af
