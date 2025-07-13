@@ -9,6 +9,13 @@ Everything music in iemg.
 
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released album/single is welcome to. After a loose and brief quality check, it will be added to the gazette. A lossless download of the album/single is a possible future feature. The album image links to the YouTube release if available.
 
+***
+## JACKBOYS 2 - JACKBOYS & Travis Scott (13/07/2025)
+
+*13/05/2025*
+
+![](https://m.media-amazon.com/images/I/81JqH0jbOWL.jpg){width=400}
+Recycled reheated throwaways from a group of mediocre artists looking to scrape something together despite not having anything new to offer. The first popular AI generated album, and it's not even AI.
 
 ***
 ## Fancy That - PinkPantheress (09/05/2025)
