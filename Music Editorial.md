@@ -10,6 +10,14 @@ Everything music in iemg.
 Anyone that wants to review, give impressions, or simply recommend (or not) a newly released album/single is welcome to. After a loose and brief quality check, it will be added to the gazette. A lossless download of the album/single is a possible future feature. The album image links to the YouTube release if available.
 
 ***
+## God Does Like Ugly - JID (08/08/2025)
+
+*07/08/2025*
+
+![](http://m.media-amazon.com/images/I/81YQD3Um4kL.jpg){width=400}
+The first half of the album points to a gritty technical display of JID's skill, but then transitions to an unexpected slow and smooth section that feels a bit a bit jarring with tracks and instrumentals that don't highlight JID's strength; in turn, the album is divided into three distinct parts, and this one stretches out a bit too long. The energy picks back up for the last few tracks, but not to the degree of the first part. The album is filled with good tracks, but something about the tracklist and flow of it makes it feel clunky and misproportioned.
+
+***
 ## JACKBOYS 2 - JACKBOYS & Travis Scott (13/07/2025)
 
 *13/05/2025*
