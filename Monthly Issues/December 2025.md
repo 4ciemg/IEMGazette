@@ -11,7 +11,7 @@ order: -85
 
 >I'm so tired bros
 >spent over 1k on audiophile shit
->realized y'all were telling the truth with eq is all that is needed on a $5 shitbud, I then proceed to buy said \$5 shitbud and eq it to perfection only to realize it's suffering from massive channel imbalance and now I need to spend 120$ on a channel balancer? are you fucking kidding me, I'm so exhausted.
+>realized y'all were telling the truth with eq is all that is needed on a $5 shitbud, I then proceed to buy said \$5 shitbud and eq it to perfection only to realize it's suffering from massive channel imbalance and now I need to spend 120\$ on a channel balancer? are you fucking kidding me, I'm so exhausted.
 >Also why the fuck didn't any of you tell me hybrids have insane amounts of distortion, it's disgusting after paying $500 for these sets and they have more distortion than my dad's shitty civics speakers.
 >my cheap single DD's have less distortion but then they are fucking varied by 10-20 decibels, it's all so tiresome bros, I just wanted good audio.
 >>based consooomer just buying more shit
