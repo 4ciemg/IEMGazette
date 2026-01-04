@@ -5,7 +5,7 @@ icon: log
 
 # Changelog
 
-## Higher Quality Threshold 
+## I'm back
 *01/2026*
 I am back! Here's to another amazing year of /iemg/!
 
